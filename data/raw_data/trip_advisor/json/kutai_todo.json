@@ -1,0 +1,2172 @@
+[{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/28/6f/7d/1c/caption.jpg",
+  "location_id": "25373590",
+  "name": "Rice harvest festival & nutuq bahamp 2023",
+  "num_reviews": "0",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/6f/7d/1c/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/6f/7d/1c/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1132",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/6f/7d/1c/caption.jpg",
+        "height": "755"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/28/6f/7d/1c/caption.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/6f/7d/1c/caption.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2023-03-12T00:05:02-0500",
+    "caption": "",
+    "id": "678395164",
+    "helpful_votes": "0",
+    "published_date": "2023-03-12T00:05:02-0500",
+    "user": null
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/25373590",
+  "awards": [],
+  "location_subtype": "tour_operator",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "An annual festival featuring a variety of cultures and attractions for the people of Tanjung Benuaq starting from dances, culinary arts, craft workshops, performances, traditional game competitions and many other exciting activities 18-19 March 2023",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d25373590-Reviews-Rice_harvest_festival_nutuq_bahamp_2023-Kutai_Kartanegara_East_Kalimantan_Kali.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d25373590-Rice_harvest_festival_nutuq_bahamp_2023-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "42",
+      "name": "Tours"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "machine_translated": false,
+  "phone": "+628115555651",
+  "website": "http://www.travelersborneo.com",
+  "email": "travelersborneoindonesia@gmail.com",
+  "address_obj": {
+    "street1": "KH.samanhudi",
+    "street2": null,
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75119"
+  },
+  "address": "KH.samanhudi, Kutai Kartanegara 75119 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "225",
+      "name": "Cultural Tours"
+    },
+    {
+      "key": "287",
+      "name": "Day Trips"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/26/f0/34/45/pantai-biru-kersik.jpg",
+  "location_id": "19757926",
+  "name": "Biru Kersik Beach",
+  "num_reviews": "2",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/f0/34/45/pantai-biru-kersik.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/f0/34/45/pantai-biru-kersik.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "940",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/f0/34/45/pantai-biru-kersik.jpg",
+        "height": "788"
+      },
+      "large": {
+        "width": "537",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/f0/34/45/pantai-biru-kersik.jpg",
+        "height": "450"
+      },
+      "medium": {
+        "width": "245",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/f0/34/45/pantai-biru-kersik.jpg",
+        "height": "205"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2022-11-20T03:20:50-0500",
+    "caption": "Pantai Biru Kersik",
+    "id": "653276229",
+    "helpful_votes": "0",
+    "published_date": "2022-11-20T03:20:50-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/19757926",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7929584980010986",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "3",
+  "ranking_denominator": "9",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 9 things to do in Kutai Kartanegara",
+  "subcategory_ranking": "#3 of 9 things to do in Kutai Kartanegara",
+  "ranking": "#3 of 9 things to do in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d19757926-Reviews-Biru_Kersik_Beach-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d19757926-Biru_Kersik_Beach-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 812-4236-8478",
+  "website": "http://kersik.com",
+  "address_obj": {
+    "street1": "Jl. Kersik",
+    "street2": "Santan Ilir, Marangkayu, Marang Kayu",
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75385"
+  },
+  "address": "Jl. Kersik Santan Ilir, Marangkayu, Marang Kayu, Kutai Kartanegara 75385 Indonesia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Jakarta"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "52",
+      "name": "Beaches"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Pantai Biru di Desa Wisata Kersik",
+      "text": "Beberapa keindahan di pantai ini terlihat dari deburan ombak yang tenang, pasir yang bersih, pondok dan warung yang berjejer di sepanjang pantai serta jembatan yang menjorok ke laut yang dihiasi lampu-lampu indah dan tulisan-tulisan unik yang menambah nuansa hangat di malam hari dan terdapat spot foto yang instagramable di pantai ini",
+      "publishedDate": "2022-11-19T22:21:21-05:00",
+      "rating": "5",
+      "travelDate": "2022-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Viewnya ajib",
+      "text": "Transport bisa langsung ke bibir pantai, banyak warung & gazebo, tiket masuk murah meriah, toilet tersedia, suasananya adem",
+      "publishedDate": "2020-10-01T20:30:15-04:00",
+      "rating": "5",
+      "travelDate": "2020-10",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/0e/83/aa/sunset-di-danau-semayang.jpg",
+  "location_id": "21128860",
+  "name": "Desa Pela",
+  "latitude": "-0.245672",
+  "longitude": "116.53466",
+  "num_reviews": "2",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/0e/83/aa/sunset-di-danau-semayang.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/0e/83/aa/sunset-di-danau-semayang.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/0e/83/aa/sunset-di-danau-semayang.jpg",
+        "height": "853"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/0e/83/aa/sunset-di-danau-semayang.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/0e/83/aa/sunset-di-danau-semayang.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2020-09-22T19:58:20-0400",
+    "caption": "Sunset di Danau Semayang",
+    "id": "470713258",
+    "helpful_votes": "0",
+    "published_date": "2020-09-22T19:58:20-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/21128860",
+  "awards": [],
+  "location_subtype": "tour_operator",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7601447105407715",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "1",
+  "ranking_denominator": "2",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 2 Boat Tours & Water Sports in Kutai Kartanegara",
+  "subcategory_ranking": "#1 of 2 Boat Tours & Water Sports in Kutai Kartanegara",
+  "ranking": "#1 of 2 Boat Tours & Water Sports in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d21128860-Reviews-Desa_Pela-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d21128860-Desa_Pela-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "42",
+      "name": "Tours"
+    },
+    {
+      "key": "55",
+      "name": "Boat Tours & Water Sports"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 813-4724-3689",
+  "website": "http://www.facebook.com/pokdarwis.pela",
+  "address_obj": {
+    "street1": "Kecamatan Kota Bangun",
+    "street2": "",
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75561"
+  },
+  "address": "Kecamatan Kota Bangun, Kutai Kartanegara 75561 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "199",
+      "name": "Waterskiing & Jetskiing"
+    },
+    {
+      "key": "187",
+      "name": "Boat Rentals"
+    },
+    {
+      "key": "188",
+      "name": "Dolphin & Whale Watching"
+    }
+  ],
+  "animal_welfare_tag": {
+    "tag_text": "Features Animals",
+    "msg_header": "This attraction features animals",
+    "msg_body": "Click below for expert advice on animal welfare in tourism.",
+    "learn_more_text": "Learn more",
+    "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+  },
+  "tags": {
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    }
+  },
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Desa nelayan yang recomended untuk di kunjungi",
+      "text": "Desa nelayan yang kini ramai di kunjungi wisawatan, bahkan dari luar daerah & luar negeri. Pengunjung bisa mencoba beberapa aktifitas nelayan, Ibu - ibu membersihkan ikan, membuat ikan asin & kerupuk. Kalo udah sore, Tanjung Tamannoh merupakan spot terbaik untuk menikmati sunset. Dan terakhir, kalo kamu beruntung, bisa melihat kemunculan Pesut Mahakam (Lumba - lumba air tawar sungai mahakam) di sekitar sungai pela",
+      "publishedDate": "2020-09-22T16:00:04-04:00",
+      "rating": "5",
+      "travelDate": "2020-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Spot terbaik untuk menunggu Lumba - Lumba sungai mahakam, Pesut Mahakam",
+      "text": "Merupakan Desa Nelayan, yang sekarang terkenal dengan wisata nya. Bisa santai di Tanjung Tamannoh untuk melihat sunset di Danau Semayang, memancing, membuat krupuk, ikan asin / asap, serta jika anda beruntung, akan melihat Pesut Mahakam (Lumba - lumba Air Tawar Sungai Mahakam) yang langka",
+      "publishedDate": "2020-07-14T15:43:41-04:00",
+      "rating": "5",
+      "travelDate": "2019-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1c/46/ff/d0/permainan-traditional.jpg",
+  "location_id": "21127810",
+  "name": "Kedang Ipil",
+  "latitude": "-0.427824",
+  "longitude": "116.61996",
+  "num_reviews": "1",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/46/ff/d0/permainan-traditional.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/46/ff/d0/permainan-traditional.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1086",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/46/ff/d0/permainan-traditional.jpg",
+        "height": "724"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/46/ff/d0/permainan-traditional.jpg",
+        "height": "683"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/46/ff/d0/permainan-traditional.jpg",
+        "height": "367"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2020-11-04T19:42:54-0500",
+    "caption": "Permainan Traditional Behempas",
+    "id": "474415056",
+    "helpful_votes": "0",
+    "published_date": "2020-11-04T19:42:54-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/21127810",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7601447105407715",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "6",
+  "ranking_denominator": "9",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#6 of 9 things to do in Kutai Kartanegara",
+  "subcategory_ranking": "#6 of 9 things to do in Kutai Kartanegara",
+  "ranking": "#6 of 9 things to do in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "open_now_text": "Closed Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d21127810-Reviews-Kedang_Ipil-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d21127810-Kedang_Ipil-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 852-5005-9864",
+  "website": "http://www.facebook.com/Desa-wisata-kedang-ipil-368063350633010",
+  "address_obj": {
+    "street1": "Simpang Merai",
+    "street2": null,
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75561"
+  },
+  "address": "Simpang Merai, Kutai Kartanegara 75561 Indonesia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ],
+      [
+        {
+          "open_time": 480,
+          "close_time": 1020
+        }
+      ]
+    ],
+    "timezone": "Asia/Jakarta"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "83",
+      "name": "Biking Trails"
+    },
+    {
+      "key": "88",
+      "name": "Motorcycle Trails"
+    },
+    {
+      "key": "95",
+      "name": "Waterfalls"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Warganya ramah - ramah",
+      "text": "Aksesnya masih kombinasi Jalan Tanah berbatu, ada semenisasi di beberapa desa yang di lewati. Di Desa Kedang Ipil, warganya ramah - ramah, tiket masuknya murah meriah, bisa jalan kaki atau sewa ojek ke Air Terjun Kandua Raya & Putang. Ada warung yang menjual makanan & minuman ringan, cindera mata serta Gula merah yang bisa di bawa pulang. Ada Festival Budaya setiap tahunnya. Homestay tersedia buat yang ingin menginap. Ada Paket Welcome Dance jika ada permintaan.",
+      "publishedDate": "2020-07-14T14:53:55-04:00",
+      "rating": "5",
+      "travelDate": "2019-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/28/da/34/img-20190630-062614-largejpg.jpg",
+  "location_id": "17690009",
+  "name": "Tanah Merah Beach",
+  "latitude": "-1.04894",
+  "longitude": "117.10142",
+  "num_reviews": "1",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/28/da/34/img-20190630-062614-largejpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/28/da/34/img-20190630-062614-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1224",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/28/da/34/img-20190630-062614-largejpg.jpg",
+        "height": "1224"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/18/28/da/34/img-20190630-062614-largejpg.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/28/da/34/img-20190630-062614-largejpg.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2019-07-02T18:59:06-0400",
+    "caption": "",
+    "id": "405330484",
+    "helpful_votes": "1",
+    "published_date": "2019-07-02T18:59:06-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/17690009",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7435896396636963",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "8",
+  "ranking_denominator": "9",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#8 of 9 things to do in Kutai Kartanegara",
+  "subcategory_ranking": "#8 of 9 things to do in Kutai Kartanegara",
+  "ranking": "#8 of 9 things to do in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d17690009-Reviews-Tanah_Merah_Beach-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d17690009-Tanah_Merah_Beach-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Tanjung Harapan, Semboja",
+    "street2": null,
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Tanjung Harapan, Semboja, Kutai Kartanegara Indonesia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Jakarta"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "52",
+      "name": "Beaches"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "Camping",
+      "text": "Tanjung harapan or tanah merah beach located at samboja east kalimantan, have large area for camping and many spruce around the beach, suit for outdoor activities like camping, jogging, and hangout with family, friend, or coullague.\nAcsess easy to reach, but some point of road condition have broken. Can acsess with car or motor cycle. Save area for camping cause should be permit to RT chairman and sector police with attach statment letter, copy ID card and materai 6000. Prepare emergency light due to no electric power there.\n",
+      "publishedDate": "2019-07-02T14:59:07-04:00",
+      "rating": "4",
+      "travelDate": "2019-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/1b/8d/f2/55/so-awesome.jpg",
+  "location_id": "21087021",
+  "name": "Rumah Retret Bukit Rahmat",
+  "latitude": "-0.624778",
+  "longitude": "117.06435",
+  "num_reviews": "3",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/8d/f2/55/so-awesome.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/8d/f2/55/so-awesome.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1364",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/8d/f2/55/so-awesome.jpg",
+        "height": "2048"
+      },
+      "large": {
+        "width": "300",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/8d/f2/55/so-awesome.jpg",
+        "height": "450"
+      },
+      "medium": {
+        "width": "137",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/8d/f2/55/so-awesome.jpg",
+        "height": "205"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2020-07-14T18:22:24-0400",
+    "caption": "So awesome ❤️",
+    "id": "462287445",
+    "helpful_votes": "0",
+    "published_date": "2020-07-14T18:22:24-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/21087021",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.773012161254883",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "4",
+  "ranking_denominator": "9",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 9 things to do in Kutai Kartanegara",
+  "subcategory_ranking": "#4 of 9 things to do in Kutai Kartanegara",
+  "ranking": "#4 of 9 things to do in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d21087021-Reviews-Rumah_Retret_Bukit_Rahmat-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d21087021-Rumah_Retret_Bukit_Rahmat-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 813-4507-6660",
+  "website": "http://www.facebook.com/kampoengwisataputak.putak.5",
+  "address_obj": {
+    "street1": "Dusun Putak",
+    "street2": "Desa Loa Duri Ilir, Kecamatan Loa Janan",
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75391"
+  },
+  "address": "Dusun Putak Desa Loa Duri Ilir, Kecamatan Loa Janan, Kutai Kartanegara 75391 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    },
+    {
+      "key": "10",
+      "name": "Sacred & Religious Sites"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Wisata Religi untuk teman - teman kita yang Katolik",
+      "text": "Selain Rumah Retret disini juga ada Goa Maria. Sedangkan untuk di desa Putak ada objek wisata lainnya, yakni Tebing Batu Tapa",
+      "publishedDate": "2020-09-17T14:43:34-04:00",
+      "rating": "5",
+      "travelDate": "2019-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Explore Bukit Rahmat dan Batu dinding",
+      "text": "So Beautiful and Awesome place, Tempat yg sangat cocok untuk Wisata keluarga,Teman maupun pasangan dengan menikmati keindahan Alam yg masih sangat asri ",
+      "publishedDate": "2020-07-10T14:31:44-04:00",
+      "rating": "5",
+      "travelDate": "2020-03",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Wisata religius Goa Maria di Dusun Putak",
+      "text": "Lokasinya cukup mudah di tempuh, melewati dusun putak dan dekat dengan objek wisata Dinding Batu. Ada Goa Maria juga yang biasa di datangi saudara kita yang beragama Katolik",
+      "publishedDate": "2020-07-06T16:44:33-04:00",
+      "rating": "4",
+      "travelDate": "2019-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/f5/f7/0c/photo0jpg.jpg",
+  "location_id": "6598791",
+  "name": "Samboja Lodge",
+  "latitude": "-0.92411",
+  "longitude": "117.20915",
+  "num_reviews": "11",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Margomulyo, Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/f5/f7/0c/photo0jpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/f5/f7/0c/photo0jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2048",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/f5/f7/0c/photo0jpg.jpg",
+        "height": "1536"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/f5/f7/0c/photo0jpg.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/f5/f7/0c/photo0jpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2017-10-13T16:23:59-0400",
+    "caption": "",
+    "id": "284555020",
+    "helpful_votes": "0",
+    "published_date": "2017-10-13T16:23:59-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/6598791",
+  "awards": [],
+  "location_subtype": "tour_operator",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.806597948074341",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "1",
+  "ranking_denominator": "4",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 4 Tours in Kutai Kartanegara",
+  "subcategory_ranking": "#1 of 4 Tours in Kutai Kartanegara",
+  "ranking": "#1 of 4 Tours in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "A new venture for The Borneo Orangutan Survival Foundation (BOSF) is the construction of our Samboja Lodge facility. Here, for the first time, visitors will be able to work closely with us in the many projects currently active in Samboja Lestari in aid of saving our rainforests and the orangutan.",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g15648537-d6598791-Reviews-Samboja_Lodge-Margomulyo_Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g15648537-d6598791-Samboja_Lodge-Margomulyo_Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Margomulyo",
+      "abbrv": null,
+      "location_id": "15648537"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "42",
+      "name": "Tours"
+    }
+  ],
+  "parent_display_name": "Margomulyo",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 821-5133-3773",
+  "website": "http://www.sambojalodge.com",
+  "address_obj": {
+    "street1": "Jl. Balikpapan Handil Km. 44 Kec.",
+    "street2": null,
+    "city": "Margomulyo",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75273"
+  },
+  "address": "Jl. Balikpapan Handil Km. 44 Kec., Margomulyo, Kutai Kartanegara 75273 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "139",
+      "name": "Sightseeing Tours"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "Half day visit to Samboja lodge",
+      "text": "Orangutan and sunbear (and wild macaques)!\n\nThe lodge is located an hour north of Balikpapan, and would be a great place for anyone looking to escape from the rest of the world.  The rough 10 minute drive between the lodge to a paved road makes it feel even more isolated than it is.\n\nThe half day visit was perfect for me -- some time viewing Orangutan (only orangutan that can never be released into the wild), and then a quick drive to the sunbear sanctuary (wild macaques come to avail themselves of the sunbear food), another drive to a view tower with amazing panoramic views, and finally lunch.",
+      "publishedDate": "2019-12-01T08:53:22-05:00",
+      "rating": "5",
+      "travelDate": "2019-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Isabelle (France)",
+      "text": "I came to splendide 3 night-club in Sambodja Lodge because I has read that we could have activities with orangutans (preparing food, making behavioral enrichment, recording observational data). All these informations are written on a brochure that is given to you at arrival at the Lodge. \nIn fact, you are NOT allowed n’y the staff to have these activities, even if you have all documents showing that you are healthy (viral serologies, quantiferon, vaccinations).\nTaken together, I strongly do NOT recommend to stay in Sambodja Lodge. Making a half day visite is highly enough.",
+      "publishedDate": "2019-08-05T16:19:59-04:00",
+      "rating": "1",
+      "travelDate": "2019-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "BOS Foundation - Samboja Lestari",
+      "text": "Samboja Lestari is situated about one hours drive from Balikpapan in East Kalimantan. It is a reforested area run by the Borneo Orangutan Survival Foundation.(BOSF) I went there on a 2 week volunteer program with the Great Projects. I can only speak very highly of both the staff and the work being done here.  There are both orangutans and sun bears at the sanctuary. Volunteer work includes making enrichment items, construction, husbandry and maintenance.  Volunteers stay in Samboja Lodge which is more than comfortable. The rooms are air conditioned. The dining area is open air and delicious buffet meals are available. They also cater for special dietary requirements. One of the highlights was the lookout above the lodge which gives a 180 degree view over the forest. There are often long tail macaques in the surrounding trees. Orangutans are also in view and the long call from many males can be heard especially in the early evening. A cool breeze provided some escape from the constant humidity.  The lodge staff are very friendly and helpful.  The volunteer program is extremely well organised and the staff are exceptional.  There are a number of trips included to visit a primary rainforest, a night market and a sunset cruise on Black River. Proboscis monkeys were plentiful.  The champions of course are the orangutans - unique and beautiful. Some of the rescue stories are heart wrenching but ultimately many of these great creatures are nursed back to health, rehabilitated and released back into the wild in protected areas.  This is one of those life experiences that is unforgettable.  The staff are  passionate, caring and also fun. If not volunteering a visit to Samboja is worth at least 2 or 3 days. One day is not sufficient.You will need sunblock, insect repellent and sturdy walking boots.  A camera is a given preferably with a telephoto lens. Nearby Balikpapan is worth a visit - ocean side restaurant and market are worth a look.  Note: there is no swimming pool at the lodge.",
+      "publishedDate": "2019-02-11T16:27:43-05:00",
+      "rating": "5",
+      "travelDate": "2018-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Daily visit at Samboja Lodge",
+      "text": "Its nice to see the orangutan and sunbear closer to Balikpapan. You just take a drive for about 1.5 hours. Its a rehabilitation center in the middle of re forestation. I like to be there. The food was amazing and nice view in the restaurant.   ",
+      "publishedDate": "2018-10-26T16:38:02-04:00",
+      "rating": "3",
+      "travelDate": "2018-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "A REAL ADVENTURE",
+      "text": "My sister and I ( both in our 60s) volunteered at the sanctuary for 7 days. The lodgings, food (so fresh), transportation (rustic at times), and excursions into a preserved rainforest and down a river to view proboscis monkeys were fabulous. This trip was a  Real Adventure...we did so many activites that helped support the orangutans and sunbears. These beautiful animals certainly tugged at our heart and entertained us with their quirky behaviours.\nOur rooms were comfortable, clean, and cooled with AC. The staff were friendly and accomdating and were always ready to help. We ate in the dining room along with daytime visitors. There I met people from Italy and Switzerland and other nationalities too.\nThis place was so incredibly outside my comfort zone and yet I felt so very comfortable and welcomed.  Take the plunge and volunteer here.",
+      "publishedDate": "2018-08-15T15:41:51-04:00",
+      "rating": "4",
+      "travelDate": "2018-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Disappointing",
+      "text": "I hate to be negative about a charitable organisation like the BOS Foundation, and I'm sure they do some fantastic work with rescued Orangutans and Sun Bears, but I found the Samboja Lestari sanctuary experience a little disappointing. Obviously, the main reason that people go here is to see Orangutans and Sun Bears. You do get to see them - the Orangutans are housed on Orangutan Islands and the Sun Bears in 2 large enclosures - but there is little else to be said about this trip. There was a ranger who accompanied us on the tour who gave us a lot of information about the animals themselves... but what was really lacking for me was any background information as to the plight of these animals, conservation efforts and the work of the BOS Foundation (and other organisations).\n\nWe had booked a half day tour of the sanctuary (which costs a relatively expensive Rp 500.000 per person), travelling from Balikpapan city which takes just over an hour by car. Actually, the viewing experience doesn't take long (about 2 hours)... and the rest of the time was spent hanging around waiting for lunch to arrive.\n\nHaving visited Orangutan sanctuaries in Sabah and Sarawak (both in Malaysian Borneo) before, I was expecting a little more - but It felt more like visiting a zoo than a sanctuary, even though the animals themselves do seem to be very well cared for.\n\nI wouldn't not recommend it - and BOS certainly need your money -  it's just that it could have been a lot better.",
+      "publishedDate": "2016-04-29T23:57:27-04:00",
+      "rating": "3",
+      "travelDate": "2016-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Awesome experience, well worth the visit to Balikpapan",
+      "text": "This place is under-valued as a destination in Indonesia. At the end of our 3 months in Asia, we really wanted to see Orangutans and choose the Samboja Lodge not knowing what to expect and it exceeded our expectations. The work of the Borneo Orangutan Survival (BOS) Foundation and the staff at the lodge that are helping execute it is nothing short of heroic. I had no idea what went into saving an Ape species and we sure learned a lot during our visit. It was wonderful to learn more about the resident Orangutans and the released and release candidates. The tours were also well worth it as was the Sun Bear Sanctuary. My kids, 8 and 11, said it was one of the highlights of their trip. The lodge is expensive but worth the $ as it supports the work of the foundation and it was a beautiful place to stay, the food was good and the staff are wonderful. I hope to return someday!",
+      "publishedDate": "2015-03-13T01:11:30-04:00",
+      "rating": "5",
+      "travelDate": "2015-03",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Surprisingly very interesting and worth a visit when in Balikpapan",
+      "text": "I did not actually stay here, but rather we went on a day trip to visit this place which we were glad we did. It has a sanctuary and rehibilitation area for orangutans and visitors can visit this area and observe the orangutans. We also visited the sun bear rehabilitation area which we also found interesting. The watchtower which you can view the east Borneo jungle from high above is also a must.\n\nI think if you have any interests in eco-tourism or wildlife, and happens to be in Balikpapan, then this place is worth a visit. It will touch your heart. Certainly touched mine (Sponsored an orphaned orangutan as a result :P )",
+      "publishedDate": "2014-06-02T01:34:11-04:00",
+      "rating": "4",
+      "travelDate": "2014-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "fr",
+      "title": "Voir les ourangs outans",
+      "text": "Une visite inoubliable a voir déambuler nonchalamment Roméo à la recherche de sa Juliette...\nAmusant de voir les ours malais, jouer dans leurs enclos.\nToutefois, retrouveront ils un jour la liberté ?\nRéussiront ils à vivre seuls dans la jungle?\nEn tous cas’ cet endroit a le mérite d’exister pour notre plus grand plaisir.",
+      "publishedDate": "2017-10-13T12:24:00-04:00",
+      "rating": "5",
+      "travelDate": "2017-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Terdapat Pantai samboja",
+      "text": "Di daerah Samboja Daerah Dekat dengan Balikpapan. Terdapat Pantai samboja, dan di sekitar sana banyak Tempat berwisata alam. Di Pantai Ini kita bisa membangun tenda. JANGAN lupa untuk membawa bekal. Dan janagan takut kalau ada apa2. Pantai ini dekat sekali dengan kampung pemukiman warga. Seru dan aman! :)",
+      "publishedDate": "2015-11-27T09:12:01-05:00",
+      "rating": "5",
+      "travelDate": "2015-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Tempat yang sangat tepat untuk belajar dan beristirahat",
+      "text": "Samboja, tidak banyak wisatawan yang mngenal baik tempat ini. baik wisatawan lokal maupun mancanegara. Samboja merupakan lokasi hutan tropis yang sangat luas dimana kita bisa bertemu dan mengamati serta bermain bersama Orang Utan. Tidak perlu jauh-jauh menyusuri hutan dan sungai untuk bertemu Orang utan. di samboja juga habitatnya masih cukup banyak. selain itu, disini juga disediakan fasilitas untuk menginap, sehingga wisatawan yang hendak berkunjung, apabila sudah terlalu sore/terlalu malam untuk kembali ke Kota Balikpapan, dapat mencoba sebuah penginapan ditengah hutan belantara. namun tak perlu khawatir, karena penginapan yang ditawarkan cukup baik dan bersih. didukung dengan faslitas yang cukup memadai, pastinya wisatawan mendapatkan kenyamanan dan ketenangan dalam beristirahat.\n\ndipagi hari, eksplor hutan bisa dilanjutkan sambil mengamati para orang utan sedang menyantap kiloan pisang secara beramai-ramai. tentunya, segala aktivitas ini di temani oleh pemandu/ranger di samboja. Untuk izin masuknya, baik lokal maupun mancanegara dikenakan bea masuk sebesar 500.000/orang (tdk termasuk makan dan penginapan). memang mahal, namun jangan khawatir, uang tersebut adalah uang yang dijadikan kas biaya konservasi untuk kelestarian hutan dan tentunya habitat para orang utan.",
+      "publishedDate": "2014-08-08T11:59:07-04:00",
+      "rating": "5",
+      "travelDate": "2014-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/f4/5a/d1/photo2jpg.jpg",
+  "location_id": "8519868",
+  "name": "Batu Dinding",
+  "latitude": "-0.923403",
+  "longitude": "116.9735",
+  "num_reviews": "25",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Bukit Merdeka, Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/f4/5a/d1/photo2jpg.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/f4/5a/d1/photo2jpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1600",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/f4/5a/d1/photo2jpg.jpg",
+        "height": "900"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/f4/5a/d1/photo2jpg.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/f4/5a/d1/photo2jpg.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-01-05T17:44:36-0500",
+    "caption": "",
+    "id": "167008977",
+    "helpful_votes": "1",
+    "published_date": "2016-01-05T17:44:36-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8519868",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.936643600463867",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "1",
+  "ranking_denominator": "9",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 9 things to do in Kutai Kartanegara",
+  "subcategory_ranking": "#1 of 9 things to do in Kutai Kartanegara",
+  "ranking": "#1 of 9 things to do in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "open_now_text": "Open Now",
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g25191920-d8519868-Reviews-Batu_Dinding-Bukit_Merdeka_Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g25191920-d8519868-Batu_Dinding-Bukit_Merdeka_Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bukit Merdeka",
+      "abbrv": null,
+      "location_id": "25191920"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Bukit Merdeka",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Bukit Merdeka",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75271"
+  },
+  "address": "Bukit Merdeka, Kutai Kartanegara 75271 Indonesia",
+  "hours": {
+    "week_ranges": [
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ],
+      [
+        {
+          "open_time": 0,
+          "close_time": 1439
+        }
+      ]
+    ],
+    "timezone": "Asia/Jakarta"
+  },
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "59",
+      "name": "Geologic Formations"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "Broken Road",
+      "text": "Pretty far from the city but it provide a pretty good view of the surrounding forest. most people will hunt for sunrise here. to enter you will pay about 10k up to 30k up to how many passenger and your rides.",
+      "publishedDate": "2019-01-31T01:49:10-05:00",
+      "rating": "3",
+      "travelDate": "2018-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Nice to visit",
+      "text": "Nice place to visit. The road to access is bad (no tarmac) . There is no place to eat except a small warung. \nYou will need to walk 15 to 20 mon to arrive on the top. ",
+      "publishedDate": "2018-08-27T19:35:42-04:00",
+      "rating": "3",
+      "travelDate": "2018-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Batu Dindin Balikpapan",
+      "text": "Great walk (5km forth and 5 back, start at the main road) It is not necessary at all to go early in the morning, although it is a little cooler. With 5 people, we did it very slowly in 4 hours, because Indonesians are very unfamiliar with hiking. Even in that manner, that they want to drive a car or scooters up a trail that is too steep and too muddy with a little rain. I saw them both got stuck....\nAnd ofcourse accompanied with taking unlimited goods and garbage to the top, leaving them there... My Indonesian (girl) friend during the walk, described this as \"a different mind set and mentality\". What a shame. \"Begini Indonesia\"!",
+      "publishedDate": "2018-06-20T14:11:45-04:00",
+      "rating": "4",
+      "travelDate": "2018-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Mesmerizing view worth to see",
+      "text": "Batu Dinding or they call it Great Wall (not in China) natural made is a bit far from Balikpapan town, 45 km then turn left to the small sign.You will find a small road heading to it.\nThe road can be a bit hard and slippery especially after rain, so please make sure you use a car in good condition and ready for a bit of offroad path.\nYou can also use motorcycle to reach the peak, so you don't have to walk longer.\nTo catch the sunrise, you'd better start your journey at 4am or you can go camping at the area, just make sure you have everything you need with you, as there are no store to buy things.\nHiking a bit harder for some people, but when you are at the top, then you know it's worth it. The view of rain forest in the mist, the sun rises, the wind that blows your ear, all are breathtaking.\nSome people left their marks on the stones (what a CON!) that made this area looks sad.",
+      "publishedDate": "2016-09-15T19:34:21-04:00",
+      "rating": "4",
+      "travelDate": "2016-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "my trip, my adventure (((:",
+      "text": "I like surfing . Away trip to the \"Batu Dinding\" made ​​my discovery is getting better with my friends. Thankyou Batu Dinding ((;",
+      "publishedDate": "2016-08-22T22:22:10-04:00",
+      "rating": "5",
+      "travelDate": "2016-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Fabulous rock formation and view",
+      "text": "What a great morning. Interesting drive there with plenty to see. Can park in the carpark and walk or for a very small fee grab a lift on a scooter and the locals will deliver you to the base of the rocks. Easy walk  up. Very hot so recommend taking water and going early in the day.",
+      "publishedDate": "2016-05-09T05:00:18-04:00",
+      "rating": "5",
+      "travelDate": "2016-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Travel when was not raining the day before!",
+      "text": "We went to Batu Dinding on foot. It was muddy and very unpleasant! Chasing the sunrise view, we hurried to the top of the peak and it was crowded. Some of the garbage can be seen all over the place (sad). Nevertheless it was quite an amazing view, you can see tropical rainforest of Balikpapan on the top of the Batu Dinding. Quite a pleasant suprise!",
+      "publishedDate": "2016-02-29T06:54:50-05:00",
+      "rating": "4",
+      "travelDate": "2015-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "For you who love a bit of Adventure :)",
+      "text": "I went here from Balikpapan. Kilo 45, about 7km to north from Samboja junction. \nWould love to give 5 ratings only if the place is cleaner. Many vandalism on the rocks which is irritating. You need a high ground clearance vehicle to go here, otherwise you will walk about 4-5km from the main road. High ground clearance vehicle, not necessarily 4x4, can go like 2km inside the small road and then you need to stop and park here. The parking area is a local's house yard named Pak Kudori. Hire an Ojek/motorcycle is a must from this point, unless you are riding a motorcycle from your home. 20,000 IDR for one trip to the closest check point. 5000 IDR for the entrance fee. So for entire trip, you will need to pay around 45,000 IDR each person. 5000 IDR for you car park. Be prepared! the hiking route is short but quite challenging for people who doesnt do excercise.",
+      "publishedDate": "2016-01-17T17:18:07-05:00",
+      "rating": "4",
+      "travelDate": "2016-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Batu Dinding, Samboja, Kalimantan Timur",
+      "text": "Challenging hiking trails, fresh air, lovely sounds of monkeys and birds from the nearby forest and nice sunrise view from the top! A guide needed or you'll get lost 😬. ",
+      "publishedDate": "2016-01-05T12:44:36-05:00",
+      "rating": "4",
+      "travelDate": "2016-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Wisata bukit dengan view dari ketinggian",
+      "text": "Dari jalan utama masuk ke simpang yang ada gerbang kayu warna merah, jangan masuk dari jalan lain, karena banyak yang lewat jalan yang sudah gak di lewati warga lagi, rusak parah, musti tanya warga dulu supaya aman. Biaya masuk 10K per orang. Ada 3 pos, pos pertama untuk parkir mobil, untuk motor bisa sampe pos akhir, namun medan jalannya mulai nanjak ya, bahaya kalo hujan, apalagi kalo arah baliknya. Pengurus objek wisata stand by 24 jam, pastikan catat no hp pengurusnya",
+      "publishedDate": "2020-11-04T14:37:49-05:00",
+      "rating": "5",
+      "travelDate": "2020-10",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "pemandangan yang sangat menarik",
+      "text": "menuju lokasi yang satu ini benar benar butuh perjuangan, aksesnya sulit banget dan sempit harus berjalan kaki jauh. tapi hasilnya mantap banget viewnya.",
+      "publishedDate": "2018-08-27T00:08:54-04:00",
+      "rating": "4",
+      "travelDate": "2018-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "view yang mantap",
+      "text": "masuk kesini butuh perjuangan, lokasi masuk kedalam mesti jalan kaki dan becek karena abis ujan. tapi terbayar dengan pemandangan yang menakjubkan.",
+      "publishedDate": "2018-08-20T20:28:37-04:00",
+      "rating": "4",
+      "travelDate": "2018-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Tempat hiking terbaik di balikpapan",
+      "text": "Batu dinding terletak di km 40 jalan balikpapan samarinda. Jarak dari kota ke sini sekitar 1,5 jam dgn mobil. Dari tempat parkir mobil kira2 perlu berjalan sekitar 3 km untuk sampai puncak. Disarankan untuk jalan jam 3 pagi agar bisa mengejar sunrise. Cukup bawa jaket, lampu senter n air minum aja kok",
+      "publishedDate": "2017-05-05T04:30:57-04:00",
+      "rating": "5",
+      "travelDate": "2017-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "View yang bagus",
+      "text": "untuk sampai ke lokasi emmang butuh perjuangan. Masuknnya sekitar 2 km dari pinggir jalan, dan kalau lagi hujan atau becek siapa-siap kotor dehh. Tapi kalau udah sampai bisa foto2 sepuasnya dengan pemandangan hutan yang keren.",
+      "publishedDate": "2017-04-29T01:13:18-04:00",
+      "rating": "5",
+      "travelDate": "2016-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pemandangan hutan primer yang bagus",
+      "text": "Niat sengaja lihat pemandangan hutan primer di kalimantan timur sekalian shalat shubuh dan liat sunrise nya (ala ala Sekali merengkuh dayung, dua tiga pulau terlampaui). \n\nBuat yang hobi manjat, ini bukan tempatnya. Ga ada rintangan berarti, cocok buat \"yang merasa tua\". \n\nTapi untuk view hutan nya Top.\n\n",
+      "publishedDate": "2017-04-20T04:41:22-04:00",
+      "rating": "4",
+      "travelDate": "2017-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "keren",
+      "text": "Lokasi yg agak masuk ke dalam dan menanjak jadi tantangan tersendiri ketika berkunjung ke sini, tapi begitu sampai ke atas batu dinding semuanya akan terbayar dengan viewnya yg keren. Disarankan utk bawa makanan serta minuman dan tidak buang sampah sembarangan ataupun mencoret2 objek wisata tersebut.",
+      "publishedDate": "2017-03-29T19:08:50-04:00",
+      "rating": "4",
+      "travelDate": "2016-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Tempat Yang Luar Biasa",
+      "text": "jika anda kesini lebih baik jika membawa perlengkapan camping agar dapat menikmati sun set dan sun rice. tapi jangan membuang samoah sembarang agar tempat ini tetap terjaga keindahannya... biaya yang dibutuhkan sangat murah dan anda tidak akan menyesal.. tapi hati karena tebing sangat terjal.",
+      "publishedDate": "2017-01-03T03:54:32-05:00",
+      "rating": "5",
+      "travelDate": "2017-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Objek wisata keren",
+      "text": "Objek wisata batu dinding keren, sepanjang mata memandang alam hijau terbentang, tempatnya tenang, disalah satu sudut batu dinding bisa jadi tempat selfie yang keren. Akses masuk lumayanlah sesuai dengan apa yang disajikan tapi terkadang wisatawan jorok membuang sampah sembarangan.",
+      "publishedDate": "2016-11-07T22:44:33-05:00",
+      "rating": "5",
+      "travelDate": "2016-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Mendaki Batu Dinding",
+      "text": "Wisata yang booming akhir ini sangat cocok untuk kalian yang ingin menikmati suasana bukit dengan view pohon-pohon hijau. Disini kita harus tracking untuk mencapai puncak bukitnya. Setelah sampai dijamin anda terpuaskan dengan pemandangan yang menawan dan lelahpun terobati dengan keindahannya.",
+      "publishedDate": "2016-08-24T15:53:22-04:00",
+      "rating": "4",
+      "travelDate": "2015-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "View keren",
+      "text": "Akses nya cukup sulit dan bisa tersesat kalau tidak tau arah. Harus berhati2 terutama musim hujan. Kendaraan roda 4 tidak bisa sampai di dekat lokasi harus berjalan kaki sekitar 30 menit.",
+      "publishedDate": "2016-08-03T16:28:00-04:00",
+      "rating": "3",
+      "travelDate": "2015-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/9d/86/b5/caption.jpg",
+  "location_id": "17738402",
+  "name": "Muhammad Innalhamda Rachman",
+  "latitude": "-0.592427",
+  "longitude": "117.03168",
+  "num_reviews": "1",
+  "timezone": "Asia/Jakarta",
+  "location_string": "Kutai Kartanegara, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/9d/86/b5/caption.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/9d/86/b5/caption.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/9d/86/b5/caption.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-p/17/9d/86/b5/caption.jpg",
+        "height": "550"
+      },
+      "medium": {
+        "width": "450",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/9d/86/b5/caption.jpg",
+        "height": "450"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2019-05-21T11:40:52-0400",
+    "caption": "",
+    "id": "396199605",
+    "helpful_votes": "0",
+    "published_date": "2019-05-21T11:40:52-0400",
+    "user": null
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/17738402",
+  "awards": [],
+  "location_subtype": "tour_operator",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.743725299835205",
+  "ranking_geo": "Kutai Kartanegara",
+  "ranking_geo_id": "14795061",
+  "ranking_position": "2",
+  "ranking_denominator": "2",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 2 Boat Tours & Water Sports in Kutai Kartanegara",
+  "subcategory_ranking": "#2 of 2 Boat Tours & Water Sports in Kutai Kartanegara",
+  "ranking": "#2 of 2 Boat Tours & Water Sports in Kutai Kartanegara",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "Live in Bakungan village, Loa Janan sub-district, Kutai Kartanegara Regency, East Kalimantan Province, Indonesia. My special tour for mahakam dolphin observation and also other tour like orang utan, birdwatching, local culture & event, fishing, tracking. ",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g14795061-d17738402-Reviews-Muhammad_Innalhamda_Rachman-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g14795061-d17738402-Muhammad_Innalhamda_Rachman-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "municipality",
+          "name": "Municipality"
+        }
+      ],
+      "name": "Kutai Kartanegara",
+      "abbrv": null,
+      "location_id": "14795061"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "42",
+      "name": "Tours"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    },
+    {
+      "key": "55",
+      "name": "Boat Tours & Water Sports"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Kutai Kartanegara",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "machine_translated": false,
+  "phone": "+62 852-5020-5322",
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Kutai Kartanegara",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Kutai Kartanegara Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "224",
+      "name": "City Tours"
+    },
+    {
+      "key": "193",
+      "name": "River Rafting & Tubing"
+    },
+    {
+      "key": "225",
+      "name": "Cultural Tours"
+    },
+    {
+      "key": "228",
+      "name": "Historical & Heritage Tours"
+    },
+    {
+      "key": "167",
+      "name": "Boat Tours"
+    },
+    {
+      "key": "199",
+      "name": "Waterskiing & Jetskiing"
+    },
+    {
+      "key": "235",
+      "name": "Private Tours"
+    },
+    {
+      "key": "269",
+      "name": "Photography Tours"
+    },
+    {
+      "key": "212",
+      "name": "Adrenaline & Extreme Tours"
+    },
+    {
+      "key": "216",
+      "name": "Eco Tours"
+    },
+    {
+      "key": "217",
+      "name": "Fishing Charters & Tours"
+    },
+    {
+      "key": "219",
+      "name": "Hiking & Camping Tours"
+    },
+    {
+      "key": "220",
+      "name": "Nature & Wildlife Tours"
+    },
+    {
+      "key": "188",
+      "name": "Dolphin & Whale Watching"
+    },
+    {
+      "key": "190",
+      "name": "Speed Boats Tours"
+    }
+  ],
+  "animal_welfare_tag": {
+    "tag_text": "Features Animals",
+    "msg_header": "This attraction features animals",
+    "msg_body": "Click below for expert advice on animal welfare in tourism.",
+    "learn_more_text": "Learn more",
+    "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+  },
+  "tags": {
+    "animal_welfare_tag": {
+      "tag_text": "Features Animals",
+      "msg_header": "This attraction features animals",
+      "msg_body": "Click below for expert advice on animal welfare in tourism.",
+      "learn_more_text": "Learn more",
+      "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+    }
+  },
+  "reviews": [
+    {
+      "language": "nl",
+      "title": "Tour door Tengarrong kalimantan",
+      "text": "Een vriendin en ik hebben een hele leuke tour gedaan door Tengarrong met Inal als gids. \nWat eigenlijk op de planning stond, was een tour richting de Dayak mensen. Vanwege tekort in tijd hebben we een factor gedaan waarmee we zijn rondgeleid door Tengarrong om zo cultuur te snuiven. \nWe hebben verschillende musea gezien, een tempel en zijn meegenomen naar een leuk restaurantje om te lunchen. Top dagje!",
+      "publishedDate": "2019-07-29T04:45:09-04:00",
+      "rating": "4",
+      "travelDate": "2019-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+}]

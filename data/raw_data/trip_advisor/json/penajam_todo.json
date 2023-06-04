@@ -1,0 +1,365 @@
+[{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/56/c2/84/pantai-jumlai.jpg",
+  "location_id": "8857576",
+  "name": "Jumlai Beach",
+  "num_reviews": "2",
+  "timezone": "Asia/Makassar",
+  "location_string": "Penajam, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/56/c2/84/pantai-jumlai.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/56/c2/84/pantai-jumlai.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "480",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/56/c2/84/pantai-jumlai.jpg",
+        "height": "872"
+      },
+      "large": {
+        "width": "247",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/56/c2/84/pantai-jumlai.jpg",
+        "height": "450"
+      },
+      "medium": {
+        "width": "113",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/56/c2/84/pantai-jumlai.jpg",
+        "height": "205"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-02-16T11:43:55-0500",
+    "caption": "Pantai Jumlai",
+    "id": "173458052",
+    "helpful_votes": "0",
+    "published_date": "2016-02-16T11:43:55-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8857576",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.739265203475952",
+  "ranking_geo": "Penajam",
+  "ranking_geo_id": "8290699",
+  "ranking_position": "2",
+  "ranking_denominator": "2",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 2 things to do in Penajam",
+  "subcategory_ranking": "#2 of 2 things to do in Penajam",
+  "ranking": "#2 of 2 things to do in Penajam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g8290699-d8857576-Reviews-Jumlai_Beach-Penajam_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g8290699-d8857576-Jumlai_Beach-Penajam_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Penajam",
+      "abbrv": null,
+      "location_id": "8290699"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Penajam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Jl. Penajam - Kuaro",
+    "street2": null,
+    "city": "Penajam",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Jl. Penajam - Kuaro, Penajam Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "52",
+      "name": "Beaches"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Liburan. Untuk nongkrong disore hari lumayan. Tempat nongkrongnya ditambah ya... yang nyaman.",
+      "text": "Kebersihan dijaga. Banyak kelapa yang sudah tua yang perlu dijatuhkan. Agar tidak membahayakan pengunjung.\nMatab kok.",
+      "publishedDate": "2016-09-08T23:49:38-04:00",
+      "rating": "4",
+      "travelDate": "2016-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pantai Favorit masyarakat Penajam Paser Utara",
+      "text": "Pantai ini merupakan objek wisata favorit turis domestik yang melintasi Kabupaten Penajam Paser Utara, baik yang hendak menuju Kabupaten Paser maupun ke Kalimantan Selatan. Dilengkapi dengan Banana boat, toilet, warung makan / minum dan ramai saat weekend.",
+      "publishedDate": "2015-11-24T19:04:32-05:00",
+      "rating": "3",
+      "travelDate": "2015-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0c/62/5f/3e/20160805-120528-largejpg.jpg",
+  "location_id": "9820727",
+  "name": "Nipah-Nipah Beach",
+  "latitude": "-1.31511",
+  "longitude": "116.73945",
+  "num_reviews": "3",
+  "timezone": "Asia/Makassar",
+  "location_string": "Penajam, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/62/5f/3e/20160805-120528-largejpg.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/62/5f/3e/20160805-120528-largejpg.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2560",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0c/62/5f/3e/20160805-120528-largejpg.jpg",
+        "height": "1920"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/62/5f/3e/20160805-120528-largejpg.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/62/5f/3e/20160805-120528-largejpg.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-08-05T00:16:18-0400",
+    "caption": "",
+    "id": "207773502",
+    "helpful_votes": "4",
+    "published_date": "2016-08-05T00:16:18-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/9820727",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7550883293151855",
+  "ranking_geo": "Penajam",
+  "ranking_geo_id": "8290699",
+  "ranking_position": "1",
+  "ranking_denominator": "2",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 2 things to do in Penajam",
+  "subcategory_ranking": "#1 of 2 things to do in Penajam",
+  "ranking": "#1 of 2 things to do in Penajam",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g8290699-d9820727-Reviews-Nipah_Nipah_Beach-Penajam_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g8290699-d9820727-Nipah_Nipah_Beach-Penajam_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Penajam",
+      "abbrv": null,
+      "location_id": "8290699"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Penajam",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Jl. Coastal Road",
+    "street2": null,
+    "city": "Penajam",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "76142"
+  },
+  "address": "Jl. Coastal Road, Penajam 76142 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "52",
+      "name": "Beaches"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "de",
+      "title": "Schöner Strand mit einigen Verkäufern",
+      "text": "Ein schöner weißer Strand unter Palmen. Kaum Müll und Dreck und sogar Fische, die man nach einigen Metern im Wasser beobachten kann. Von Zeit zu Zeit taucht ein Verkäufer auf, einige haben selbst hergestellten Schmuck, der sich vielleicht doch lohnt. Überall sind Warungs, die ab 10 Uhr, aber mehr gen Abend ihre Waren verkaufen.  Schön zum Entspannen.",
+      "publishedDate": "2016-08-04T20:16:18-04:00",
+      "rating": "4",
+      "travelDate": "2016-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Liburan",
+      "text": "Ramai terhibur banyak yg harus di lihat di antranya gelombang,masyarakat yg lgi memasang jaring ikan ,,,",
+      "publishedDate": "2016-04-30T15:40:32-04:00",
+      "rating": "5",
+      "travelDate": "2016-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Lokasi nongkrong orang penajam selain pantai tanjung jumlai",
+      "text": "Sebenernya ini bukan pantai, karena memang tidak ada pasir. Lokasi wisata ini adalah muara yang di urug dan di bendung biar bisa jadi semacam pantai. Pantai ini rame saat hari sabtu dan minggu. Ada tempat nongkrongnya juga semacam warung di pinggir-pinggir jalan. Ada yang jual cilok (di kalimantan nemu cilok juga, haha), jagung bakar, kelapa muda dan kelapa bakar. khusus kelapa bakar baru nemu nih di sini. air kelapanya ditambah jahe, jadi pas angin gede2 nya di pantai minum ini berasa anget2 gimana gitu.  Cocok buat yang lagi di penajam dan cari lokasi melepas penat.",
+      "publishedDate": "2016-02-02T15:31:25-05:00",
+      "rating": "3",
+      "travelDate": "2016-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+}]

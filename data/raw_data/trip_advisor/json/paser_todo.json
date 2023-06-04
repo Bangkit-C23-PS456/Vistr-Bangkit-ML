@@ -1,0 +1,371 @@
+[{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0b/93/34/2b/kolam-air-panas-danum.jpg",
+  "location_id": "10390918",
+  "name": "Danum Layong Hot Spring",
+  "num_reviews": "2",
+  "timezone": "Asia/Makassar",
+  "location_string": "Tanah Grogot, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/93/34/2b/kolam-air-panas-danum.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/93/34/2b/kolam-air-panas-danum.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2560",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0b/93/34/2b/kolam-air-panas-danum.jpg",
+        "height": "1280"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/93/34/2b/kolam-air-panas-danum.jpg",
+        "height": "512"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/93/34/2b/kolam-air-panas-danum.jpg",
+        "height": "275"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-06-10T11:52:53-0400",
+    "caption": "Kolam Air Panas Danum Layong",
+    "id": "194196523",
+    "helpful_votes": "8",
+    "published_date": "2016-06-10T11:52:53-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/10390918",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.740582227706909",
+  "ranking_geo": "Tanah Grogot",
+  "ranking_geo_id": "7697178",
+  "ranking_position": "2",
+  "ranking_denominator": "2",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 2 things to do in Tanah Grogot",
+  "subcategory_ranking": "#2 of 2 things to do in Tanah Grogot",
+  "ranking": "#2 of 2 things to do in Tanah Grogot",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g7697178-d10390918-Reviews-Danum_Layong_Hot_Spring-Tanah_Grogot_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g7697178-d10390918-Danum_Layong_Hot_Spring-Tanah_Grogot_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Tanah Grogot",
+      "abbrv": null,
+      "location_id": "7697178"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Tanah Grogot",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Jl. Poros Penajam Paser Utara",
+    "street2": null,
+    "city": "Tanah Grogot",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "76283"
+  },
+  "address": "Jl. Poros Penajam Paser Utara, Tanah Grogot 76283 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "54",
+      "name": "Caverns & Caves"
+    },
+    {
+      "key": "61",
+      "name": "Hot Springs & Geysers"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Bisa Rehat",
+      "text": "Bisa santai sejenak memanjakan mata dipemandangan kolam ini. Tempatnya lumayan jauh dari perbatasan kabupaten.. tapi terbayarkan dengan pemandangan yang ada..",
+      "publishedDate": "2017-09-06T17:23:50-04:00",
+      "rating": "4",
+      "travelDate": "2017-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Sensasi kolam air panas di Long Kali, Paser",
+      "text": "Ada 2 kolam air panas yang terdapat disini dan sudah di bangun beberapa fasilitas penunjang, seperti semenisasi sisi kolam, wc, gazebo dan jalan serta jembatan. Di sini kita juga bisa mengunjungi Gua Kumbang yang lokasinya tidak terlalu jauh dan mengharuskan kita tracking melintasi hutan yang masih lebat.",
+      "publishedDate": "2016-06-02T08:45:10-04:00",
+      "rating": "3",
+      "travelDate": "2016-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/7c/28/02/museum-sadurengas-dari.jpg",
+  "location_id": "8857614",
+  "name": "Sadurengas Palace Museum",
+  "num_reviews": "3",
+  "timezone": "Asia/Makassar",
+  "location_string": "Tanah Grogot, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/7c/28/02/museum-sadurengas-dari.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/7c/28/02/museum-sadurengas-dari.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1084",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/7c/28/02/museum-sadurengas-dari.jpg",
+        "height": "723"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/0b/7c/28/02/museum-sadurengas-dari.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/7c/28/02/museum-sadurengas-dari.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2016-06-02T12:34:52-0400",
+    "caption": "Museum Sadurengas dari sudut depan",
+    "id": "192686082",
+    "helpful_votes": "7",
+    "published_date": "2016-06-06T01:10:52-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8857614",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7471396923065186",
+  "ranking_geo": "Tanah Grogot",
+  "ranking_geo_id": "7697178",
+  "ranking_position": "1",
+  "ranking_denominator": "2",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 2 things to do in Tanah Grogot",
+  "subcategory_ranking": "#1 of 2 things to do in Tanah Grogot",
+  "ranking": "#1 of 2 things to do in Tanah Grogot",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g7697178-d8857614-Reviews-Sadurengas_Palace_Museum-Tanah_Grogot_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g7697178-d8857614-Sadurengas_Palace_Museum-Tanah_Grogot_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Tanah Grogot",
+      "abbrv": null,
+      "location_id": "7697178"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "26",
+      "name": "Shopping"
+    },
+    {
+      "key": "49",
+      "name": "Museums"
+    }
+  ],
+  "parent_display_name": "Tanah Grogot",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Jl. Keraton Paser Belengkong, Kecamatan Paser Belengkong, Kabupaten Paser",
+    "street2": null,
+    "city": "Tanah Grogot",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Jl. Keraton Paser Belengkong, Kecamatan Paser Belengkong, Kabupaten Paser, Tanah Grogot Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "30",
+      "name": "History Museums"
+    },
+    {
+      "key": "28",
+      "name": "Art Museums"
+    },
+    {
+      "key": "1",
+      "name": "Art Galleries"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Sejarah",
+      "text": "Sangat bagus berkunjung ke museum ini. kita bisa melihat peninggalan sejarah kerajaan Paser. Cocok datang bersama keluarga sambil belajar sejarah untuk anak-anak..",
+      "publishedDate": "2017-09-06T17:21:12-04:00",
+      "rating": "3",
+      "travelDate": "2017-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Museum yang kaya informasi sejarah Paser",
+      "text": "Museum yang menampilkan banyak benda - benda bersejarah mulai dari Al'quran, pakaian, guci, meriam, foto - foto dan masih banyak lagi",
+      "publishedDate": "2016-06-02T08:33:34-04:00",
+      "rating": "4",
+      "travelDate": "2016-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Museum kraton sadurangas paser",
+      "text": "Museum ini terletak di daerah pasir balengkong , menampilkan banyak benda-benda jaman baheula dulu jaman kerajaan sadurangas kaltim. Rumah panggung ,bangunan terbuat dari kayu ulin atau bengkirai ,nilai seni nya bagus ,ada foto-foto Raja, kehidupan masyarakat daya paser jaman dulu. Guci-guci ,benda-benda antik. Amazing kalimantan",
+      "publishedDate": "2016-02-12T12:43:15-05:00",
+      "rating": "4",
+      "travelDate": "2016-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+}]

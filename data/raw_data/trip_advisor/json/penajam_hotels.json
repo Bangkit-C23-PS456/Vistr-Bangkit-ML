@@ -1,0 +1,1299 @@
+[{
+  "id": "21347249",
+  "type": "HOTEL",
+  "name": "RedDoorz near Pelabuhan Penajam",
+  "image": null,
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": null,
+  "category": "hotel",
+  "rating": null,
+  "hotelClass": "0.0",
+  "hotelClassAttribution": null,
+  "phone": null,
+  "address": "Jl. Penajam KM 1, Penajam 76141 Indonesia",
+  "email": null,
+  "amenities": [],
+  "numberOfRooms": null,
+  "prices": [],
+  "latitude": "-1.252886",
+  "longitude": "116.77159",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g8290699-d21347249-Reviews-RedDoorz_near_Pelabuhan_Penajam-Penajam_East_Kalimantan_Kalimantan.html",
+  "website": "https://www.reddoorz.com/en-id/hotel/indonesia/balikpapan/penajam/penajam-paser-utara/reddoorz-near-pelabuhan-penajam?utm_campaign=webclick&utm_medium=mybusiness&utm_source=google",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "12814071",
+  "type": "HOTEL",
+  "name": "The Rich Hotel",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/47/7a/be/getlstd-property-photo.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": null,
+  "category": "hotel",
+  "rating": 4.5,
+  "hotelClass": "0.0",
+  "hotelClassAttribution": null,
+  "phone": "+62 542 8540022",
+  "address": "Jl. Propinsi Km. 14 no. 32, Penajam 76142 Indonesia",
+  "email": "reservation@therichotel.com",
+  "amenities": [],
+  "numberOfRooms": 30,
+  "prices": [],
+  "latitude": "-1.160488",
+  "longitude": "116.57327",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+  "website": "http://www.therichotel.com",
+  "rankingString": "#1 of 1 B&B / Inn in Penajam",
+  "rankingDenominator": "1",
+  "numberOfReviews": 2,
+  "reviews": [
+    {
+      "id": "666528026",
+      "lang": "en",
+      "location_id": "12814071",
+      "published_date": "2019-04-14T19:30:12-04:00",
+      "published_platform": "Desktop",
+      "rating": "5",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d12814071-r666528026-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review666528026",
+      "travel_date": "2019-03",
+      "text": "the most representative hotel in penajam even though its location little bit far from the seaport. However, we don't need to worry about food or beverages because available in the hotel. The scenery is not too good but if you just want to take a rest, that not an issue lah.",
+      "user": null,
+      "title": "Most Representativ Hotel in Penajam",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Sleep Quality",
+          "value": "4"
+        },
+        {
+          "name": "Cleanliness",
+          "value": "4"
+        },
+        {
+          "name": "Service",
+          "value": "5"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "388741136",
+          "locations": [
+            {
+              "name": "The Rich Hotel",
+              "id": "12814071",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "published_date": "2019-04-14T23:29:46-0400",
+          "user": {
+            "username": "RidhoArisyadi",
+            "member_id": "0",
+            "user_id": "6F606C89B6645F823469E3158B39895C",
+            "type": "user",
+            "avatar": {
+              "id": "325422401",
+              "caption": "RidhoArisyadi",
+              "published_date": "2018-06-22T03:15:31-0400",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2018-06-22T03:15:31-0400",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/65/8d/41/ridhoarisyadi.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/65/8d/41/ridhoarisyadi.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/65/8d/41/ridhoarisyadi.jpg",
+                  "width": "338",
+                  "height": "338"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/65/8d/41/ridhoarisyadi.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/65/8d/41/ridhoarisyadi.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2019-04-14T23:29:46-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/2b/b8/10/the-rich-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/2b/b8/10/the-rich-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/2b/b8/10/the-rich-hotel.jpg",
+              "width": "2250",
+              "height": "4000"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/2b/b8/10/the-rich-hotel.jpg",
+              "width": "253",
+              "height": "450"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/2b/b8/10/the-rich-hotel.jpg",
+              "width": "115",
+              "height": "205"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "672595612",
+      "lang": "in",
+      "location_id": "12814071",
+      "published_date": "2019-05-08T10:25:35-04:00",
+      "published_platform": "Mobile",
+      "rating": "4",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d12814071-r672595612-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review672595612",
+      "travel_date": "2019-02",
+      "text": "The rich hotel itu... Hotel mewah dan elegan, dari namanya juga sudah keliatan heheh, tapi yg pengen saya tulis disini adalah kesan saya tentang kenyamanan menginap di hotel ini, terkesan sekali dengan menu sarapan yg super komplit, dari tradisional food sampe internasional foodnya enaaak semua, enaaakk binggiitt malaah, desertnya jugaa ga nyesel pokoke kalo book hotel disini include breakfast, tentang kebersihan. WiFi, fasilitas kamar semua ok, kolam renang juga keren, kita bisa ngeliat Jogja dari atas dan view gunung Merapi langsung di kolam renang the rich. \nBerkesan banget, apalagi saya waktu itu menginap di lantai 27. Kota Jogja terlihat semua dari sini.",
+      "user": null,
+      "title": "Hotel mewah dengan menu makanan super komplit",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "393419061",
+          "locations": [
+            {
+              "name": "The Rich Hotel",
+              "id": "12814071",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "published_date": "2019-05-08T14:25:28-0400",
+          "user": {
+            "username": "DiahFY",
+            "member_id": "0",
+            "user_id": "870F1E1DE65FA0500377766EC3EC1DAA",
+            "type": "user",
+            "avatar": {
+              "id": "452391968",
+              "caption": "default-avatar-2020-31",
+              "published_date": "2020-02-21T16:31:16-0500",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2020-02-21T16:31:16-0500",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "1200",
+                  "height": "1200"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2019-05-08T14:25:28-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/73/19/35/the-rich-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/73/19/35/the-rich-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/73/19/35/the-rich-hotel.jpg",
+              "width": "4160",
+              "height": "3120"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/73/19/35/the-rich-hotel.jpg",
+              "width": "550",
+              "height": "413"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/73/19/35/the-rich-hotel.jpg",
+              "width": "250",
+              "height": "188"
+            }
+          }
+        },
+        {
+          "id": "393418376",
+          "locations": [
+            {
+              "name": "The Rich Hotel",
+              "id": "12814071",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "published_date": "2019-05-08T14:21:41-0400",
+          "user": {
+            "username": "DiahFY",
+            "member_id": "0",
+            "user_id": "870F1E1DE65FA0500377766EC3EC1DAA",
+            "type": "user",
+            "avatar": {
+              "id": "452391968",
+              "caption": "default-avatar-2020-31",
+              "published_date": "2020-02-21T16:31:16-0500",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2020-02-21T16:31:16-0500",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "1200",
+                  "height": "1200"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2019-05-08T14:21:41-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/73/16/88/the-rich-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/73/16/88/the-rich-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/73/16/88/the-rich-hotel.jpg",
+              "width": "4160",
+              "height": "3120"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/73/16/88/the-rich-hotel.jpg",
+              "width": "550",
+              "height": "413"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/73/16/88/the-rich-hotel.jpg",
+              "width": "250",
+              "height": "188"
+            }
+          }
+        },
+        {
+          "id": "393418796",
+          "locations": [
+            {
+              "name": "The Rich Hotel",
+              "id": "12814071",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d12814071-Reviews-The_Rich_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "published_date": "2019-05-08T14:23:53-0400",
+          "user": {
+            "username": "DiahFY",
+            "member_id": "0",
+            "user_id": "870F1E1DE65FA0500377766EC3EC1DAA",
+            "type": "user",
+            "avatar": {
+              "id": "452391968",
+              "caption": "default-avatar-2020-31",
+              "published_date": "2020-02-21T16:31:16-0500",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2020-02-21T16:31:16-0500",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "1200",
+                  "height": "1200"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/f4/20/default-avatar-2020-31.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2019-05-08T14:23:53-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/73/18/2c/the-rich-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/73/18/2c/the-rich-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/73/18/2c/the-rich-hotel.jpg",
+              "width": "4160",
+              "height": "3120"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/73/18/2c/the-rich-hotel.jpg",
+              "width": "550",
+              "height": "413"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/73/18/2c/the-rich-hotel.jpg",
+              "width": "250",
+              "height": "188"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "reviewTags": []
+},
+{
+  "id": "21290881",
+  "type": "HOTEL",
+  "name": "RedDoorz Syariah Near Taman Rozeline Penajam",
+  "image": null,
+  "awards": [],
+  "rankingPosition": null,
+  "priceLevel": "$",
+  "priceRange": "$12 - $14",
+  "category": "hotel",
+  "rating": null,
+  "hotelClass": "0.0",
+  "hotelClassAttribution": null,
+  "phone": null,
+  "address": "Jl. Propinsi Km. 9, Penajam 76141 Indonesia",
+  "email": null,
+  "amenities": [],
+  "numberOfRooms": 5,
+  "prices": [],
+  "latitude": "-1.30424",
+  "longitude": "116.7336",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g8290699-d21290881-Reviews-RedDoorz_Syariah_Near_Taman_Rozeline_Penajam-Penajam_East_Kalimantan_Kalimantan.html",
+  "website": "http://www.reddoorz.com/en-id/hotel/Indonesia/balikpapan/penajam/penajam-paser-utara/reddoorz-syariah-near-taman-rozeline-penajam",
+  "rankingString": null,
+  "rankingDenominator": null,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "10358012",
+  "type": "HOTEL",
+  "name": "Hotel Kalimantan",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/c3/08/de/meneyberang-ke-panajem.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": null,
+  "category": "hotel",
+  "rating": 4,
+  "hotelClass": "0.0",
+  "hotelClassAttribution": null,
+  "phone": "+62 542 7211399",
+  "address": "Jl. Negara KM.7, Kel. Nipa-Nipa, Penajam, Penajam Indonesia",
+  "email": null,
+  "amenities": [],
+  "numberOfRooms": null,
+  "prices": [],
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g8290699-d10358012-Reviews-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html",
+  "website": null,
+  "rankingString": "#1 of 4 hotels in Penajam",
+  "rankingDenominator": "4",
+  "numberOfReviews": 3,
+  "reviews": [
+    {
+      "id": "706168130",
+      "lang": "in",
+      "location_id": "10358012",
+      "published_date": "2019-09-03T16:05:29-04:00",
+      "published_platform": "Mobile",
+      "rating": "5",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d10358012-r706168130-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html#review706168130",
+      "travel_date": "2019-09",
+      "text": "Pengunjung sangat ramai dan menikmati makanannya luar biasa. Pelayanan juga sangat ramah, kebersihan sangat bersih. Lapangan parkir nya sangat luas... pendukung wifi juga sangat bagus dari kecepatan nya luar biasa",
+      "user": null,
+      "title": "Restoran",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false
+    },
+    {
+      "id": "386794255",
+      "lang": "in",
+      "location_id": "10358012",
+      "published_date": "2016-06-27T19:25:33-04:00",
+      "published_platform": "Desktop",
+      "rating": "4",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d10358012-r386794255-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html#review386794255",
+      "travel_date": "2016-05",
+      "text": "Ini pertama kalinya saya menyambangi Kabupaten Penajem Paser Utara di Kalimantan Timur. Saya dan 2 orang teman saya mulai menyeberang di salah satu pelabuhan di Balikpapan. Kira-kira 45 menit dari Kota Balikpapan. Kalau naik Ferry waktu menyeberang sekitar 1 jam dan harganya berkisar 100 ribu rupiah. Tetapi jika kita memilih naik speedboat, satu kali menyeberang untuk satu boat seharga 150 ribu rupiah dengan waktu tempuh hanya 30 menit. Dan akhirnya saya memilih untuk naik speedboat dari Pelabuhan Semayang.\n\nSekitar 30 menit saya menyeberang dan sedikit foto-foto di tengah laut dengan boat. menghadapi sedikit gelombang agak membuat perut saya mual, tapi it's OK. \n\nSetelah sampe di Penajem, kita mencarter angkot untuk menuju Hotel Kalimantan tempat kita booking kamar. Hmmm lumayan murah sich ..cuman 50 ribu ayar angkot kosong mengantar kita ke Hotel Kalimantan. Sekitar 30 - 45 menit kita sampai di Hotel.\n\nPelayanan ramah dan dismabut dengan senyuman menjadi kita berprasangka positif untuk Hotel ini. Keadaan hotel lumayan bersih, AC dingin, kamar mandi lumayan laah untuk dipelosok. Dan tak kalaih menariknya WIFI bekerja maksimal, dengan menu Sarapan yang unik.\n\nBagus untuk Hotel Kalimantan....jadi cobalah ke Penajem Utara....selamat travelling!!!!!",
+      "user": null,
+      "title": "Menyebrang Laut TOP BGT",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Rooms",
+          "value": "5"
+        },
+        {
+          "name": "Value",
+          "value": "5"
+        },
+        {
+          "name": "Service",
+          "value": "5"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "197331166",
+          "locations": [
+            {
+              "name": "Hotel Kalimantan",
+              "id": "10358012",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d10358012-Reviews-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d10358012-Reviews-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "caption": "Meneyberang ke Panajem Utara",
+          "published_date": "2016-06-27T23:14:32-0400",
+          "user": {
+            "username": "DenOjikk",
+            "member_id": "0",
+            "user_id": "1340CED9942C579FC6D18AF068FF8024",
+            "type": "user",
+            "avatar": {
+              "id": "128674221",
+              "caption": "OjikkToNewYork",
+              "published_date": "2015-04-09T22:07:14-0400",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2015-04-09T22:07:14-0400",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "2448",
+                  "height": "3264"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "338",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "154",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": true,
+          "uploaded_date": "2016-06-27T23:14:32-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/c3/08/de/meneyberang-ke-panajem.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/c3/08/de/meneyberang-ke-panajem.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/c3/08/de/meneyberang-ke-panajem.jpg",
+              "width": "2000",
+              "height": "1500"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/c3/08/de/meneyberang-ke-panajem.jpg",
+              "width": "550",
+              "height": "413"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/c3/08/de/meneyberang-ke-panajem.jpg",
+              "width": "250",
+              "height": "188"
+            }
+          }
+        },
+        {
+          "id": "197330751",
+          "locations": [
+            {
+              "name": "Hotel Kalimantan",
+              "id": "10358012",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d10358012-Reviews-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d10358012-Reviews-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "caption": "Speedboat",
+          "published_date": "2016-06-27T23:11:58-0400",
+          "user": {
+            "username": "DenOjikk",
+            "member_id": "0",
+            "user_id": "1340CED9942C579FC6D18AF068FF8024",
+            "type": "user",
+            "avatar": {
+              "id": "128674221",
+              "caption": "OjikkToNewYork",
+              "published_date": "2015-04-09T22:07:14-0400",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2015-04-09T22:07:14-0400",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "2448",
+                  "height": "3264"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "338",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/ab/69/ad/ojikktonewyork.jpg",
+                  "width": "154",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": true,
+          "uploaded_date": "2016-06-27T23:11:58-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/c3/07/3f/speedboat.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/c3/07/3f/speedboat.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/c3/07/3f/speedboat.jpg",
+              "width": "1125",
+              "height": "1500"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/c3/07/3f/speedboat.jpg",
+              "width": "338",
+              "height": "450"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/c3/07/3f/speedboat.jpg",
+              "width": "154",
+              "height": "205"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "375694407",
+      "lang": "in",
+      "location_id": "10358012",
+      "published_date": "2016-05-23T00:48:15-04:00",
+      "published_platform": "Desktop",
+      "rating": "3",
+      "type": "review",
+      "helpful_votes": "1",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d10358012-r375694407-Hotel_Kalimantan-Penajam_East_Kalimantan_Kalimantan.html#review375694407",
+      "travel_date": "2016-05",
+      "text": "kesan pertama pas nginep disini :\n\n+ hotelnya bersih, kondisi kamar juga bersih, rapih, wangi\n+ sarapannya seperti dirumah, waktu saya nginep disana sarapannya nasi+sayur capcay+telur dadar,, rasanya menurut saya meskipun menu nya sederhana tapi ENAAAAKKKKK\n+ staff nya ramah, recomended untuk bussines hotel\n+ sekitar hotel banyak warung makan, klo malem iseng pengen makan depan hotel ada warung nasi padang\n+ ada saluran TV kabel, ada saluran favorite saya, Rodja TV\n+ meskipun hotel kecil di daerah tapi showernya tersedia air panasnya\n\n- wifi cuma bisa di loby dan ruang makan, sinyalnya lumayan kenceng\n\nsemoga ke depannya hotel ini bisa menyediakan wifi juga sampai ke kamar",
+      "user": null,
+      "title": "Hotel Lama tapi Bersih,Sarapannya enak",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Rooms",
+          "value": "4"
+        },
+        {
+          "name": "Location",
+          "value": "4"
+        },
+        {
+          "name": "Service",
+          "value": "4"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false
+    }
+  ],
+  "reviewTags": []
+},
+{
+  "id": "8284730",
+  "type": "HOTEL",
+  "name": "Ika Hotel",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/a0/92/09/ika-hotel.jpg",
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": null,
+  "category": "hotel",
+  "rating": 3.5,
+  "hotelClass": "0.0",
+  "hotelClassAttribution": null,
+  "phone": "+62 543 5233000",
+  "address": "Jl. Propinsi no.19 Petung KM. 18, Penajam 76143 Indonesia",
+  "email": null,
+  "amenities": [],
+  "numberOfRooms": null,
+  "prices": [],
+  "latitude": "-1.29644",
+  "longitude": "116.74152",
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+  "website": "http://www.ikahotelpetung.com/",
+  "rankingString": "#2 of 4 hotels in Penajam",
+  "rankingDenominator": "4",
+  "numberOfReviews": 6,
+  "reviews": [
+    {
+      "id": "620469657",
+      "lang": "in",
+      "location_id": "8284730",
+      "published_date": "2018-09-29T07:02:49-04:00",
+      "published_platform": "Desktop",
+      "rating": "5",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d8284730-r620469657-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review620469657",
+      "travel_date": "2018-09",
+      "text": "Hotel ini Recommended sekali kalau mau menginap di sekitaran kota Petung-Penajam..Saking seringnya saya nginap disini hampir semua staff hotelnya sudah kenal dengan saya, dan pastinya selalu dapat special rate..hehe..Sebaiknya booking dulu kalau hendak menginap disini karena ada saat2 tertentu hotel ini full booked. Hotel ini juga menyediakan fasilitas antar jemput ke pelabuhan Penajam. Kamar hotel tidak mewah tapi cukup standart untuk sebuah hotel dikota kecil, dan menu sarapannya juga lumayan untuk membuat perut kenyang. Posisi hotel sangat strategis, berada di jalan besar dan dekat ke pasar, jalanan tetap selalu ramai meski dimalam hari. Dan jangan khawatir kelaparan, sepanjang malam sangat banyak warung makan seafood disekitar hotel dan mudah sekali untuk belanja2 karena disebrang hotel ada mini market dengan harga yang cukup murah. Saat ini hotel hanya menerima pembayaran cash, padahal sebelumnya bisa pakai credit card dan debit. Kualitas sinyal yang kurang baik menjadi kendalanya, Untungnya didekat hotel ada ATM beberapa bank, jadi tidak menjadi masalah. Semoga kedepan hotel Ika akan tetap menjadi yang terbaik di kota Petung.",
+      "user": null,
+      "title": "Hotel terbaik di Petung...Ramah pelayannya...",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false
+    },
+    {
+      "id": "375807216",
+      "lang": "in",
+      "location_id": "8284730",
+      "published_date": "2016-05-23T07:27:58-04:00",
+      "published_platform": "Mobile",
+      "rating": "3",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d8284730-r375807216-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review375807216",
+      "travel_date": "2016-05",
+      "text": "..............................Cukup nyaman untuk anda yg hendak bermalam di sekitaran petung. Cukup bersih, harga terjangkau. Tempat nya strategis. Dekat dengan keramaian, pasar, tidak jauh dr twmpat mencari makanan dan toko. Tingkatkan terus pelayanannya.........................",
+      "user": null,
+      "title": "Terbaik di daerahnya",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "190752027",
+          "locations": [
+            {
+              "name": "Ika Hotel",
+              "id": "8284730",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "published_date": "2016-05-27T05:23:43-0400",
+          "user": {
+            "username": "ezza62",
+            "member_id": "0",
+            "user_id": "079B4C0C39BA12F77FAEC0DB825E316D",
+            "type": "user",
+            "avatar": {
+              "id": "452388009",
+              "caption": "default-avatar-2020-50",
+              "published_date": "2020-02-21T15:55:02-0500",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2020-02-21T15:55:02-0500",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+                  "width": "1200",
+                  "height": "1200"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e4/a9/default-avatar-2020-50.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "2",
+          "is_blessed": false,
+          "uploaded_date": "2016-05-23T11:27:57-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/5e/a5/1b/ta-img-20160523-232435.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/5e/a5/1b/ta-img-20160523-232435.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/5e/a5/1b/ta-img-20160523-232435.jpg",
+              "width": "768",
+              "height": "1024"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/5e/a5/1b/ta-img-20160523-232435.jpg",
+              "width": "337",
+              "height": "450"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/5e/a5/1b/ta-img-20160523-232435.jpg",
+              "width": "154",
+              "height": "205"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "375714376",
+      "lang": "in",
+      "location_id": "8284730",
+      "published_date": "2016-05-23T02:11:25-04:00",
+      "published_platform": "Desktop",
+      "rating": "3",
+      "type": "review",
+      "helpful_votes": "1",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d8284730-r375714376-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review375714376",
+      "travel_date": "2016-05",
+      "text": "hotel ini termasuk baru di penajam,\nkondisi kamar bersih, kamar mandi lumayan bersih, ada air panasnya\nada saluran TV kabelnya, wifi di kamar hotel lumayan sinyalnya\n\nminusnya waktu saya menginap karena hotelnya lumayan besar & yg menginap cuma saya ber2 teman jadi aga spooky,,\n\nkondisi di luar hotel lumayan ramai, ada tukang sate padang di samping hotel, bukanya cuma malam, dan rasanya enakkkkkk bngt",
+      "user": null,
+      "title": "hotel baru",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Value",
+          "value": "3"
+        },
+        {
+          "name": "Location",
+          "value": "3"
+        },
+        {
+          "name": "Service",
+          "value": "3"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false
+    },
+    {
+      "id": "328909783",
+      "lang": "in",
+      "location_id": "8284730",
+      "published_date": "2015-11-24T18:45:35-05:00",
+      "published_platform": "Desktop",
+      "rating": "3",
+      "type": "review",
+      "helpful_votes": "1",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d8284730-r328909783-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review328909783",
+      "travel_date": "2015-11",
+      "text": "Hotel ini lumayan bagus, standar untuk anda yang ingin menghabiskan waktu saat berkunjung ke Penajam Paser Utara. Harga cukup bersaing untuk wilayah penajam.\nCatatan : Ruang makan masih agak kecil dengan kapasita 8 - 10 table.",
+      "user": null,
+      "title": "Hotel kecil di Penajam",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Rooms",
+          "value": "3"
+        },
+        {
+          "name": "Cleanliness",
+          "value": "3"
+        },
+        {
+          "name": "Service",
+          "value": "3"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "161077490",
+          "locations": [
+            {
+              "name": "Ika Hotel",
+              "id": "8284730",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "caption": "Hotel Ika",
+          "published_date": "2015-11-24T23:42:33-0500",
+          "user": {
+            "username": "InnalRahman",
+            "member_id": "0",
+            "user_id": "866F99AD88892E5A93F8811185FCCD54",
+            "type": "user",
+            "avatar": {
+              "id": "140642063",
+              "caption": "InnalRahman",
+              "published_date": "2015-07-16T11:56:21-0400",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2015-07-16T11:56:21-0400",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/62/07/0f/innalrahman.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/62/07/0f/innalrahman.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/62/07/0f/innalrahman.jpg",
+                  "width": "512",
+                  "height": "512"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/62/07/0f/innalrahman.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/62/07/0f/innalrahman.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": true,
+          "uploaded_date": "2015-11-24T23:42:33-0500",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/99/d8/f2/ika-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/99/d8/f2/ika-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/99/d8/f2/ika-hotel.jpg",
+              "width": "841",
+              "height": "1261"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/99/d8/f2/ika-hotel.jpg",
+              "width": "300",
+              "height": "450"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/99/d8/f2/ika-hotel.jpg",
+              "width": "137",
+              "height": "205"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "322832856",
+      "lang": "in",
+      "location_id": "8284730",
+      "published_date": "2015-10-29T00:15:40-04:00",
+      "published_platform": "Desktop",
+      "rating": "3",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d8284730-r322832856-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review322832856",
+      "travel_date": "2015-10",
+      "text": "Hotel ini terletak didaerah petung kecamatan penajam, sekitar 20 menit dari pelabuhan chevron. Harga yang ditawarkan mulai dari 300an rb sampai 600an ribu, disaat saya menginap disana, sekitar Oktober 2015. Fasilitas dikamar  yang disediakan berupa tv flat, bed yang empuk, air mineral, coffe, teh, hitter, kamar mandi dengan shower, wastafel dan air panas. Sarapan yang disediakan berupa nasi dan lauk, bubur ayam, roti dengan selai, jajanan pasar, buah, teh, kopi, air putih dan sirup. Oya, disini juga ada fasilitas wifi dan laundry..., pelayanan laundry tergolong cepat, diambil di pagi hari sekitar jam 8.., jam 4 sore sudah selesai. \nPosisi Hotel ini terletak dekat dengan pasar, sehingga kondisinya cukup ramai. Terdapat beberapa toko kelontong yang menjual berbagai kebutuhan. Selain itu, terdapat banyak rumah makan atau warung yang menjual makanan dimalam hari. Diantaranya yang sering kami kunjungi RC Boys, sate ayam kampung, RM Pelangi dan Coto Handil.",
+      "user": null,
+      "title": "Hotel di Penajam",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Value",
+          "value": "3"
+        },
+        {
+          "name": "Sleep Quality",
+          "value": "4"
+        },
+        {
+          "name": "Service",
+          "value": "4"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false
+    },
+    {
+      "id": "277758551",
+      "lang": "in",
+      "location_id": "8284730",
+      "published_date": "2015-06-04T00:03:24-04:00",
+      "published_platform": "Desktop",
+      "rating": "4",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g8290699-d8284730-r277758551-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html#review277758551",
+      "travel_date": "2015-04",
+      "text": "hotel ini baru dibuka akhir 2014, memberi warna baru di penajam yang selama ini belum ada hotel dalam arti sebenarnya. hotel syariah ini semua stafnya ramah, dan sangat membantu tamu. memang masih ada kekurangan dibandingkan hotel di kota balikpapan, misalnya ketika tamu banyak, maka air shower akan kecil, atau kurangnya tempat parkir ketika hotel sdg penuh tetapi itu dapat dikompensasi dengan pelayanan dari staf yang cekatan. dan satu lagi yg patut diacungi jempol, staf tidak mau (tdk diperbolehkan?) menerima tips dari tamu. mereka akan siap membantu keperluan tamu hotel selama dibutuhkan. sarapan tersedia dengan menu sederhana tetapi ada pilihan nasi, lauk pauk, roti dengan selai, bubur, buah, kue dan teh kopi atau sirup jeruk. kamar bersih dan sprei bersih. laundry juga cepat, masuk pagi, sore selesai. wifi sempat jadi masalah pd waktu kedatangan kami yg pertama krn hanya bisa diakses di lantai 1. tetapi pd kedatangan berikutnya mereka mendengar masukan kami dan dapat diakses sampai ke kamar. dengan pelayanan yg bagus membuat kami betah tinggal 2 bulan di ika hotel walaupun penajam sendiri adalah daerah yg sepi. tetapi lokasi hotel berada di pusat keramaian penajam yaitu pasar petung sehingga mudah mencari makanan atau sekedar beli sesuatu di toko sekitarnya.",
+      "user": null,
+      "title": "hotel bintang di penajam",
+      "owner_response": null,
+      "subratings": [
+        {
+          "name": "Value",
+          "value": "4"
+        },
+        {
+          "name": "Location",
+          "value": "5"
+        },
+        {
+          "name": "Service",
+          "value": "4"
+        }
+      ],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "144740873",
+          "locations": [
+            {
+              "name": "Ika Hotel",
+              "id": "8284730",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "caption": "tempat breakfast",
+          "published_date": "2015-08-13T06:03:51-0400",
+          "user": {
+            "username": "anitagan",
+            "member_id": "0",
+            "user_id": "2489BB5AC83A79FA3B7372C87E187398",
+            "type": "user",
+            "avatar": {
+              "id": "178887730",
+              "caption": "anitagan",
+              "published_date": "2016-03-22T04:46:32-0400",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2016-03-22T04:46:32-0400",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/a9/9c/32/anitagan.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/a9/9c/32/anitagan.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/9c/32/anitagan.jpg",
+                  "width": "1200",
+                  "height": "1600"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a9/9c/32/anitagan.jpg",
+                  "width": "338",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/a9/9c/32/anitagan.jpg",
+                  "width": "154",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": true,
+          "uploaded_date": "2015-08-13T06:03:51-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/a0/92/09/ika-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/a0/92/09/ika-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/a0/92/09/ika-hotel.jpg",
+              "width": "2000",
+              "height": "1500"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/a0/92/09/ika-hotel.jpg",
+              "width": "550",
+              "height": "413"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/a0/92/09/ika-hotel.jpg",
+              "width": "250",
+              "height": "188"
+            }
+          }
+        },
+        {
+          "id": "144740557",
+          "locations": [
+            {
+              "name": "Ika Hotel",
+              "id": "8284730",
+              "web_url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Hotel_Review-g8290699-d8284730-Reviews-Ika_Hotel-Penajam_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 8290699
+            }
+          ],
+          "caption": "compliment",
+          "published_date": "2015-08-13T06:02:38-0400",
+          "user": {
+            "username": "anitagan",
+            "member_id": "0",
+            "user_id": "2489BB5AC83A79FA3B7372C87E187398",
+            "type": "user",
+            "avatar": {
+              "id": "178887730",
+              "caption": "anitagan",
+              "published_date": "2016-03-22T04:46:32-0400",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2016-03-22T04:46:32-0400",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/a9/9c/32/anitagan.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/a9/9c/32/anitagan.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/a9/9c/32/anitagan.jpg",
+                  "width": "1200",
+                  "height": "1600"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/a9/9c/32/anitagan.jpg",
+                  "width": "338",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/0a/a9/9c/32/anitagan.jpg",
+                  "width": "154",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2015-08-13T06:02:38-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/a0/90/cd/ika-hotel.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/a0/90/cd/ika-hotel.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/a0/90/cd/ika-hotel.jpg",
+              "width": "2000",
+              "height": "1500"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/a0/90/cd/ika-hotel.jpg",
+              "width": "550",
+              "height": "413"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/a0/90/cd/ika-hotel.jpg",
+              "width": "250",
+              "height": "188"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "reviewTags": []
+}]

@@ -1,0 +1,293 @@
+[{
+  "id": "15122883",
+  "type": "RESTAURANT",
+  "name": "Rafi Seafood",
+  "image": null,
+  "awards": [],
+  "rankingPosition": "2",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 3,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+62 812-2365-9946",
+  "address": "Jl. Jenderal Ahmad Yani Melayu, Tenggarong, Kutai Kartanegara 75512 Indonesia",
+  "email": null,
+  "cuisine": [
+    "Seafood"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "-0.4175",
+  "longitude": "116.98859",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g14795061-d15122883-Reviews-Rafi_Seafood-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "website": null,
+  "rankingDenominator": "2",
+  "rankingString": "#2 of 2 places to eat in Kutai Kartanegara",
+  "numberOfReviews": 1,
+  "reviews": [
+    {
+      "id": "638250920",
+      "lang": "in",
+      "location_id": "15122883",
+      "published_date": "2018-12-08T18:23:56-05:00",
+      "published_platform": "Desktop",
+      "rating": "3",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g14795061-d15122883-r638250920-Rafi_Seafood-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html#review638250920",
+      "travel_date": "2018-07",
+      "text": "lagi kepengen makan hidangan laut?\nsilahkan coba tempat ini, menyediakan berbagai makanan laut seperti, ikan, udang, kepiting, cumi dengan berbagai olahan, seperti asam manis, mentega dan bumbu lainnya, disini juga tersedia bebek dan ayam.\nsambalnya yang menjadi andalan rumah makan in.\nnamun untuk harga tergolong sedikit mahal untuk kisaran rmah makan sari laut yang lain, jadi jika ada kocek lebih ya silahkan mencoba teman ",
+      "user": null,
+      "title": "menikmati hidangan laut",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false
+    }
+  ],
+  "reviewTags": []
+},
+{
+  "id": "14962074",
+  "type": "RESTAURANT",
+  "name": "Abah Coffee Shop dan Resto",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+  "awards": [],
+  "rankingPosition": "1",
+  "priceLevel": null,
+  "category": "restaurant",
+  "rating": 5,
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": null,
+  "address": "Jl. Pesut No. 11A Timbau, Tenggarong, Kutai Kartanegara 75511 Indonesia",
+  "email": null,
+  "cuisine": [
+    "International"
+  ],
+  "mealTypes": [],
+  "dietaryRestrictions": [],
+  "hours": [],
+  "latitude": "-0.436717",
+  "longitude": "116.98805",
+  "webUrl": "https://www.tripadvisor.com/Restaurant_Review-g14795061-d14962074-Reviews-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+  "website": null,
+  "rankingDenominator": "2",
+  "rankingString": "#1 of 2 places to eat in Kutai Kartanegara",
+  "numberOfReviews": 2,
+  "reviews": [
+    {
+      "id": "771506542",
+      "lang": "in",
+      "location_id": "14962074",
+      "published_date": "2020-09-22T16:39:19-04:00",
+      "published_platform": "Desktop",
+      "rating": "5",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g14795061-d14962074-r771506542-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html#review771506542",
+      "travel_date": "2020-08",
+      "text": "Lokasinya mudah di akses, tempatnya bagus, ada indoor & outdoor, didalam adem ada AC. Makanan dan minumannya recomended, kopinya apalagi",
+      "user": null,
+      "title": "Recomended coffee shop di Tenggarong",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false
+    },
+    {
+      "id": "756833530",
+      "lang": "in",
+      "location_id": "14962074",
+      "published_date": "2020-06-02T19:10:58-04:00",
+      "published_platform": "Mobile",
+      "rating": "5",
+      "type": "review",
+      "helpful_votes": "0",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g14795061-d14962074-r756833530-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html#review756833530",
+      "travel_date": "2020-06",
+      "text": "Abah Coffee Shop & Resto, pilihan kopinya banyak dan ragam pilihan makan dan minuman. Tempat yang nyaman dikala anda dan keluarga",
+      "user": null,
+      "title": "Abah Coffee Shop & Resto tempat yang nyaman untuk anda beserta keluarga menikmati sajian kopi dengan banyak pilihan",
+      "owner_response": null,
+      "subratings": [],
+      "machine_translated": false,
+      "machine_translatable": false,
+      "photos": [
+        {
+          "id": "459229823",
+          "locations": [
+            {
+              "name": "Abah Coffee Shop dan Resto",
+              "id": "14962074",
+              "web_url": "https://www.tripadvisor.com/Restaurant_Review-g14795061-d14962074-Reviews-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Restaurant_Review-g14795061-d14962074-Reviews-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 14795061
+            }
+          ],
+          "caption": "Abah Coffee Shop & Resto",
+          "published_date": "2020-06-04T14:28:38-0400",
+          "user": {
+            "username": "abahcoffee",
+            "member_id": "0",
+            "user_id": "7A7C84B743DFF308684B97DA808B4C64",
+            "type": "user",
+            "avatar": {
+              "id": "452389307",
+              "caption": "default-avatar-2020-65",
+              "published_date": "2020-02-21T16:07:05-0500",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2020-02-21T16:07:05-0500",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "1200",
+                  "height": "1200"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2020-06-02T23:06:43-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/5f/4a/7f/abah-coffee-shop-resto.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/5f/4a/7f/abah-coffee-shop-resto.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/5f/4a/7f/abah-coffee-shop-resto.jpg",
+              "width": "1536",
+              "height": "2048"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/5f/4a/7f/abah-coffee-shop-resto.jpg",
+              "width": "338",
+              "height": "450"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/5f/4a/7f/abah-coffee-shop-resto.jpg",
+              "width": "154",
+              "height": "205"
+            }
+          }
+        },
+        {
+          "id": "459229824",
+          "locations": [
+            {
+              "name": "Abah Coffee Shop dan Resto",
+              "id": "14962074",
+              "web_url": "https://www.tripadvisor.com/Restaurant_Review-g14795061-d14962074-Reviews-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+              "intent_url": "tripadvisor:///Restaurant_Review-g14795061-d14962074-Reviews-Abah_Coffee_Shop_dan_Resto-Kutai_Kartanegara_East_Kalimantan_Kalimantan.html",
+              "parent_location_id": 14795061
+            }
+          ],
+          "caption": "Abah Coffee Shop & Resto",
+          "published_date": "2020-06-04T14:28:38-0400",
+          "user": {
+            "username": "abahcoffee",
+            "member_id": "0",
+            "user_id": "7A7C84B743DFF308684B97DA808B4C64",
+            "type": "user",
+            "avatar": {
+              "id": "452389307",
+              "caption": "default-avatar-2020-65",
+              "published_date": "2020-02-21T16:07:05-0500",
+              "helpful_votes": "0",
+              "is_blessed": false,
+              "uploaded_date": "2020-02-21T16:07:05-0500",
+              "images": {
+                "small": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "150",
+                  "height": "150"
+                },
+                "thumbnail": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "50",
+                  "height": "50"
+                },
+                "original": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "1200",
+                  "height": "1200"
+                },
+                "large": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "450",
+                  "height": "450"
+                },
+                "medium": {
+                  "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/f6/e9/bb/default-avatar-2020-65.jpg",
+                  "width": "205",
+                  "height": "205"
+                }
+              }
+            }
+          },
+          "helpful_votes": "0",
+          "is_blessed": false,
+          "uploaded_date": "2020-06-02T23:06:43-0400",
+          "images": {
+            "small": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+              "width": "150",
+              "height": "150"
+            },
+            "thumbnail": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+              "width": "50",
+              "height": "50"
+            },
+            "original": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+              "width": "1536",
+              "height": "2048"
+            },
+            "large": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+              "width": "338",
+              "height": "450"
+            },
+            "medium": {
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+              "width": "154",
+              "height": "205"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "reviewTags": []
+}]

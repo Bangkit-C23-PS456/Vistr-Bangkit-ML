@@ -1,0 +1,1983 @@
+[{
+  "type": "ATTRACTION",
+  "image": null,
+  "location_id": "14800394",
+  "name": "Alam Sejati 77",
+  "latitude": "-1.22725",
+  "longitude": "116.84311",
+  "num_reviews": "0",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/14800394",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d14800394-Reviews-Alam_Sejati_77-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d14800394-Alam_Sejati_77-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Jl. Soekarno Hatta",
+    "street2": null,
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Jl. Soekarno Hatta, Bontang Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "tags": {},
+  "reviews": []
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/85/c5/e7/taman-wisata-graha-mangrove.jpg",
+  "location_id": "14027099",
+  "name": "Tourism Park Graha Mangrove",
+  "latitude": "0.15235",
+  "longitude": "117.48071",
+  "num_reviews": "1",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/85/c5/e7/taman-wisata-graha-mangrove.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/85/c5/e7/taman-wisata-graha-mangrove.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1008",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/85/c5/e7/taman-wisata-graha-mangrove.jpg",
+        "height": "756"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/85/c5/e7/taman-wisata-graha-mangrove.jpg",
+        "height": "412"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/85/c5/e7/taman-wisata-graha-mangrove.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2018-06-30T06:03:08-0400",
+    "caption": "Taman Wisata Graha Mangrove",
+    "id": "327534055",
+    "helpful_votes": "0",
+    "published_date": "2018-06-30T06:03:08-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/14027099",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.756194829940796",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "5",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#5 of 8 things to do in Bontang",
+  "subcategory_ranking": "#5 of 8 things to do in Bontang",
+  "ranking": "#5 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "5.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d14027099-Reviews-Tourism_Park_Graha_Mangrove-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d14027099-Tourism_Park_Graha_Mangrove-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 811-110-257",
+  "address_obj": {
+    "street1": "Jl. Gunung Binaya No.6",
+    "street2": "Gn. Elai, Bontang Utara",
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75325"
+  },
+  "address": "Jl. Gunung Binaya No.6 Gn. Elai, Bontang Utara, Bontang 75325 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "70",
+      "name": "Parks"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "ja",
+      "title": "一面のマングローブ",
+      "text": "マングローブを見ることができます。マングローブは津波など大きい波を防いでくれる役割もあるようです。きれいです。",
+      "publishedDate": "2019-10-03T05:09:53-04:00",
+      "rating": "5",
+      "travelDate": "2019-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/e9/db/90/wandelpaden-in-goede.jpg",
+  "location_id": "14800794",
+  "name": "Mangrove Reserve Forest Area BSD",
+  "num_reviews": "2",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/e9/db/90/wandelpaden-in-goede.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/e9/db/90/wandelpaden-in-goede.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1280",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/e9/db/90/wandelpaden-in-goede.jpg",
+        "height": "960"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/e9/db/90/wandelpaden-in-goede.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/e9/db/90/wandelpaden-in-goede.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2018-07-30T05:38:56-0400",
+    "caption": "Wandelpaden in goede conditie",
+    "id": "334093200",
+    "helpful_votes": "0",
+    "published_date": null,
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/14800794",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.7319581508636475",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "7",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#7 of 8 things to do in Bontang",
+  "subcategory_ranking": "#7 of 8 things to do in Bontang",
+  "ranking": "#7 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "3.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d14800794-Reviews-Mangrove_Reserve_Forest_Area_BSD-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d14800794-Mangrove_Reserve_Forest_Area_BSD-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": "Gunung Elai, North Bontang",
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": "75325"
+  },
+  "address": "Gunung Elai, North Bontang, Bontang 75325 Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "57",
+      "name": "Forests"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Wisata Mangrove",
+      "text": "Dari Bontang Kuala bisa menuju kawasan ini dengan menyewa perahu penduduk. Tarifnya tidak mahal untuk sekitar 5 penumpang. Di sini pengunjung akan diajak menyusuri mangrove dan jika beruntung akan bertemu dengan hewan-hewan liar.",
+      "publishedDate": "2019-09-15T07:42:51-04:00",
+      "rating": "4",
+      "travelDate": "2019-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "nl",
+      "title": "Voor buitenlanders 30 keer duurder",
+      "text": "Uitgebreide boardwalks door het mangrovegebied.  We hebben er geen apen, otters of krokodillen gezien. Ook waren er weinig vogels te spotten. De paden zijn mooi aangelegd met goede informatieborden, maar het bedrag dat van buitenlanders wordt gevraagd is belachelijk voor wat je krijgt. Voor vier personen een wandeling van een uur in een park voor 1 miljoen roepies! Overslaan!",
+      "publishedDate": "2018-07-30T01:56:40-04:00",
+      "rating": "2",
+      "travelDate": "2018-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/99/e4/cb/pulau-miang.jpg",
+  "location_id": "8453881",
+  "name": "Miang Island",
+  "latitude": "0.72903",
+  "longitude": "118.00957",
+  "num_reviews": "2",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/99/e4/cb/pulau-miang.jpg",
+        "height": "141"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/99/e4/cb/pulau-miang.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1095",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/99/e4/cb/pulau-miang.jpg",
+        "height": "617"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/99/e4/cb/pulau-miang.jpg",
+        "height": "576"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/99/e4/cb/pulau-miang.jpg",
+        "height": "309"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-11-25T00:55:54-0500",
+    "caption": "Pulau Miang",
+    "id": "161080523",
+    "helpful_votes": "0",
+    "published_date": "2015-11-25T00:55:54-0500",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8453881",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.738356113433838",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "6",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#6 of 8 things to do in Bontang",
+  "subcategory_ranking": "#6 of 8 things to do in Bontang",
+  "ranking": "#6 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d8453881-Reviews-Miang_Island-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d8453881-Miang_Island-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Kecamatan Sangkulirang",
+    "street2": null,
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Kecamatan Sangkulirang, Bontang Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "20",
+      "name": "Islands"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "in",
+      "title": "Pulau yang kaya akan biota laut",
+      "text": "Keindahan panorama bawah laut Pulau Miang sangat bagus sekali untuk dikembangkan, sayang masih banyak sampah masyarakat yang berserakan di bawah laut, jika dibersihkan, keindahannya akan bersaing dengan objek wisata di daerah sekitarnya.",
+      "publishedDate": "2015-11-24T19:53:15-05:00",
+      "rating": "4",
+      "travelDate": "2014-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pulau dengan keindahan keanekaragaman ikan laut",
+      "text": "Pulau Miang bisa ditempuh dengan kapal dari sangata, kabupaten kutai timur, Kalimantan Timur. Ada 2 pulau, yakni Pulau Miang Besar dan Pulau Miang Kecil. Disini kita bisa melihat keberagaman ikan laut yang bisa dengan mudah dilihat. Beberapa teman biasa free dive dan spear fishing disini.",
+      "publishedDate": "2015-07-17T04:59:39-04:00",
+      "rating": "4",
+      "travelDate": "2015-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/36/af/88/feels-the-blue.jpg",
+  "location_id": "8667041",
+  "name": "Segajah Beach",
+  "num_reviews": "8",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/36/af/88/feels-the-blue.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/36/af/88/feels-the-blue.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "1632",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/36/af/88/feels-the-blue.jpg",
+        "height": "1224"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/36/af/88/feels-the-blue.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/36/af/88/feels-the-blue.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-07-24T21:26:07-0400",
+    "caption": "Feels the blue......",
+    "id": "204910472",
+    "helpful_votes": "1",
+    "published_date": "2016-07-24T21:26:07-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/8667041",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.8071720600128174",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "4",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#4 of 8 things to do in Bontang",
+  "subcategory_ranking": "#4 of 8 things to do in Bontang",
+  "ranking": "#4 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.5",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d8667041-Reviews-Segajah_Beach-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d8667041-Segajah_Beach-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Bontang Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "52",
+      "name": "Beaches"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "Let the blue sky meet the blue sea and all is blue for a time",
+      "text": "Even though I have been living in Bontang since 1998, but it was my first time to visit Segajah Beach taking my best friends Fina and Vony from Jakarta. The beach is just a small, we can't find anything overthere, no caffe, no villas, no cottages even tent. Only the beautiful blue..blue...and blue colors surrounding there. Everything is blue, sky and sea which is combined by the contrast color of  white sands. The atmosphere is clear, clean and nice.\n\nYou have to concern about the tides time. I suggest you to come there in the morning after  9 a.m, when the sea is in low tide.  We can see the beach clearly. But in high tide the beach is still covered by water.\n\nMy boatman said that we could do snorkeling and skin diving around this beach.",
+      "publishedDate": "2016-07-24T17:09:14-04:00",
+      "rating": "5",
+      "travelDate": "2016-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "pulau yang kecil nan unik",
+      "text": "Tidak seperti namanya pulau ini memiliki luas yang terhitung sangat kecil, di mana anda hanya akan menemukan gundukan pasir di tengah laut tanpa ada pohon bahkan rumah. Yang perlu kalian ketahui keunikan dari Pulau Segajah ini adalah pulau ini akan menghilang di malam hari dan kembali muncul di siang hari.\n\nMuncul dan hilangnya pulau ini sendiri tidak lepas karena adanya pasang dan surut air lut yang terjadi, sehingga anda hanya bisa melihat dan berkunjung dari pagi hingga sore hari di kala air sedang surut dan harus segera meninggalkan pulau sebelum malam menjelang, sebab jika tetap tinggal maka anda pun akan ikut tenggelam bersama dengan pulau yang terendam air pasang.",
+      "publishedDate": "2017-05-17T17:19:13-04:00",
+      "rating": "4",
+      "travelDate": "2017-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Hanya ada saat air laut surut",
+      "text": "Pulau yang hanya muncul di saat air laut surut, pasir putih, tidak berpenghuni, dan tidak begitu besar. Jangan lupa memakai sunscreen yang cukup agar kulit tidak terbakar. Pengunjung bisa snorkling di sini, namun hati2 dengan bulu babi yang beracun. Bawa makanan sendiri jika ke sini, karena tidak ada warung dan jangan lupa membawa pulang sampah masing2 ya.",
+      "publishedDate": "2016-12-12T19:17:10-05:00",
+      "rating": "4",
+      "travelDate": "2016-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "WHAT A BEACH!!!",
+      "text": "Pantai segajah sangatlah bersih dan menawan. Di sore hari pulau segajah tidak dapat terlihat karena air laut telah pasang, sedangkan di siang hari pemandangannya amat sangat memukau ditambah lagi masih bagusnya karang-karang di sekitar pulau segajah. Tempat yang bagus untuk melakukan snorkling maupun diving!",
+      "publishedDate": "2016-10-01T19:05:33-04:00",
+      "rating": "4",
+      "travelDate": "2015-11",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Menikmati pasir Pulau Segajah",
+      "text": "Pulau Segajah hanya dapat di kunjungi saat air laut surut sekitar siang hari. Untuk menuju lokasi ini kita bisa menyewa kapal dari Bontang Kuala. Keindahan pasir putih dan jernihnya air laut bisa kita nikmati disini. Jangan lupa pakai sunblock karena tak ada tempat untuk berteduh.",
+      "publishedDate": "2016-08-25T22:30:13-04:00",
+      "rating": "4",
+      "travelDate": "2015-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pantai yang menawan",
+      "text": "segajah adalah salah satu objek wisata laut yg menawarkan pemandangan yang indah. Pantai ini merupakan pantai yang misterius karena hanya akan terlihat saat air laut surut. namun saat air laut pasang, pulau ini akan tertutup oleh air.",
+      "publishedDate": "2016-03-02T20:42:56-05:00",
+      "rating": "5",
+      "travelDate": "2015-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pantai unik yang hanya bisa ditemukan saat air surut",
+      "text": "Pulau ini sangat eksotik, terlihat saat air laut sedang surut, dan memiliki banyak bintang laut yang terhampar di pinggir pantai.",
+      "publishedDate": "2015-11-12T01:17:24-05:00",
+      "rating": "4",
+      "travelDate": "2015-10",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pantai Segajah, Pantai Misterius",
+      "text": "Pantai ini sangat unik, karena hanya kelihatan disaaat air surut sekitar pukul 10Am-4PM, setelahnya akan ketutup lagi bersama dengan pasang. Tidak ada tempat untuk berteduh disini karenanya anda boleh bawa persiapan payung, tempat duduk atau lainnya. tanpa harus berenang anda dapat menyaksikan ratusan bintang laut disekitar pulau.",
+      "publishedDate": "2015-09-23T02:22:29-04:00",
+      "rating": "4",
+      "travelDate": "2015-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/3a/8a/90/a-famous-restaurant-by.jpg",
+  "location_id": "7729146",
+  "name": "Bontang Kuala Village",
+  "latitude": "0.13398",
+  "longitude": "117.5012",
+  "num_reviews": "56",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/3a/8a/90/a-famous-restaurant-by.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/3a/8a/90/a-famous-restaurant-by.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/3a/8a/90/a-famous-restaurant-by.jpg",
+        "height": "1500"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/3a/8a/90/a-famous-restaurant-by.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/3a/8a/90/a-famous-restaurant-by.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2016-05-12T09:42:17-0400",
+    "caption": "A famous restaurant by the end of the woody road",
+    "id": "188385936",
+    "helpful_votes": "2",
+    "published_date": "2016-05-12T09:42:17-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/7729146",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "3.0532989501953125",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "1",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#1 of 8 things to do in Bontang",
+  "subcategory_ranking": "#1 of 8 things to do in Bontang",
+  "ranking": "#1 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d7729146-Reviews-Bontang_Kuala_Village-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d7729146-Bontang_Kuala_Village-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "47",
+      "name": "Sights & Landmarks"
+    },
+    {
+      "key": "51",
+      "name": "Other"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "address_obj": {
+    "street1": "Jl. Piere Tandean",
+    "street2": null,
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Jl. Piere Tandean, Bontang Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "34",
+      "name": "Neighborhoods"
+    },
+    {
+      "key": "163",
+      "name": "Points of Interest & Landmarks"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "Bontang Kuala Village ",
+      "text": "Bontang Kuala Is a Fisherman's Village which is a tourist attraction in the city of Bontang. Basically the houses here are not floating, but because they are built on the coast so they appear to float when the tide is high... Anjungan Restaurant serves fresh seafood from fishermen  Bontang Kuala fishermen, very beautiful scenery in the afternoon.",
+      "publishedDate": "2023-05-16T05:33:51-04:00",
+      "rating": "5",
+      "travelDate": "2023-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Enjoy sunrise from the Homestay",
+      "text": "Another thing you have to experience in Bontang Kuala is having a night in the homestay which is located above the sea. If you're lucky, you will witness how the sun crawling the horisson in the morning. And then... go a bit farther by local boat called \"perahu ces\" to a diving spot \"Pasilan\" to enjoy variety of sea fish under the water. Not satisfied enough? continue your trip to \"Segajah\" island. The island that only appears by around 11am until 3pm.",
+      "publishedDate": "2018-10-02T19:43:16-04:00",
+      "rating": "4",
+      "travelDate": "2018-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Fishing Village",
+      "text": "Bontang kuala is a fishing village, this place is very interesting, the house - the ruimah of the population built on the sea characteristic of this village, the people who live side by side and peace in one bond .. we can enjoy the sunset and sunrise and moonlight during the full moon on the village , many cafes for casual place and hanging out with friends .. stop by if there is time to Bontang\nI Love Bontang Kuala",
+      "publishedDate": "2018-01-03T16:04:13-05:00",
+      "rating": "4",
+      "travelDate": "2017-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Taste Local Cuisine : Gami Bawis",
+      "text": "Bontang Kuala was famous for its distinctive neighbourhood as a kampong above shallow sea water in the outskirt of Bontang city. Our family visit this place during a short trip to Bontang. It was a nice time to enjoy the board walk. The best time to visit would be during sunset. The brilliant colors of the sky and the clouds would make a good picture at some interesting selfie-spots in the board walk. After the sun goes down, the the artifical lights take over the lighting. It was romantic. Then we went to Si Bolang, a food stall in the kampong. The cook recommend Gami Bawis as the local cuisine. It was a seared local fish (bawis) seasoned with some tomato and chilli peppers in a hot stirr of sauce (gami). It was delicious. Would visit again next time.",
+      "publishedDate": "2017-07-21T03:31:24-04:00",
+      "rating": "3",
+      "travelDate": "2017-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Mixed Feeling",
+      "text": "This is an old village, though it looked like new. This village lies directly above the sea. All wooden infrastructure. So the road is very noisy.\n\nYou can find plenty of restaurants and cafe. Their signature dish is Sambal Gammi. Also dried salted fish. Also terasi.\n\nOne thing to remember, cars cannot go inside the village. So if came by car, you have to park outside (sufficient after the renovation) and walk inside. Most of the famous restaurants located at the end of the road. So you have to get ready walk a bit farther. If only they have transportation for those with car.",
+      "publishedDate": "2017-03-12T03:15:08-04:00",
+      "rating": "4",
+      "travelDate": "2017-03",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Motorcycle driving recklessly",
+      "text": "This village is neat actually. Unique, as the road made of ulin woods. But, typical like another fisherman's village, the surrounding is slump. Not tourist friendly because a lot of motorcycle driving recklessly into the village's road",
+      "publishedDate": "2016-09-06T02:30:37-04:00",
+      "rating": "2",
+      "travelDate": "2016-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "See another life in the sea village",
+      "text": "Good place to know another side of bontang local communities who lives above the sea, they build the house and lives in there... ",
+      "publishedDate": "2016-07-25T17:56:52-04:00",
+      "rating": "4",
+      "travelDate": "2016-03",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "SEE THE WAY THEY LIVE",
+      "text": "As a people who was born and grew up in big city, Jakarta. I got a little bit strange when the first time I had visited The Fisherman  Village in Bontang Kuala. It looked like normal villages as we know, but the houses, the streets and doing activities all is up the water. May be we can say The Floating Village. \n\nThe wooden pathways are structured by strong woods, named Kayu Ulin which only found in Borneo Island.\n\nWe can also join the Mangrove Tour : down the Sungai Belanda - Belanda River  by the boat. We can find the mangrove forest, keramba -the floating fish pond on the sea. And find out the old history about \nBontang city.\n\nIt is easy to find out place for eating, from the lowest and the highest price. It's depend on your budget. They offer the most fresh sea foods. Try Sambal Gami or anykind of Gami. Grinded chilies, tomatoes and prawn paste -terasi. So yummy......",
+      "publishedDate": "2016-07-24T18:59:56-04:00",
+      "rating": "5",
+      "travelDate": "2016-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "A good concept but with minimum management",
+      "text": "If you happened to visit Bontang district at East Kalimantan province, you have to go to Bontang Kuala village. Besides this location is believed as the origin of Bontang people, it has several tourist spots which nice to visit. The village is literally located above the water.\n\nThe best time to visit is during afternoon to evening.",
+      "publishedDate": "2016-05-12T03:37:22-04:00",
+      "rating": "2",
+      "travelDate": "2016-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Unique Water Village",
+      "text": "This village is the origin of Bontang city.\nHouses built above the sea.\nMany locals cafes and restaurants.\nAlso you can eat Bontang's traditional foods, famous one is Gami Bawis (traditional hotplate-spicy Bawis fish)",
+      "publishedDate": "2016-04-16T09:07:42-04:00",
+      "rating": "5",
+      "travelDate": "2016-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Village on wood",
+      "text": "Everything made from wood. Nice place to visit. Pls keep clean, so... many foreigner will come to visit. 😘😘😘😘😘",
+      "publishedDate": "2016-02-07T18:54:48-05:00",
+      "rating": "4",
+      "travelDate": "2016-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Traditional settlement on the coastal waters",
+      "text": "Most of the house built on the coastal waters.  Bontang Kuala provides several culinary and cultural tourism attraction. Visitors could use car or motorcycle to reach this area.  Many souvenirs offered by the local trader, both food and or others goods.",
+      "publishedDate": "2015-12-24T06:26:31-05:00",
+      "rating": "5",
+      "travelDate": "2015-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Just pasing by ",
+      "text": "Very friendly and helpful people, good weather.\n\nWhat can I say, I hope the people get better future as they deserve it ",
+      "publishedDate": "2015-06-09T03:45:18-04:00",
+      "rating": "4",
+      "travelDate": "2015-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "City on wood! human survival skill is wonderful!",
+      "text": "Whole city was on wood,,, people are leaving there above water,, it was amazing,,, thanks to IRON WOOD!",
+      "publishedDate": "2015-03-04T18:07:20-05:00",
+      "rating": "4",
+      "travelDate": "2015-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Kampung atas air andalan orang bontang",
+      "text": "Dimana lagi kita bisa menikmati pesisir laut bontang sambil melintasi jembatan kayu ulin di Desa Bontang Kuala. ",
+      "publishedDate": "2020-07-06T17:10:51-04:00",
+      "rating": "5",
+      "travelDate": "2019-10",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Hunting Sunset di Bontang Kuala",
+      "text": "Saya berkunjung di Bontang Kuala diatas Jam 16.00\n\nUntuk mendapatkan golden hour, dimana sinar matahari berwarna kuning. Cocok buat fotography.\n\nSambil makan sambil gami, ada namanya warung poespa di dekat panggung dan samping BK kafe.\n\nFoto saya diambil dari camera Huawei, powered by Leica.\n",
+      "publishedDate": "2019-11-10T04:10:09-05:00",
+      "rating": "5",
+      "travelDate": "2019-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "ja",
+      "title": "インスタばえ",
+      "text": "インスタばえしそうなスポットです。割と長い赤い橋が続いています。カップルが多いように思えました。ラブラブだなあ。",
+      "publishedDate": "2019-10-03T05:07:57-04:00",
+      "rating": "5",
+      "travelDate": "2019-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Susur Sungai Belanda",
+      "text": "Di Bontang terdapat pemukiman warga di atas laut. Bangunannya kokoh dan jembatannya terbuat dari kayu ulin. Di sini pengunjung bisa berjalan kaki berkeliling,santap seafood atau berperahu menuju Sungai Belanda. Tempatnya asyik untuk dikunjungi saat sore hari.",
+      "publishedDate": "2019-09-15T07:36:01-04:00",
+      "rating": "4",
+      "travelDate": "2019-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Kampung unik diatas laut",
+      "text": "Salah satu destinasi wisata yg unik dan menarik, karena kampung yg ada dsini didirikan diatas laut dengan tiang pancang kayu. Cukup banyak rumah2 yg dtinggali termasuk jalannya pun dibuat dari kayu. Mmg bagi kita yg pertama kali datang agak kaget karena kl ada kendaraan lewat suaranya cukup berisik dan membuat kaget. Semakin kedalam semakin banyak tempat hiburan, agak jauh dr pemukiman warga. Warung makan, tempat karaoke hingga paling ujung adalah resto jimbaran dan cafe kapal. Yah lumayan juga jalannya utk pejalan kaki sekitar 20 menit jalan santai menikmati suasana kampung ini.. ",
+      "publishedDate": "2019-09-03T16:45:36-04:00",
+      "rating": "4",
+      "travelDate": "2019-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Tempat menarik dikunjungi ",
+      "text": "Tempat yang menarik. \nTempatnya bersih dan tidak ada sampah plastik berserakan. Very good! \nWaktu datang kesini pada saat malam hari jd kalau sore hari mungkin akan jauh lebih cantik sambil melihat suasana laut. ",
+      "publishedDate": "2019-07-30T23:30:51-04:00",
+      "rating": "4",
+      "travelDate": "2019-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/b5/82/3f/kutai-national-parrk.jpg",
+  "location_id": "4469791",
+  "name": "Kutai National Parrk",
+  "num_reviews": "43",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/b5/82/3f/kutai-national-parrk.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/b5/82/3f/kutai-national-parrk.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2000",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/b5/82/3f/kutai-national-parrk.jpg",
+        "height": "1333"
+      },
+      "large": {
+        "width": "1024",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-w/04/b5/82/3f/kutai-national-parrk.jpg",
+        "height": "682"
+      },
+      "medium": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/b5/82/3f/kutai-national-parrk.jpg",
+        "height": "366"
+      }
+    },
+    "is_blessed": true,
+    "uploaded_date": "2013-10-21T16:19:49-0400",
+    "caption": "Een geweldig avontuur!",
+    "id": "79004223",
+    "helpful_votes": "4",
+    "published_date": "2013-10-21T16:19:49-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/4469791",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.937652349472046",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "3",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#3 of 8 things to do in Bontang",
+  "subcategory_ranking": "#3 of 8 things to do in Bontang",
+  "ranking": "#3 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d4469791-Reviews-Kutai_National_Parrk-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d4469791-Kutai_National_Parrk-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 813-4333-6345",
+  "website": "http://www.tnkutai.com",
+  "address_obj": {
+    "street1": null,
+    "street2": null,
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Bontang Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "67",
+      "name": "National Parks"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "Waste of time",
+      "text": "I came here to see orangutans and it's very well advertised. But there are no orangutans here.\nMost of their habitat is destroyed to create palm oil plantations.\nThe national park itself is not maintained, the vegetation around the trails is growing fast and it's easy to get lost.\nIn the stopping areas there is lot of plastic garbage. It should be banned to bring plastic inside the park and they should clean.\nThe ticket entrance is 5000 rupiah for locals and 150000 for foreigners. As a foreigner, I have to pay 30 times more than locals. This is not fair, especially because the flight ticket, the accommodation and food in Borneo are already expensive and part of the package that a foreigner must pay to come here.\nIf you want to see orangutans, you just waste your time and money in Kutai.",
+      "publishedDate": "2019-06-05T04:16:10-04:00",
+      "rating": "1",
+      "travelDate": "2019-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "I enjoyed the track...",
+      "text": "KNP is rich of endemic animals and old trees.  Here we could see many interesting things, such as a giant Ironwood tree and canopy bridge. This park was a great place to enjoy tracking path in a tropical rain forest.",
+      "publishedDate": "2018-04-10T09:36:23-04:00",
+      "rating": "4",
+      "travelDate": "2017-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Wonderful experience, poor facilities",
+      "text": "We booked through Rimba Borneo Kalimantan and I would recommend our guide, Rusdy, without hesitation. He's also a great cook. The forest is beautiful (we got to see orangs), but the Prevab camp needs improvement. Large garbage pit just by the lodge. That's the last think you would expect to see at a 'national park'. The facilities are extremely basic, which is fine, but be prepared. Take binoculars (these should have been provided) and plenty of mosquito repellent. The mosquito net was torn and served no purpose. A lantern would have helped and added to the atmosphere. Also, something to keep the mosquitoes away in addition to the repellent that we were lathering ourselves with. \nI would go back there but would make sure that I have a little more 'comfort'.",
+      "publishedDate": "2017-08-08T23:27:36-04:00",
+      "rating": "4",
+      "travelDate": "2017-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "nice park 😍",
+      "text": "I did trekkings there never feel bored there just wanna go on and on, the silence , the smell of leaves, wild orangutan that sometimes really hard to be found, rangers were very helpfull n experience of searching for orangutans, in the last visit we were jumping to the bushes where the trekking trail was not there to be able to see the orangutan, amazing experience ! Oh ya, in the night trekking was seeing the tarantula n owl 😍 , they r awesome",
+      "publishedDate": "2017-01-20T06:34:31-05:00",
+      "rating": "5",
+      "travelDate": "2016-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Extra Ordinary Experience",
+      "text": "Trekking into Kutai NP and seeing wild orangutan was really one of the highlight experience in my life. I have been there in two occasions and I wish I could go for more",
+      "publishedDate": "2017-01-17T17:29:52-05:00",
+      "rating": "5",
+      "travelDate": "2016-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Orangutan spot , birds , Tarantula",
+      "text": "Good place to see wild orangutan, owl (sometimes), tarantula , beautiful birds species, basic lodges are there , nice trekking trails that can show u how beautiful the park is",
+      "publishedDate": "2017-01-02T00:40:52-05:00",
+      "rating": "5",
+      "travelDate": "2016-10",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "An amazing place to see Orangutans in the wild",
+      "text": "After reading several, not so positive, reviews about the Kutai National Park I was a bit reticence to go there but I had a nice surprise and absolutely loved it. Here you have a chance to see orangutans in the wild. I didn't see any during my morning trek but saw 3, including a baby one, in the afternoon. The park itself is beautiful and quite, not many tourists there. The accommodation, at the rangers house, is basic but it's clean and has everything you need. I went there on a private tour so the guide cooked for me. If you are on your own, you have to buy food before going there, there's nothing there, it's totally isolated. You can use the ranger's kitchen. It was wonderful to have my breakfast looking at monkeys and water monitor lizards. I definitely recommend this place, despite being difficult to reach. It was a long journey, but totally worth every minute. The rangers and family are very nice, I felt welcomed and safe.",
+      "publishedDate": "2016-09-11T07:24:51-04:00",
+      "rating": "5",
+      "travelDate": "2016-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Tracking at TNK",
+      "text": "Together with my sons: Tito and Iqbal , we tracked the TAMAN NASIONAL KUTAI / TNK forest. \nUnfortunatelly, after more  than 1 hour I gave up to continue our trip. The weather was hot and I was tired to follow the steep road. The guide told me that our rest trip was  about more than 1.5 hour. I had decided to be back, coz the next way was too steep.\n\nWhile we were tracking, we saw a lot of big trees which we never see before. For example Pohon Ulin or Ulin tree, so tall and we looked so tiny.  The adventure was amazing, we had passed the wooden bridge, fall big tree, hut and steep road . We couldn't find out the atmosphere9 like this in Java , I think. \n\nI suggest you to wear sport custom, bring drinking water, cap,  sunglasses and mosquito lotion. Coz alot of mosquitos  are around you. And the most important thing is to set up your body, enough sleep  so you can finish your trip. \n\nThey dont provide guide, but we can ask them as long as available. They dont have rate for guide fee, you can give about IDR 100.000 or USD 10. \n",
+      "publishedDate": "2016-07-25T01:16:48-04:00",
+      "rating": "4",
+      "travelDate": "2016-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Outbond",
+      "text": "Nice place...but for myself I felt not safe. Specially on the last bridge. Anyway manything trees you can see it. Ulin tree and the tree house....hope oneday will renovate, so many people will come and feel safe...😘😘😘",
+      "publishedDate": "2016-02-15T22:45:46-05:00",
+      "rating": "3",
+      "travelDate": "2015-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Perhaps the best place on Earth to see wild Orangutans",
+      "text": "I booked a tour to see Kutai National Park for two days to see the Orangutan and was NOT disappointed! After taking a 30 minute boat ride up the river to the Prevab ranger station we ate lunch and rested briefly before going out on our first trek. Not all but a large amount of the forest is secondary subsequently due to the great Borneo forest fires years ago, but ironically it has actually greatly increased one's chances of seeing Orangutan there due to the parks reduction. Within 30 minutes the ranger round several orangutans directly above us and while they rarely come to the ground, they came within a few meters of us. We also saw a black and white snake, beautiful mushrooms, monitors, and macaques and during the night safari we saw a beautifully coloured kingfisher, as well several large spiders and a tarantula. Walking through the jungle to the sounds of the forest and in the midst of the moonlight is definitely something I would recommend to the adventure traveler!",
+      "publishedDate": "2016-02-02T20:12:44-05:00",
+      "rating": "5",
+      "travelDate": "2016-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Beautiful forest, appalling camp",
+      "text": "We went camping for two nights in Breval Camp. The site was extremely dirty, not looked after despite the number of rangers who work and live there. Rangers who also did not explain much about the wildlife we saw, not even in Indonesian. The plus side of this trek was the nice boat ride to reach the camp and the beautiful jungle with a variety of butterflies, birds, spiders (tarantula), and of course the amazing orangutans. I recommend the trek, but avoid camping there at night. ",
+      "publishedDate": "2015-12-17T22:17:45-05:00",
+      "rating": "3",
+      "travelDate": "2015-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Real forest!",
+      "text": "It is real raw forest with very less facility. It was wonderful. It would be better if safety jacket is being provided during river ride.",
+      "publishedDate": "2015-03-04T18:05:58-05:00",
+      "rating": "4",
+      "travelDate": "2015-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "National park?",
+      "text": "Kutai it is really a national park?\nI want to specify, i went through the entrance of sangkima (between bontang and sangatta)\nPrice: -150000 rpi for foreigner\n           - 5000 rpi for local\n2 hours trekking.\nThe wildlife is very poor, there are few butterflies, birds and monkey If you are lucky. The bridges on the trek are very old and some of them totally destroy. It's full of garbage everywhere ( plastic bags, bottles, cigarettes...).\nI definitely don't recommand this \"national park\" especially the sangkima entrance. However I heard there is an other possibility to go there, by boat on the other side of the park, it should be better.",
+      "publishedDate": "2014-08-03T20:33:12-04:00",
+      "rating": "1",
+      "travelDate": null,
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Kutai National Park",
+      "text": "Visited by only a few tourists, but offers some wonderful jungle trekking and wildlife experiences. Recommended for a visit and chance to see wild orangutans",
+      "publishedDate": "2013-09-07T20:18:49-04:00",
+      "rating": "3",
+      "travelDate": "2013-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Prevab favorit & wajib di kunjungi",
+      "text": "Dari sekian banyak area Taman Nasional Kutai, Prevab - Mentoko merupakan rekomendasi untuk di kunjungi. Kita bisa tracking bersama ranger untuk melihat Orang Utan, dan jika tracking malam, yang paling di incar adalah Tarsius",
+      "publishedDate": "2020-07-06T17:17:55-04:00",
+      "rating": "5",
+      "travelDate": "2020-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "it",
+      "title": "Soluzione estrema per visitare il Borneo in sicurezza e non invasivamente",
+      "text": "Il Parco Nazionale del Kutai è in una regione sicura del Borneo, a qualche ora di macchina dal confine con il Brunei. Per quanto non semplicissimo da raggiungere, è uno dei luoghi più affascinanti del Borneo, nonchè habitat natural dell'orango locale.",
+      "publishedDate": "2019-08-23T01:34:12-04:00",
+      "rating": "5",
+      "travelDate": "2019-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Sisi lain alam liar Taman Nasional Kutai",
+      "text": "Tidak seperti yang dibayangkan, masih banyak sisi lain keindahan dan keunikan alam liar TN Kutai yang menjadi daya yang lebih menarik kunjungan, selain Orangutan liar.\n\nMenyusuri hilir hingga hulu sungai Sangatta, melihat keanekaragaman tumbuhan dan satwa liar dengan menggunakan perahu ketinting.\n\nMembayangkan berpetualang di sepanjang habitat predator sungai Sangatta yang sangat fenomenal, yaitu Buaya Muara, dengan nama latin Crocodylus porosus.",
+      "publishedDate": "2019-06-19T16:59:28-04:00",
+      "rating": "5",
+      "travelDate": "2019-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "nl",
+      "title": "Teleurstellend",
+      "text": "Vanuit Bontang het nationaal park in Sangatta bezocht. Boottocht van 20 minuten en een wandeling van een paar kilometer door de jungle. We hebben hoog in de bomen een orang oetan gezien, maar dat was het . Voor het bezoek moest wel een bedrag met 10 rode flappen op tafel komen en dat is wel erg veel voor wat je krijgt",
+      "publishedDate": "2018-07-30T02:02:20-04:00",
+      "rating": "2",
+      "travelDate": "2018-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Wisata alam",
+      "text": "Disini kita dapat menikmati outbond di alam dan melihat pohon asli kalimantan..saya sarankan untuk pergi pada pagi harii supaya udara masih sejuk..",
+      "publishedDate": "2018-07-25T16:09:37-04:00",
+      "rating": "4",
+      "travelDate": "2017-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Perlu disediakan guider",
+      "text": "Lokasi cukup mudah di jalan poros Bontang - sangatta atau sekitar 45 menit dari bontang. Hutan yg masih alami dengan vegetasi tumbuhan yg cukup rapat (cocok kali ya buat ular atau fauna lain nongkrong di atasnya he..he sedangkan buaya ada di sungainya), perlu perawatan untuk tangga pada jembatan gantung yg mulai lapuk, karena merupakan alam liar dan masih merupakan habitat fauna yg mungkin  disarankan pengelola menyediakan guide yg berguna untuk memberi penjelasan tentang TN dan memberi pengetahuan berupa tekhnik dasar pejelajahan hutan serta berfungsi juga untuk menjaga keselamatan para pengunjung (terutama bagi mrk yg baru pengalaman pertama kali)\nSehingga tujuan TN Kutai dapat tepat sasaran yaitu memberi pengetahuan dan meningkatkan kesadaran kelestarian alam bagi masyarkat terutama para generasi millenial dari kota besar(JKT dsb) seperti anak saya yg kagum terbengong2 liat hutan yg sesungguhnya yg umumnya hanya bisa liat di televisi sedangkan di jawa sdh banyak yg rusak atau kalo adapun berupa hutan buatan. Bagi kami dari kota besar lingkungan yg masih alami adalah sebuah kemewahan dan hal tsb harus bisa di tangkap sebagai peluang terutama untuk yg diluar pulau jawa",
+      "publishedDate": "2018-07-08T05:14:11-04:00",
+      "rating": "3",
+      "travelDate": "2018-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+},
+{
+  "type": "ATTRACTION",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/08/1f/dd/3a/pantai-beras-basah.jpg",
+  "location_id": "4799358",
+  "name": "Beras Basah Beach",
+  "latitude": "0.132466",
+  "longitude": "117.46211",
+  "num_reviews": "46",
+  "timezone": "Asia/Makassar",
+  "location_string": "Bontang, East Kalimantan, Kalimantan",
+  "photo": {
+    "images": {
+      "small": {
+        "width": "150",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/1f/dd/3a/pantai-beras-basah.jpg",
+        "height": "150"
+      },
+      "thumbnail": {
+        "width": "50",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/1f/dd/3a/pantai-beras-basah.jpg",
+        "height": "50"
+      },
+      "original": {
+        "width": "2560",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/08/1f/dd/3a/pantai-beras-basah.jpg",
+        "height": "1920"
+      },
+      "large": {
+        "width": "550",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/1f/dd/3a/pantai-beras-basah.jpg",
+        "height": "413"
+      },
+      "medium": {
+        "width": "250",
+        "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/1f/dd/3a/pantai-beras-basah.jpg",
+        "height": "188"
+      }
+    },
+    "is_blessed": false,
+    "uploaded_date": "2015-06-17T22:15:42-0400",
+    "caption": "Beras Basah 1",
+    "id": "136305978",
+    "helpful_votes": "1",
+    "published_date": "2015-06-18T02:32:47-0400",
+    "user": {
+      "user_id": null,
+      "member_id": "0",
+      "type": "user"
+    }
+  },
+  "api_detail_url": "https://api.tripadvisor.com/api/internal/1.14/location/4799358",
+  "awards": [],
+  "location_subtype": "none",
+  "doubleclick_zone": "as.indonesia.borneo",
+  "preferred_map_engine": "default",
+  "raw_ranking": "2.9613330364227295",
+  "ranking_geo": "Bontang",
+  "ranking_geo_id": "3207846",
+  "ranking_position": "2",
+  "ranking_denominator": "8",
+  "ranking_category": "attraction",
+  "ranking_subcategory": "#2 of 8 things to do in Bontang",
+  "subcategory_ranking": "#2 of 8 things to do in Bontang",
+  "ranking": "#2 of 8 things to do in Bontang",
+  "distance": null,
+  "distance_string": null,
+  "bearing": null,
+  "rating": "4.0",
+  "is_closed": false,
+  "is_long_closed": false,
+  "description": "",
+  "web_url": "https://www.tripadvisor.com/Attraction_Review-g3207846-d4799358-Reviews-Beras_Basah_Beach-Bontang_East_Kalimantan_Kalimantan.html",
+  "write_review": "https://www.tripadvisor.com/UserReview-g3207846-d4799358-Beras_Basah_Beach-Bontang_East_Kalimantan_Kalimantan.html",
+  "ancestors": [
+    {
+      "subcategory": [
+        {
+          "key": "city",
+          "name": "City"
+        }
+      ],
+      "name": "Bontang",
+      "abbrv": null,
+      "location_id": "3207846"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "province",
+          "name": "Province"
+        }
+      ],
+      "name": "East Kalimantan",
+      "abbrv": null,
+      "location_id": "2301802"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "region",
+          "name": "Region"
+        }
+      ],
+      "name": "Kalimantan",
+      "abbrv": null,
+      "location_id": "294227"
+    },
+    {
+      "subcategory": [
+        {
+          "key": "country",
+          "name": "Country"
+        }
+      ],
+      "name": "Indonesia",
+      "abbrv": null,
+      "location_id": "294225"
+    }
+  ],
+  "category": {
+    "key": "attraction",
+    "name": "Attraction"
+  },
+  "subcategory": [
+    {
+      "key": "57",
+      "name": "Nature & Parks"
+    },
+    {
+      "key": "61",
+      "name": "Outdoor Activities"
+    }
+  ],
+  "parent_display_name": "Bontang",
+  "is_jfy_enabled": false,
+  "nearest_metro_station": [],
+  "phone": "+62 852-2635-7333",
+  "website": "http://anakbontangcreative.blogspot.co.id",
+  "address_obj": {
+    "street1": "Bontang ",
+    "street2": null,
+    "city": "Bontang",
+    "state": null,
+    "country": "Indonesia",
+    "postalcode": null
+  },
+  "address": "Bontang, Bontang Indonesia",
+  "is_candidate_for_contact_info_suppression": false,
+  "subtype": [
+    {
+      "key": "52",
+      "name": "Beaches"
+    }
+  ],
+  "tags": {},
+  "reviews": [
+    {
+      "language": "en",
+      "title": "A good island trip",
+      "text": "A good spot to have a relax and fund time with family. \n\nIt's seems back to 90's period to play with kids. \n\nEnjoyed a lot!!! \n\n",
+      "publishedDate": "2019-05-06T17:47:51-04:00",
+      "rating": "4",
+      "travelDate": "2019-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "A piece of Diamond",
+      "text": "Beras Basah island which is about 2 hours from bontang land, taken by passenger boat with a capacity of 20 to 30 people, became one of the tourist attraction of bontang city. the island is small but exotic, just unfortunately this island is not in good governance so impressed slum and not tidy. hopefully there will be parties who are willing to develop this island",
+      "publishedDate": "2018-01-03T16:10:15-05:00",
+      "rating": "4",
+      "travelDate": "2017-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "nostalgic island",
+      "text": "i've been her for so many times since i was child, and the place still quite... safe to play in the beach and easy access to get there",
+      "publishedDate": "2016-07-25T17:52:14-04:00",
+      "rating": "4",
+      "travelDate": "2015-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Crowded  Beach in weekend",
+      "text": "Better to visit this island in weekdays.\nNo regular boat to get here, visitors have to rent from locals.\nThe nearest port is from Tanjung Laut. ",
+      "publishedDate": "2016-04-16T09:20:14-04:00",
+      "rating": "3",
+      "travelDate": "2016-03",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Small but beautiful island ",
+      "text": "You can reach this island from Tanjung Laut port. About half an hour trip.\n\nThe beach is clean. The view is excellent.\n\nBut this island still lack some of basic facilities. \nLike permanent toilet and musholla.",
+      "publishedDate": "2015-12-24T21:09:04-05:00",
+      "rating": "4",
+      "travelDate": "2015-05",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "The most beatiful island in Bontang",
+      "text": "Beras Basah island is the only natural island belongs to Bontang city.  There are several tourism attraction around the island, but actually its relatively limited entry due to the function of the island for navigating area.\n\nTo get into this island, visitors should use rental boat from several local seaport, such as Tg. Limau, Lhok Tuan, Bontang Kuala, and Tg. Indah.  Its only taking around 1-2 hours, depend on horse power used by the boat.  The cost of rental boat is very variation nearly to amount IDR 500 - 5000 thousand.",
+      "publishedDate": "2015-12-24T06:21:17-05:00",
+      "rating": "5",
+      "travelDate": "2015-08",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "It used to be good in the past",
+      "text": "My friend visited here months ago before i came. Her review was so great, clean tiny island with natural sea shore creatures filled in. But i found dirty island at my visit. The people that manage the island are certainly don't know anything on how to manage it. Trash everywhere...hardly to get clean water even just for having wudhu.. i had to pay just for 5liters water! It's too much. Besides it's hard to get to the island, we found it pricey even after arrived. the sea level is also increasing. I think the island would be sink in a near future.",
+      "publishedDate": "2015-10-10T19:44:47-04:00",
+      "rating": "1",
+      "travelDate": "2015-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Little tiny island",
+      "text": "Small island with some coconut tree around the island ............. One of my fav placed to visit in bontAng...............",
+      "publishedDate": "2015-08-17T02:05:17-04:00",
+      "rating": "4",
+      "travelDate": "2014-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Nice beach made dirty",
+      "text": "Very nice beach but people made it dirty. toilet and shower facilities are not very good but one can manage. Better to go with some local friends.",
+      "publishedDate": "2015-03-04T18:03:47-05:00",
+      "rating": "3",
+      "travelDate": "2015-02",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "The water is Great, the sanitary is Bad",
+      "text": "Me and my family visit Beras Basah island on end of December 2014. I guess not much to visit at Bontang, so this is the ultimate or the best place you can visit at Bontang.\nWe book a boat from Tanjung harbor to Beras Basah for Rp. 500,000 (after price negotiation by my wife :D) for drop-off and pick-up. We use Aril Boat, the boat captain is friendly. The boat can actually used by 10-20 people, so you can pay cheaper by going in group. Travelling 30 minute to/from harbor to the island.\nArrived at the Island, it was small size, probably half of a soccer field. The water/beach is great. The water is crystal clear. You should prepare for swimming/snorkling here. However, the wash/sanitary facility is poor. Local people make a wooden block used for tourist for shower after swimming, and you need to pay for the fresh water used, the small jerrycan price Rp.5,000 while the bigger (+/- 20liter) price Rp. 10,000.\nThe Island have a lighthouse/mercusuar, dont know if it still operating or not.\nNot much option available for lunch. There are local people selling noodle/coconut/drink, snack. When we're there, there's not ready with rice and meals even thought it already at 11.30 am. So it better if you prepare your own lunch to enjoy.",
+      "publishedDate": "2015-01-04T23:02:50-05:00",
+      "rating": "3",
+      "travelDate": "2014-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "en",
+      "title": "Better than Bali",
+      "text": "You should go to Beras Basah beach if you go to Bontang. It has a very soft white sand, clear water, peaceful situation, and great view. To go to Beras Basah, you should go to Tanjung Laut harbor and rent a boat from the local fishermen. The journey is about 30 minutes. Overall, it's very relaxing and awesome getaway.",
+      "publishedDate": "2014-09-23T20:02:26-04:00",
+      "rating": "5",
+      "travelDate": null,
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Recomended place jika berkunjung ke Bontang",
+      "text": "Disini kita bisa snorkling, camping, nyantai. Airnya juga jernih guys. Banyak view yang bagus untuk di dokumentasikan. ",
+      "publishedDate": "2020-07-06T17:14:28-04:00",
+      "rating": "5",
+      "travelDate": "2019-10",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "ja",
+      "title": "美しいビーチ",
+      "text": "美しいビーチでした。ゴミはそこまで目立ちません。たまにペットボトルが落ちているので、是非拾って帰ってほしいと思います。",
+      "publishedDate": "2019-10-03T05:01:37-04:00",
+      "rating": "5",
+      "travelDate": "2019-04",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Wajah Baru Beras Basah",
+      "text": "Saat ini pemerintah kota sedang mempercantik Beras Basah. Tulisan Beras Basah bakal terpampang di depan pantai. Nantinya, juga bakal ada gazebo dan pujasera yang menjajakan berbagai hidangan. Diperkirakan Januari semua rampung. ",
+      "publishedDate": "2018-12-17T17:46:00-05:00",
+      "rating": "4",
+      "travelDate": "2018-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "cuma pulau di tengah laut",
+      "text": "biasa banget bagi orng yg udah pernah menjelajah pulau2 seperti derawan, raja ampat, gak bnyak yg bsa dilakuin disini, main air, minum kelapa, gitu2 deh.. biasa lah.. gak worth it klo jauh2 ke sini, apalagi dari luar pulau kesini",
+      "publishedDate": "2017-08-28T18:24:54-04:00",
+      "rating": "2",
+      "travelDate": "2016-09",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Pulau kecil yang cukup menyenangkan",
+      "text": "Dari Pelabuhan Tanjung Laut di Bontang, kami menyewa perahu (kapasitas 10-20 orang) seharga Rp.600.000,00 (pulang pergi dan ditunggu oleh pemilik perahu). Sekarang di pos jaga sudah ada tarif untuk menyeberang ke Pulau Beras Basah. Perjalanan sekitar 30-40 menit, kebetulan ombak sedang tenang jadi kami semua menikmati pemandangan dan laut selama menyeberang. Aktifitas selain berenang, bermain pasir, banana boat, kita juga bisa memancing ikan di sekitar dermaga dan batu pemecah ombak/abrasi. Selesai bermain kita bisa membeli air untuk bilas mulai dari Rp.5.000,00 (jerigen kecil). Hati-hati karena ada beberapa area yang terlihat bulu babi.",
+      "publishedDate": "2017-06-28T18:09:29-04:00",
+      "rating": "4",
+      "travelDate": "2017-06",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "pantai yang indah",
+      "text": "Pantai Beras Basah menawarkan panorama alam yang indah disertai dengan hamparan pasir putih pantai yang cukup lembut di kaki. Pamandangan dari pepohonan nan hijau senantiasa menghiasi pulau ini.\n\nAir lautnya berwarna biru jernih. Seolah-olah menggoda siapapun yang berkunjung untuk berenang ke dalamnya. Dan memang benar di tempat ini pengunjung bisa berenang ataupun snorkeling menikmati keindahan bawah laut. Berbagai jenis ikan laut, terumbu karang hingga rumput laut bisa pengunjung temukan di tempat ini.\n\nTidak hanya itu, kawasan ini sangat cocok bagi Anda penggemar fotografi. Pemandangan sunrise maupun sunset di tempat ini cukup menarik untuk diabadikan.",
+      "publishedDate": "2017-05-17T17:17:01-04:00",
+      "rating": "5",
+      "travelDate": "2016-12",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Wisata keluarga",
+      "text": "Tempat ini sangat unik dengan keindahan bawah lautnya yang sangat menawan cocok untuk wisata bersma keluarga. Pasilitas pulau ini juga lumayan ada mushola dan kamar mandi tapi harus sedikit mengeluarkan biaya air bersih untuk mandi,  biaya transportasi kapal cukup terjangkau dengan harga sewa kapal yang pasti karena teroginisir dengan baik oleh masyarakat nelayan pelabuhan. ",
+      "publishedDate": "2017-03-21T14:26:10-04:00",
+      "rating": "5",
+      "travelDate": "2017-01",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Beras Basah sebagai Destinasi alternatif bagi Penduduk Bontang.",
+      "text": "Beras Basah sangat bagus untuk Destinasi liburan penduduk Bontang yang hobby mandi di pantai, karena ombak yang tidak berbahaya dan letaknya juga tidak terlalu jauh dengan kota Bontang, yang dapat ditempuh hanya kisaran 15 menit dengan speed boat dari Pelabuhan Tanjung laut.",
+      "publishedDate": "2016-11-23T21:14:42-05:00",
+      "rating": "4",
+      "travelDate": "2016-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    },
+    {
+      "language": "in",
+      "title": "Keren",
+      "text": "Salah satu ikon wisata bontang yang super keren, jalur ke pantai dengan menggunakan kapal menjadi daya tarik tersendiri,",
+      "publishedDate": "2016-11-06T17:46:14-05:00",
+      "rating": "5",
+      "travelDate": "2016-07",
+      "user": null,
+      "subratings": [],
+      "machineTranslated": false
+    }
+  ]
+}]
