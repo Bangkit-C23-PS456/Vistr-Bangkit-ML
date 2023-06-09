@@ -977,7 +977,7 @@
       "location_id": "16882388",
       "place_name": "Islamic Center Mosque",
       "city": "Balikpapan",
-      "rating": 4.0,
+      "rating": null,
       "latitude": "-1.24004",
       "longitude": "116.8833",
       "opening_hours": {
@@ -4022,7 +4022,7 @@
       "location_id": "25304538",
       "place_name": "Watu Beach Lamaru",
       "city": "Balikpapan",
-      "rating": 4.5,
+      "rating": null,
       "latitude": "-1.19705",
       "longitude": "117.00225",
       "opening_hours": {
