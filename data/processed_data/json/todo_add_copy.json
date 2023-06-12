@@ -977,7 +977,7 @@
       "location_id": "16882388",
       "place_name": "Islamic Center Mosque",
       "city": "Balikpapan",
-      "rating": null,
+      "rating": "4.0",
       "latitude": "-1.24004",
       "longitude": "116.8833",
       "opening_hours": {
@@ -1449,8 +1449,8 @@
       "place_name": "Manggar Reservoir",
       "city": "Balikpapan",
       "rating": "3.5",
-      "latitude": null,
-      "longitude": null,
+      "latitude": "-1.1725151",
+      "longitude": "116.9076484",
       "opening_hours": null,
       "contact_number": null,
       "photo": {
@@ -2067,8 +2067,8 @@
       "place_name": "Setapak Beach",
       "city": "Balikpapan",
       "rating": "4.0",
-      "latitude": null,
-      "longitude": null,
+      "latitude": "-1.1728498",
+      "longitude": "117.0146205",
       "opening_hours": null,
       "contact_number": null,
       "photo": {
@@ -2327,8 +2327,8 @@
       "place_name": "Merdeka Square",
       "city": "Balikpapan",
       "rating": "4.0",
-      "latitude": -1.2794112,
-      "longitude": 116.814828,
+      "latitude": "-1.2794112",
+      "longitude": "116.814828",
       "opening_hours": {
         "week_ranges": [
           [
@@ -2629,62 +2629,6 @@
       "description": ""
     },
     {
-      "location_id": "8613949",
-      "place_name": "Wehea Rainforest",
-      "city": "Balikpapan",
-      "rating": "4.5",
-      "latitude": null,
-      "longitude": null,
-      "opening_hours": null,
-      "contact_number": "+62 823-7101-0777",
-      "photo": {
-        "images": {
-          "small": {
-            "width": "150",
-            "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/54/83/24/wehea-rainforest.jpg",
-            "height": "150"
-          },
-          "thumbnail": {
-            "width": "50",
-            "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/54/83/24/wehea-rainforest.jpg",
-            "height": "50"
-          },
-          "original": {
-            "width": "1224",
-            "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/54/83/24/wehea-rainforest.jpg",
-            "height": "1632"
-          },
-          "large": {
-            "width": "550",
-            "url": "https://media-cdn.tripadvisor.com/media/photo-p/09/54/83/24/wehea-rainforest.jpg",
-            "height": "733"
-          },
-          "medium": {
-            "width": "338",
-            "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/54/83/24/wehea-rainforest.jpg",
-            "height": "450"
-          }
-        },
-        "is_blessed": true,
-        "uploaded_date": "2015-10-26T03:01:20-0400",
-        "caption": "Wehea Rainforest",
-        "id": "156533540",
-        "helpful_votes": "0",
-        "published_date": "2015-10-26T03:01:20-0400",
-        "user": {
-          "user_id": null,
-          "member_id": "0",
-          "type": "user"
-        }
-      },
-      "address": "Jl. Jenderal Sudirman No.1 | RW.RT.11, Klandasan Ulu, Balikpapan 76112, Indonesia",
-      "min_price": 5000,
-      "max_price": 30000,
-      "activity": "Outdoor",
-      "category": "Beach",
-      "description": "Pengalaman yang menakjubkan. Saat terjadi gerhana matahari bisa menikmatinya di Pantai Monpera yang bersih dan berpasir putih. Pantai tidak terlalu luas tapi sangat bersih dan dilengkapi dengan gazebo. Mudah dijangkau karena dekat jalan raya."
-    },
-    {
       "location_id": "7725302",
       "place_name": "Japan-Lamaru Tomb",
       "city": "Balikpapan",
@@ -2791,8 +2735,8 @@
       "place_name": "Cermin Lake",
       "city": "Balikpapan",
       "rating": "3.0",
-      "latitude": -1.1960325,
-      "longitude": 116.975654,
+      "latitude": "-1.1960325",
+      "longitude": "116.975654",
       "opening_hours": {
         "week_ranges": [
           [
@@ -3097,8 +3041,8 @@
       "place_name": "Manggar Landfill Edutourism",
       "city": "Balikpapan",
       "rating": "4.0",
-      "latitude": -1.213478,
-      "longitude": 116.93851,
+      "latitude": "-1.213478",
+      "longitude": "116.93851",
       "opening_hours": {
         "week_ranges": [
           [
@@ -3857,7 +3801,7 @@
       "location_id": "7808230",
       "place_name": "Kebon Kita",
       "city": "Balikpapan",
-      "rating": 4,
+      "rating": "4.0",
       "latitude": "-1.2022",
       "longitude": "116.8846",
       "opening_hours": {
@@ -3959,7 +3903,7 @@
       "location_id": "17118402",
       "place_name": "Manggar Reservoir",
       "city": "Balikpapan",
-      "rating": 4.5,
+      "rating": "4.5",
       "latitude": "-1.238336",
       "longitude": "116.84005",
       "opening_hours": {
@@ -4022,7 +3966,7 @@
       "location_id": "25304538",
       "place_name": "Watu Beach Lamaru",
       "city": "Balikpapan",
-      "rating": null,
+      "rating": "4.5",
       "latitude": "-1.19705",
       "longitude": "117.00225",
       "opening_hours": {
@@ -4085,9 +4029,9 @@
       "location_id": "19678025",
       "place_name": "Angels Sky",
       "city": "Balikpapan",
-      "rating": 3.0,
-      "latitude": -1.2775007,
-      "longitude": 116.832948,
+      "rating": "3.0",
+      "latitude": "-1.2775007",
+      "longitude": "116.832948",
       "opening_hours": {
         "week_ranges": [
           [
@@ -4285,7 +4229,7 @@
       "location_id": "14080808",
       "place_name": "Aquaboom Waterpark",
       "city": "Balikpapan",
-      "rating": 4.5,
+      "rating": "4.5",
       "latitude": "-1.277226",
       "longitude": "116.83667",
       "opening_hours": {
@@ -4387,7 +4331,7 @@
       "location_id": "14090547",
       "place_name": "NEST Family Reflexology & Spa Balikpapan",
       "city": "Balikpapan",
-      "rating": 4.5,
+      "rating": "4.5",
       "latitude": "-1.277617",
       "longitude": "116.82608",
       "opening_hours": {
@@ -4489,7 +4433,7 @@
       "location_id": "10821404",
       "place_name": "Demonstration Monument",
       "city": "Balikpapan",
-      "rating": 4.5,
+      "rating": "4.5",
       "latitude": "-1.24984",
       "longitude": "116.82822",
       "opening_hours": {
@@ -4553,8 +4497,8 @@
       "place_name": "Wisata Mangrove Tanjung Batu",
       "city": "Berau",
       "rating": "4.5",
-      "latitude": 2.2911935,
-      "longitude": 118.0252073,
+      "latitude": "2.2911935",
+      "longitude": "118.0252073",
       "opening_hours": {
         "week_ranges": [
           [
@@ -4711,8 +4655,8 @@
       "place_name": "Pasar Sanggam Adji Dilayas",
       "city": "Berau",
       "rating": "4.0",
-      "latitude": 2.166448,
-      "longitude": 117.4596033,
+      "latitude": "2.166448",
+      "longitude": "117.4596033",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5013,8 +4957,8 @@
       "place_name": "Talisayan Sea",
       "city": "Berau",
       "rating": "4.0",
-      "latitude": 1.6091622,
-      "longitude": 118.1747497,
+      "latitude": "1.6091622",
+      "longitude": "118.1747497",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5115,8 +5059,8 @@
       "place_name": "Baitul Hikmah Great Mosque",
       "city": "Berau",
       "rating": "4.5",
-      "latitude": 2.151413,
-      "longitude": 117.5045329,
+      "latitude": "2.151413",
+      "longitude": "117.5045329",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5217,8 +5161,8 @@
       "place_name": "Segah River",
       "city": "Berau",
       "rating": "4.0",
-      "latitude": 2.1541269,
-      "longitude": 117.4634394,
+      "latitude": "2.1541269",
+      "longitude": "117.4634394",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5319,8 +5263,8 @@
       "place_name": "Mount Tabur Sultanate Palace",
       "city": "Berau",
       "rating": "4.0",
-      "latitude": 2.15945,
-      "longitude": 117.4872652,
+      "latitude": "2.15945",
+      "longitude": "117.4872652",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5421,8 +5365,8 @@
       "place_name": "Kaniungan Besar Island",
       "city": "Berau",
       "rating": "4.0",
-      "latitude": 1.1168578,
-      "longitude": 118.831472,
+      "latitude": "1.1168578",
+      "longitude": "118.831472",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5523,8 +5467,8 @@
       "place_name": "Beloyot Cave",
       "city": "Berau",
       "rating": "5.0",
-      "latitude": 1.411739,
-      "longitude": 117.251533,
+      "latitude": "1.411739",
+      "longitude": "117.251533",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5625,8 +5569,8 @@
       "place_name": "Rayatul Ikhlas Great Mosque",
       "city": "Berau",
       "rating": "3.0",
-      "latitude": 2.1551905,
-      "longitude": 117.4604423,
+      "latitude": "2.1551905",
+      "longitude": "117.4604423",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5727,8 +5671,8 @@
       "place_name": "Sambaliung Palace",
       "city": "Berau",
       "rating": "3.5",
-      "latitude": 2.1646141,
-      "longitude": 117.4969027,
+      "latitude": "2.1646141",
+      "longitude": "117.4969027",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5829,8 +5773,8 @@
       "place_name": "Sigending Lake",
       "city": "Berau",
       "rating": "4.5",
-      "latitude": 1.1329034,
-      "longitude": 118.7614991,
+      "latitude": "1.1329034",
+      "longitude": "118.7614991",
       "opening_hours": {
         "week_ranges": [
           [
@@ -5931,8 +5875,8 @@
       "place_name": "Ketepu Peak",
       "city": "Berau",
       "rating": "5.0",
-      "latitude": 1.501261,
-      "longitude": 117.297351,
+      "latitude": "1.501261",
+      "longitude": "117.297351",
       "opening_hours": {
         "week_ranges": [
           [
@@ -6135,8 +6079,8 @@
       "place_name": "Tambalang Waterfall",
       "city": "Berau",
       "rating": "5.0",
-      "latitude": 2.244127,
-      "longitude": 116.754218,
+      "latitude": "2.244127",
+      "longitude": "116.754218",
       "opening_hours": {
         "week_ranges": [
           [
@@ -6299,7 +6243,7 @@
       "location_id": "14800394",
       "place_name": "Alam Sejati 77",
       "city": "Bontang",
-      "rating": 4.0,
+      "rating": "4.0",
       "latitude": "-1.22725",
       "longitude": "116.84311",
       "opening_hours": {
@@ -6465,8 +6409,8 @@
       "place_name": "Mangrove Reserve Forest Area BSD",
       "city": "Bontang",
       "rating": "3.0",
-      "latitude": 0.1551301,
-      "longitude": 117.4489737,
+      "latitude": "0.1551301",
+      "longitude": "117.4489737",
       "opening_hours": {
         "week_ranges": [
           [
@@ -6669,8 +6613,8 @@
       "place_name": "Segajah Beach",
       "city": "Bontang",
       "rating": "4.5",
-      "latitude": 0.1516939,
-      "longitude": 117.5563147,
+      "latitude": "0.1516939",
+      "longitude": "117.5563147",
       "opening_hours": {
         "week_ranges": [
           [
@@ -6873,8 +6817,8 @@
       "place_name": "Kutai National Park",
       "city": "Bontang",
       "rating": "4.0",
-      "latitude": 0.1377581,
-      "longitude": 117.3651409,
+      "latitude": "0.1377581",
+      "longitude": "117.3651409",
       "opening_hours": {
         "week_ranges": [
           [
@@ -7077,8 +7021,8 @@
       "place_name": "Biru Kersik Beach",
       "city": "Kutai Kartanegara",
       "rating": "5.0",
-      "latitude": -0.0610753,
-      "longitude": 117.4227587,
+      "latitude": "-0.0610753",
+      "longitude": "117.4227587",
       "opening_hours": {
         "week_ranges": [
           [
@@ -7791,8 +7735,8 @@
       "place_name": "Danum Layong Hot Spring",
       "city": "Tanah Grogot",
       "rating": "3.5",
-      "latitude": -1.534675,
-      "longitude": 116.3069984,
+      "latitude": "-1.534675",
+      "longitude": "116.3069984",
       "opening_hours": {
         "week_ranges": [
           [
@@ -7893,8 +7837,8 @@
       "place_name": "Sadurengas Palace Museum",
       "city": "Tanah Grogot",
       "rating": "3.5",
-      "latitude": -1.9480984,
-      "longitude": 116.2080889,
+      "latitude": "-1.9480984",
+      "longitude": "116.2080889",
       "opening_hours": {
         "week_ranges": [
           [
@@ -7995,8 +7939,8 @@
       "place_name": "Jumlai Beach",
       "city": "Penajam",
       "rating": "3.5",
-      "latitude": -1.3844898,
-      "longitude": 116.68099,
+      "latitude": "-1.3844898",
+      "longitude": "116.68099",
       "opening_hours": {
         "week_ranges": [
           [
@@ -9173,8 +9117,8 @@
       "place_name": "Mesra Indah Mall",
       "city": "Samarinda",
       "rating": "3.5",
-      "latitude": -0.5009626,
-      "longitude": 117.1436971,
+      "latitude": "-0.5009626",
+      "longitude": "117.1436971",
       "opening_hours": {
         "week_ranges": [
           [
@@ -9275,8 +9219,8 @@
       "place_name": "Tanah Merah Waterfall",
       "city": "Samarinda",
       "rating": "3.0",
-      "latitude": -0.4334951,
-      "longitude": 117.231456,
+      "latitude": "-0.4334951",
+      "longitude": "117.231456",
       "opening_hours": {
         "week_ranges": [
           [
@@ -9377,8 +9321,8 @@
       "place_name": "Berambai Waterfall",
       "city": "Samarinda",
       "rating": "3.5",
-      "latitude": -0.4333177,
-      "longitude": 117.1516297,
+      "latitude": "-0.4333177",
+      "longitude": "117.1516297",
       "opening_hours": {
         "week_ranges": [
           [
@@ -9581,8 +9525,8 @@
       "place_name": "Muladharma Monastery",
       "city": "Samarinda",
       "rating": "4.0",
-      "latitude": -0.4510001,
-      "longitude": 117.1594612,
+      "latitude": "-0.4510001",
+      "longitude": "117.1594612",
       "opening_hours": {
         "week_ranges": [
           [
@@ -10727,8 +10671,8 @@
       "place_name": "Wisata Tebing Lonceng",
       "city": "Samarinda",
       "rating": "5.0",
-      "latitude": -0.535235,
-      "longitude": 117.1450848,
+      "latitude": "-0.535235",
+      "longitude": "117.1450848",
       "opening_hours": {
         "week_ranges": [
           [
@@ -10789,7 +10733,7 @@
       "location_id": "12182896",
       "place_name": "ZEN Family Spa & Reflexology",
       "city": "Samarinda",
-      "rating": 3.5,
+      "rating": "3.5",
       "latitude": "-0.480275",
       "longitude": "117.15299",
       "opening_hours": {
