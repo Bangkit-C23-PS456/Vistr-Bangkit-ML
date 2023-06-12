@@ -7,10 +7,10 @@ app = Flask(__name__)
 
 # Connect to the database
 connection = psycopg2.connect(
-    host="your_host",
-    database="your_database",
-    user="your_username",
-    password="your_password"
+    host="127.0,0.1",
+    database="vistr_dv",
+    user="root",
+    password=""
 )
 
 # Define a function to fetch data from the database and return it as a DataFrame
