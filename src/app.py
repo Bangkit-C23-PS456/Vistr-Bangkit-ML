@@ -1,25 +1,11 @@
-from flask import Flask,request,jsonify
-from flask_cors import CORS
-from flask_restful import Resource, Api
+from flask import Flask
+from place import get_recommendation_place_nn
 
 app = Flask(__name__)
-CORS(app) 
-api = Api(app)
-        
-        
-@app.route('/')
-def hello():
-    return "Hello World"
-        
-        
-incomes = [
-    { 'description': 'salary', 'amount': 5000 }
-]
 
+@app.route('/recommendations', methods=['POST'])
+def recommendations():
+    return get_recommendation_place_nn()
 
-@app.route('/incomes')
-def get_incomes():
-    return jsonify(incomes)
-
-if __name__=='__main__':
-    app.run(port = 5000, debug = True)
+if __name__ == '__main__':
+    app.run()
