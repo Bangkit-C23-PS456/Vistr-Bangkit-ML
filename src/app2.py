@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Connect to the database
 connection = psycopg2.connect(
     host="127.0,0.1",
-    database="vistr_dv",
+    database="vistr_db",
     user="root",
     password=""
 )
