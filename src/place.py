@@ -5,30 +5,25 @@ import pandas as pd
 import numpy as np
 
 # Define a function to fetch data from the database and return it as a DataFrame
-def place_df():
-    places_df = places_df = pd.read_json('./data/todo.json')
-    return places_df
+todo = pd.read_json('./data/todo.json')
 
-def get_recommendation_place_nn(user_activity, user_category, user_latitude, user_longitude):
+def recommend_places(activity, category, latitude, longitude, quantity):
     # Get the user's preferences from the request
 
     # Define the user's preferences
-    user_activity = str(user_activity)
-    user_category = str(user_category)
-    user_latitude = user_latitude
-    user_longitude = user_longitude
-
-    # Fetch the places data from the database
-    places_df = place_df()
+    activity = str(activity)
+    category = str(category)
+    latitude = latitude
+    longitude = longitude
 
     # Calculate the distance between the user's location and the places' locations
-    places_df["distance"] = tf.sqrt(
-        tf.square(places_df["latitude"] - user_latitude) + tf.square(places_df["longitude"] - user_longitude)
+    todo["distance"] = tf.sqrt(
+        tf.square(todo["latitude"] - latitude) + tf.square(todo["longitude"] - longitude)
     )
 
     # Filter the places based on the user's preferences
-    filtered_places = places_df[
-        (places_df["activity"] == user_activity) & (places_df["category"] == user_category)
+    filtered_places = todo[
+        (todo["activity"] == activity) & (todo["category"] == category)
     ]
     
     # Check if there are any matching places
@@ -37,8 +32,8 @@ def get_recommendation_place_nn(user_activity, user_category, user_latitude, use
 
     # Perform collaborative filtering using k-nearest neighbors
     X = filtered_places[["latitude", "longitude", "rating", "distance"]].values
-    nbrs = NearestNeighbors(n_neighbors=3).fit(X)
-    distances, indices = nbrs.kneighbors([[user_latitude, user_longitude, 5, 0]])
+    nbrs = NearestNeighbors(n_neighbors=quantity).fit(X)
+    distances, indices = nbrs.kneighbors([[latitude, longitude, 5, 0]])
 
     # Get the top recommendations based on nearest neighbors
     top_indices = indices[0]
