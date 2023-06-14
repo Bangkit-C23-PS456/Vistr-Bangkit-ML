@@ -36,9 +36,9 @@ def get_recommendation_place_nn(user_activity, user_category, user_latitude, use
         return {"recommendations": []}
 
     # Perform collaborative filtering using k-nearest neighbors
-    X = filtered_places[["latitude", "longitude"]].values
+    X = filtered_places[["latitude", "longitude", "rating", "distance"]].values
     nbrs = NearestNeighbors(n_neighbors=3).fit(X)
-    distances, indices = nbrs.kneighbors([[user_latitude, user_longitude]])
+    distances, indices = nbrs.kneighbors([[user_latitude, user_longitude, 5, 0]])
 
     # Get the top recommendations based on nearest neighbors
     top_indices = indices[0]
@@ -50,4 +50,4 @@ def get_recommendation_place_nn(user_activity, user_category, user_latitude, use
         recommendation = row.to_dict()
         recommendations.append(recommendation)
 
-    return {"recommendations": recommendations}
+    return {"place_recommendation": recommendations}

@@ -1,0 +1,6595 @@
+[
+    {
+      "original_id": "6871098",
+      "restaurant_name": "Sky Bar, Gran Senyiur Hotel",
+      "cuisine": [
+        "Pub"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/72/64/86/sky-bar-gran-senyiur.jpg",
+      "rating": 4,
+      "address": "Jln. H ARS. Muhammad 7 Gran Senyiur Hotel, 8th Floor, Balikpapan 76112 Indonesia",
+      "latitude": "-1.273225",
+      "longitude": "116.83338",
+      "contact_number": "+62 542 820211",
+      "website": "http://gran.senyiurhotels.com/restaurants/sky-bar-2/",
+      "opening_hours": [
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1440
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "5512802",
+      "restaurant_name": "Open House",
+      "cuisine": [
+        "International",
+        "Mediterranean",
+        "Asian",
+        "Indonesian",
+        "Halal",
+        "Vegetarian Friendly",
+        "Vegan Options"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/4f/82/0b/open-house.jpg",
+      "rating": 4,
+      "address": "Kelurahan Damai Jln. Puncak Marconi Indah 88, Balikpapan 76114 Indonesia",
+      "latitude": "-1.270107",
+      "longitude": "116.85023",
+      "contact_number": "+62 542 744823",
+      "website": "http://www.mesraresto.com/open-house",
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "3656677",
+      "restaurant_name": "Dandito",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/20/72/41/dandito.jpg",
+      "rating": 4,
+      "address": "Jl. Marsma Iswahyadi no. 71, Balikpapan 76114 Indonesia",
+      "latitude": "-1.267871",
+      "longitude": "116.880775",
+      "contact_number": "+62 542 764367",
+      "website": "http://www.danditorestaurant.com",
+      "opening_hours": [
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "1076358",
+      "restaurant_name": "Bondy Restaurant",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Vegetarian Friendly"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/d7/2a/19/photo5jpg.jpg",
+      "rating": 4,
+      "address": "Jl. Jenderal Ahmad Yani No. 1 Klandasan Ilir, Balikpapan 76113 Indonesia",
+      "latitude": "-1.273471",
+      "longitude": "116.83863",
+      "contact_number": "+62 542 411150",
+      "website": "http://www.facebook.com/Bondyseafood/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8858596",
+      "restaurant_name": "Soto Banjar Kuin Abdhu",
+      "cuisine": [
+        "Indonesian",
+        "Asian",
+        "Soups",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/cf/7c/9d/soto-banjar-kuin-abdhu.jpg",
+      "rating": 4,
+      "address": "Jl. Jenderal Ahmad Yani No. 01 Gunungsari Ilir, Balikpapan 76113 Indonesia",
+      "latitude": "-1.26875",
+      "longitude": "116.83731",
+      "contact_number": "+62 542 410954",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "1367463",
+      "restaurant_name": "Ocean's",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Vegetarian Friendly",
+        "Vegan Options",
+        "Halal",
+        "Gluten Free Options"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/a2/67/a8/ocean-s.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman Komplek Rukan Bandar Balikpapan Blok M 18, Balikpapan 76112 Indonesia",
+      "latitude": "-1.278338",
+      "longitude": "116.83527",
+      "contact_number": "+62 542 739439",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1560
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "5617471",
+      "restaurant_name": "The Beach House Balikpapan",
+      "cuisine": [
+        "Seafood",
+        "International",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/d7/e3/ac/the-beach-house-balikpapan.jpg",
+      "rating": 4,
+      "address": "Jln. Mulawarman, Balikpapan 76115 Indonesia",
+      "latitude": "-1.234836",
+      "longitude": "116.95617",
+      "contact_number": "+62 542 772130",
+      "website": "http://www.mesraresto.com/the-beach-house",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "1522919",
+      "restaurant_name": "Kepiting Kenari",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/60/76/78/mtf-ewhrc-526-largejpg.jpg",
+      "rating": 4,
+      "address": "Jalan Iswahyudi no.4, Balikpapan Indonesia",
+      "latitude": "-1.267911",
+      "longitude": "116.87801",
+      "contact_number": "+62 542 764018",
+      "website": "http://www.facebook.com/pages/category/Diner/Kepiting-Kenari-Cabang-Tarakan-660487490778373/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7225466",
+      "restaurant_name": "Rumah Makan Torani",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/c8/f0/b8/sangat-cocok-bila-dijadikan.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman, Stal Kuda, Balikpapan 76112 Indonesia",
+      "latitude": "-1.275138",
+      "longitude": "116.8653",
+      "contact_number": "+62 811-5936-789",
+      "website": "http://toranifood.com",
+      "opening_hours": [
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1440
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8513633",
+      "restaurant_name": "Depot Simpang Empat",
+      "cuisine": [
+        "Chinese",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/ee/7b/19/depot-simpang-empat.jpg",
+      "rating": 4.5,
+      "address": "Jln. Jendral Sudirman Markoni, Sesudah Bakso & Mie Ayam Likmin, Balikpapan 76114 Indonesia",
+      "latitude": "-1.27531",
+      "longitude": "116.86555",
+      "contact_number": null,
+      "website": "http://dapurbalikpapan.blogspot.com/2012/01/depot-simpang-empat-kebun-sayur.html",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12063927",
+      "restaurant_name": "Garden Restaurant",
+      "cuisine": [
+        "Indian",
+        "Southwestern",
+        "Arabic",
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Vegetarian Friendly",
+        "Vegan Options",
+        "Gluten Free Options"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/3f/ea/40/best-chinese-food-in.jpg",
+      "rating": 4.5,
+      "address": "Jl. Letjen Suprapto no. 1 Bluesky Hotel, Balikpapan 76131 Indonesia",
+      "latitude": "-1.235689",
+      "longitude": "116.82591",
+      "contact_number": "+62 542 735845",
+      "website": "http://www.blueskygroups.com/en/hotels/view/3/blue-sky-hotel-balikpapan",
+      "opening_hours": [
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ],
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ],
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ],
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ],
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ],
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ],
+        [
+          {
+            "open": 0,
+            "close": 1439
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6488328",
+      "restaurant_name": "Starbucks",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/f0/a3/a4/starbucks-coffee.jpg",
+      "rating": 4,
+      "address": "Jl. Jendral Sudirman no. 47 Ewalk Balikpapan Superblock, Ground Floor, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": "+62 542 7213867",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11964910",
+      "restaurant_name": "Restoran Biru Laut",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/41/76/bf/the-taste-is-quite-poor.jpg",
+      "rating": 4,
+      "address": "Jl. Jenderal Sudirman Monumen Perjuangan Rakyat, Balikpapan Indonesia",
+      "latitude": "-1.279581",
+      "longitude": "116.822815",
+      "contact_number": "+62 852-0002-1966",
+      "website": "http://www.facebook.com/pages/Laut-Biru-Resto-Balikpapan/929480093851032",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8540852",
+      "restaurant_name": "I-ta Suki Balikpapan",
+      "cuisine": [
+        "Chinese",
+        "Japanese",
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/08/be/5b/d2/i-ta-suki-balikpapan.jpg",
+      "rating": 4.5,
+      "address": "Jl. Jendral Sudirman Komplek BSB Blok G no. 26-28, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277325",
+      "longitude": "116.83118",
+      "contact_number": "+62 254 7571852",
+      "website": "http://www.itasuki.com/about/cabang/itasuki-balikpapan",
+      "opening_hours": [
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7117936",
+      "restaurant_name": "De Cafe Resto, Pastry & Bakery",
+      "cuisine": [
+        "Cafe",
+        "International",
+        "Asian",
+        "Indonesian",
+        "Vegetarian Friendly",
+        "Vegan Options"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/94/3a/81/dari-pada-bingung-cari.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman Ruko Bandar blok A no. 11 Klandasan, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277479",
+      "longitude": "116.833885",
+      "contact_number": "+62 542 739272",
+      "website": "http://www.decafe.co.id",
+      "opening_hours": [
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7387764",
+      "restaurant_name": "Island Seafood Terrace - Blue Sky Hotel",
+      "cuisine": [
+        "Chinese",
+        "Seafood",
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/3f/ec/b8/island-seafood-terrace.jpg",
+      "rating": 4.5,
+      "address": "Jln. Letjend Suprapto No 1 Blue Sky Hotel, Balikpapan 76131 Indonesia",
+      "latitude": "-1.238001",
+      "longitude": "116.82767",
+      "contact_number": "+62 542 735845",
+      "website": "http://www.blueskybalikpapan.com",
+      "opening_hours": [
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8549296",
+      "restaurant_name": "RM Tahu Sumedang Samboja",
+      "cuisine": [
+        "Asian",
+        "Indonesian",
+        "Vegetarian Friendly"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/08/be/5e/6b/rm-tahu-sumedang-samboja.jpg",
+      "rating": 4,
+      "address": "Jl. Sukarno Hatta KM 50 - 52 Kecamatan Samboja Kutai Kartanegara, Balikpapan Indonesia",
+      "latitude": "-1.22042",
+      "longitude": "116.84861",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6594249",
+      "restaurant_name": "Kedai Kopi Mantaw",
+      "cuisine": [
+        "Asian",
+        "Deli",
+        "Grill",
+        "Indonesian",
+        "Chinese",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/67/ac/2b/kedai-kopi-mantaw-canton.jpg",
+      "rating": 4,
+      "address": "Jl. Jendral Sudirman no. 101 Pasar Baru, Balikpapan 76113 Indonesia",
+      "latitude": "-1.27693",
+      "longitude": "116.83909",
+      "contact_number": "+62 821-5420-2668",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 420,
+            "close": 960
+          }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6489001",
+      "restaurant_name": "Warung Tulung Agung",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/d8/ef/94/p-20161211-121649-df.jpg",
+      "rating": 4,
+      "address": "Jl. Jendral Sudirman 70, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277477",
+      "longitude": "116.82823",
+      "contact_number": "+62 542 731438",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8388297",
+      "restaurant_name": "Marugame Udon",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/4b/f8/5e/marugame-udon.jpg",
+      "rating": 4,
+      "address": "Jl. Jendral Sudirman no. 1 Balikpapan Plaza Lantai Dasar, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277929",
+      "longitude": "116.82593",
+      "contact_number": null,
+      "website": "https://www.marugameudon.co.id/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4246555",
+      "restaurant_name": "Batakan Beach Cafe",
+      "cuisine": [
+        "Bar",
+        "International",
+        "Asian",
+        "Pub",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/03/ea/f3/29/getlstd-property-photo.jpg",
+      "rating": 4,
+      "address": "Jln. Mulawarman 03, Balikpapan 76115 Indonesia",
+      "latitude": "-1.25525",
+      "longitude": "116.92605",
+      "contact_number": "+62 542 750750",
+      "website": "http://www.letseat.at/batakanbeachcafe",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7606272",
+      "restaurant_name": "Kaizeki Japanese Restaurant",
+      "cuisine": [
+        "Japanese",
+        "Sushi",
+        "Barbecue",
+        "Vegetarian Friendly"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/22/5b/d5/large-sashimi-set.jpg",
+      "rating": 4.5,
+      "address": "Jl. Letjen Suprapto no. 1 Blue Sky Hotel, Balikpapan 76131 Indonesia",
+      "latitude": "-1.238017",
+      "longitude": "116.82767",
+      "contact_number": "+62 542 735845",
+      "website": "http://www.blueskybalikpapan.com",
+      "opening_hours": [
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 690,
+            "close": 870
+          },
+          {
+            "open": 1080,
+            "close": 1350
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7745800",
+      "restaurant_name": "Pasta Cielo",
+      "cuisine": [
+        "Italian",
+        "European",
+        "Vegetarian Friendly"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/b4/b2/b8/seafood-plater.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman No. 47 In shops surrounding E-Walk Plaza, Balikpapan 76112 Indonesia",
+      "latitude": "-1.274517",
+      "longitude": "116.859314",
+      "contact_number": "+62 851-0007-2825",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10153994",
+      "restaurant_name": "Sup Konro \"BCA\"",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/71/48/49/soup-konro-and-soup-saudara.jpg",
+      "rating": 4.5,
+      "address": "Jln. Jendral Sudirman Alley between BCA and BTN Pasar Baru, Balikpapan 76112 Indonesia",
+      "latitude": "-1.276013",
+      "longitude": "116.841675",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7146235",
+      "restaurant_name": "Warung Haur Gading Balikpapan",
+      "cuisine": [
+        "Seafood",
+        "Indonesian",
+        "Asian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/f6/83/19/photo1jpg.jpg",
+      "rating": 4,
+      "address": "Jl Kebun Sayur Pasar Kebun Sayur Balikpapan, Balikpapan 76131 Indonesia",
+      "latitude": "-1.235307",
+      "longitude": "116.823494",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4053539",
+      "restaurant_name": "Bakso Sapi Pasar Baru",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/63/8c/a8/mie-bakso-pasar-baru.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman no. 18, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277295",
+      "longitude": "116.83298",
+      "contact_number": "+62 542 423198",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8372869",
+      "restaurant_name": "Rumah Makan Teluk Bayur",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/40/94/9a/rumah-makan-teluk-bayur.jpg",
+      "rating": 4.5,
+      "address": "Jl. Jend. Ahmad Yani, RT. 41 no. 33, Gunung Sari Ilir, Balikpapan Indonesia",
+      "latitude": "-1.272867",
+      "longitude": "116.83811",
+      "contact_number": "+62 542 421500",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10669693",
+      "restaurant_name": "Bakso dan Mie Pangsit Wardoyo",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/52/eb/fa/mie-ayam-and-bakso-pangsit.jpg",
+      "rating": 4,
+      "address": "Jl. MT Haryono Dalam, Balikpapan Indonesia",
+      "latitude": "-1.26417",
+      "longitude": "116.85959",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 720,
+            "close": 1260
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8388299",
+      "restaurant_name": "Bakso Lapangan Tembak Senayan E-Walk",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/4b/f7/00/bakso-lapangan-tembak.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman No 47 E-Walk Balikpapan, Stal Kuda, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": null,
+      "website": "http://baksolapangantembaksenayan.com/member/superblok",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14140822",
+      "restaurant_name": "Depot Miki",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/c3/89/87/photo0jpg.jpg",
+      "rating": 4,
+      "address": "Jl. Jenderal Sudirman No.93 Klandasan Ilir, Balikpapan Indonesia",
+      "latitude": "-1.277437",
+      "longitude": "116.828514",
+      "contact_number": "+62 542 424652",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8091061",
+      "restaurant_name": "Bebek Goreng H. Slamet",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/13/ef/f7/typical-menu.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman 74, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277775",
+      "longitude": "116.82653",
+      "contact_number": "+62 542 760730",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6489051",
+      "restaurant_name": "RM Bunaken Indah",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman 245, Balikpapan 76112 Indonesia",
+      "latitude": "-1.279422",
+      "longitude": "116.812454",
+      "contact_number": "+62 542 732022",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10195182",
+      "restaurant_name": "Restaurant Sea Food Apong",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/8f/04/03/20171221-131450-0-largejpg.jpg",
+      "rating": 4.5,
+      "address": "Jl. Marsma R. Iswahyudi Gunung Bakaran no. 124 blok A-2, Balikpapan Indonesia",
+      "latitude": "-1.271415",
+      "longitude": "116.87538",
+      "contact_number": "+62 542 8520571",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "3784879",
+      "restaurant_name": "XO Suki & Dim Sum",
+      "cuisine": [
+        "Chinese",
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/98/26/96/xo-suki-dim-sum.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman Balikpapan Super Block Blok G 10 - 11, Balikpapan 76112 Indonesia",
+      "latitude": "-1.27139",
+      "longitude": "116.85344",
+      "contact_number": "+62 542 7571816",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7617770",
+      "restaurant_name": "Mandarin Chinese Restaurant",
+      "cuisine": [
+        "Chinese"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/57/c6/b5/mandarin-chinese-restaurant.jpg",
+      "rating": 4,
+      "address": "Bandar Balikpapan Ruko  Jln. Jendral Sudirman, Balikpapan 76112 Indonesia",
+      "latitude": "-1.27139",
+      "longitude": "116.85344",
+      "contact_number": "+62 542 739053",
+      "website": "https://www.facebook.com/Mandarin-Chinese-Restaurant-515645898619450/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "3974755",
+      "restaurant_name": "Zeus Cafe and Lounge",
+      "cuisine": [
+        "Seafood",
+        "Indonesian",
+        "Chinese",
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/90/02/f9/restoran-tampak-depan.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman Kawasan Niaga Terpadu Bandar Balikpapan Blok L, Balikpapan 76112 Indonesia",
+      "latitude": "-1.274173",
+      "longitude": "116.84956",
+      "contact_number": "+62 542 739141",
+      "website": "https://www.facebook.com/pages/Zeus-Cafe-Lounge/231521816935259?rf=321217627927661",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6373741",
+      "restaurant_name": "Warung Ikan Bakar Pelangi",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/e3/b3/16/ikan-cumi-udang-bakar.jpg",
+      "rating": 4.5,
+      "address": "Jl. Marsma R Iswahyudi, Balikpapan Indonesia",
+      "latitude": "-1.25771",
+      "longitude": "116.90578",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7913923",
+      "restaurant_name": "Sky Grill Restaurant",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/a6/91/fc/sky-grill-restaurant.jpg",
+      "rating": 4,
+      "address": "Jln. H ARS. Muhammad 7 Gran Senyiur Hotel, 7th Floor, Balikpapan 76112 Indonesia",
+      "latitude": "-1.272809",
+      "longitude": "116.83241",
+      "contact_number": "+62 542 820211",
+      "website": "http://gran.senyiurhotels.com/restaurants/sky-grill-restaurant/#content",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7003743",
+      "restaurant_name": "Iga Bakar Mas Giri",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/42/95/74/img-20170126-222108-largejpg.jpg",
+      "rating": 3.5,
+      "address": "Jl. Jendral Sudirman no. 285 Markoni, Balikpapan 76113 Indonesia",
+      "latitude": "-1.273553",
+      "longitude": "116.85041",
+      "contact_number": "+62 542 424124",
+      "website": "http://igamasgiri.blogspot.com/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6487841",
+      "restaurant_name": "Bubur Ayam Samarinda",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/7a/ba/e1/screenshot-20180626-151416.jpg",
+      "rating": 4,
+      "address": "Jl. Jend. A. Yani No. 50 RT 55, Balikpapan Indonesia",
+      "latitude": "-1.272793",
+      "longitude": "116.83806",
+      "contact_number": "+62 542 736491",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10214583",
+      "restaurant_name": "Blend Wine & Co",
+      "cuisine": [
+        "European",
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/1a/d4/30/interior-of-blend.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman no. 47 Ground Floor Pentacity Shopping Venue, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": "+62 822-5585-0789",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4607122",
+      "restaurant_name": "Kantin inter masakan medan",
+      "cuisine": [
+        "Chinese"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/e4/b2/34/kantin-inter-masakan.jpg",
+      "rating": 5,
+      "address": "Balikpapan baru b2, Balikpapan Indonesia",
+      "latitude": "-1.24025",
+      "longitude": "116.8684",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7178684",
+      "restaurant_name": "The East 1",
+      "cuisine": [
+        "Chinese",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/ce/56/ea/outdoor-seats.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman no. 7 Aston Hotel, Balikpapan 76113 Indonesia",
+      "latitude": "-1.277295",
+      "longitude": "116.83278",
+      "contact_number": "+62 542 733999",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10692324",
+      "restaurant_name": "Nyiurku Beach Resto",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/1b/2d/59/7b/nyiurku-beach-resto.jpg",
+      "rating": 4.5,
+      "address": "Jl. Jenderal Sudirman Pantai Banua Patra, Balikpapan Indonesia",
+      "latitude": "-1.280833",
+      "longitude": "116.81438",
+      "contact_number": "+62 811-597-518",
+      "website": "http://www.facebook.com/NyiurkuBeachResto",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14890689",
+      "restaurant_name": "Meracikopi",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/d4/33/0c/meracikopi.jpg",
+      "rating": 5,
+      "address": "Jl. Indrakila 85 next to Asrama Yatim, Balikpapan 76114 Indonesia",
+      "latitude": "-1.224278",
+      "longitude": "116.86655",
+      "contact_number": "+62 838-4044-4888",
+      "website": "https://www.facebook.com/meracikopi/",
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12550230",
+      "restaurant_name": "Natural Kopi",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/9e/13/21/coffee-shop-with-a-manual.jpg",
+      "rating": 4.5,
+      "address": "Jl. Arjuna RT 056 no 08 Gn. Polisi, Balikpapan 76131 Indonesia",
+      "latitude": "-1.252292",
+      "longitude": "116.91827",
+      "contact_number": "+62 852-2989-6555",
+      "website": "http://tokopedia.link/6EA3M21otV",
+      "opening_hours": [
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 960,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8028212",
+      "restaurant_name": "Kapok Lombok Resto",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/d0/a6/3a/getlstd-property-photo.jpg",
+      "rating": 3.5,
+      "address": "Jln. Brigjen Waluyo Puspoyudo no. 31, Balikpapan 76112 Indonesia",
+      "latitude": "-1.273564",
+      "longitude": "116.82991",
+      "contact_number": "+62 813-5145-5100",
+      "website": "https://www.facebook.com/pages/Kapok-Lombok-Resto/454789131351403",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6488939",
+      "restaurant_name": "Kentucky Fried Chicken (Kfc)",
+      "cuisine": [
+        "Fast Food",
+        "American"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/c6/8a/32/rice-box.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman No. 1 Plaza Balikpapan, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277929",
+      "longitude": "116.82593",
+      "contact_number": "+62 542 734225",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12442876",
+      "restaurant_name": "DocJC",
+      "cuisine": [
+        "Pizza"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/67/89/56/beef-rendang-pizza-dari.jpg",
+      "rating": 5,
+      "address": "Jl. A.Yani no. 12 In front of Pacific Hotel, Balikpapan 76113 Indonesia",
+      "latitude": "-1.270592",
+      "longitude": "116.83765",
+      "contact_number": "+62 813-4760-9098",
+      "website": "https://www.facebook.com/DocJCRestaurant/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7178576",
+      "restaurant_name": "Dinasti Restaurant",
+      "cuisine": [
+        "Chinese",
+        "Seafood",
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/da/e9/54/photo0jpg.jpg",
+      "rating": 4.5,
+      "address": "Jln. MT. Haryono, Balikpapan 76114 Indonesia",
+      "latitude": "-1.24892",
+      "longitude": "116.87067",
+      "contact_number": "+62 542 877445",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8644439",
+      "restaurant_name": "Pot O' Koffie",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/b3/b7/4b/warm-place.jpg",
+      "rating": 4.5,
+      "address": "Jl. Ruhui Rahayu no. 4, Balikpapan 76114 Indonesia",
+      "latitude": "-1.24319",
+      "longitude": "116.89651",
+      "contact_number": "+62 542 8511061",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 960,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8298045",
+      "restaurant_name": "Depot Bintang Mawar Ayam Pedas",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/0b/fb/5c/depot-bintang-mawar-ayam.jpg",
+      "rating": 4.5,
+      "address": "Jl. Mt Haryono Dalam no. 103 RT 040 Gn Bahagia, Balikpapan 76114 Indonesia",
+      "latitude": "-1.24514",
+      "longitude": "116.87182",
+      "contact_number": "+62 542 7127855",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4787548",
+      "restaurant_name": "Kafe Betawi",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/70/ea/62/makanan-tradisional-indonesia.jpg",
+      "rating": 3.5,
+      "address": "Jl. Sudirman Blok K No.6 Komplek Pasar Baru Square Lt 2, Balikpapan Indonesia",
+      "latitude": "-1.27708",
+      "longitude": "116.82988",
+      "contact_number": "+62 542 7582552",
+      "website": "http://kafebetawi.com/outlets/balcony-balikpapan/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8597797",
+      "restaurant_name": "Ikan Bakar Selat Makassar",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/b1/8a/83/ikan-bakar-selat-makassar.jpg",
+      "rating": 4,
+      "address": "Jln. Mulawarman, Balikpapan 76115 Indonesia",
+      "latitude": "-1.25528",
+      "longitude": "116.92601",
+      "contact_number": "+62 813-4714-1474",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9742446",
+      "restaurant_name": "D'Jintan",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/94/4a/e0/d-jintan.jpg",
+      "rating": 4.5,
+      "address": "Jl. Jendral Sudirman no. 47 Mall E-Walk BSB Lantai UG No. 20 B, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": "+62 542 7571842",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6550735",
+      "restaurant_name": "Raja Udang Resto",
+      "cuisine": [
+        "Asian",
+        "Cajun & Creole",
+        "Seafood",
+        "Grill",
+        "Indonesian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/c0/2f/cf/getlstd-property-photo.jpg",
+      "rating": 4,
+      "address": "Jln. MT. Haryono No. 75, Balikpapan 76114 Indonesia",
+      "latitude": "-1.240047",
+      "longitude": "116.87344",
+      "contact_number": "+62 542 765285",
+      "website": "https://www.facebook.com/rajaudangresto/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10213443",
+      "restaurant_name": "Etnica Coffee & Kitchen",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/e7/e6/77/photo3jpg.jpg",
+      "rating": 4,
+      "address": "Jl. Sungai Ampal Ruko Pasar Segar RB 09, Balikpapan Indonesia",
+      "latitude": "-1.244475",
+      "longitude": "116.85818",
+      "contact_number": "+62 812-3994-0098",
+      "website": "https://www.facebook.com/pages/Etnica-Coffee-Kitchen/160286287980125?ref=br_rs",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8486348",
+      "restaurant_name": "Mie Ayam & Bakso Kolor Ijo",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/93/ac/73/bakso-enak.jpg",
+      "rating": 4,
+      "address": "Jl. Mayjend Sutoyo No.65, RT.2 Klandasan Ilir, Balikpapan 76114 Indonesia",
+      "latitude": "-1.273024",
+      "longitude": "116.845924",
+      "contact_number": "+62 813-4732-0570",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6487849",
+      "restaurant_name": "Lotus Cafe",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/ff/a9/2e/img-9742-largejpg.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman Komp. Ruko Bandar Blok K 5, Balikpapan 76112 Indonesia",
+      "latitude": "-1.27139",
+      "longitude": "116.85344",
+      "contact_number": "+62 542 731757",
+      "website": "https://website-2717149562994406130132-cafe.business.site/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10528964",
+      "restaurant_name": "Coto Makassar Klandasan Hj. Kasim",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/9a/88/c8/photo2jpg.jpg",
+      "rating": 4,
+      "address": "Jl. Jenderal Sudirman No.69 Pasar Klandasan Balikpapan, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277993",
+      "longitude": "116.832825",
+      "contact_number": "+62 852-4653-8353",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8388283",
+      "restaurant_name": "Share Tea",
+      "cuisine": [
+        "Cafe",
+        "Fast Food"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/4b/f9/0a/share-tea.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman Balikpapan Superblock, Balikpapan 76114 Indonesia",
+      "latitude": "-1.27531",
+      "longitude": "116.86555",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "13328628",
+      "restaurant_name": "Nasi Kuning H Daud",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/0e/d9/b8/20180117-083058-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. Sungai Ampal No. 23,, Balikpapan 76113 Indonesia",
+      "latitude": "-1.24567",
+      "longitude": "116.85709",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6488289",
+      "restaurant_name": "Excelso Express",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/15/37/56/ca/20181017-203903-largejpg.jpg",
+      "rating": 4,
+      "address": "Jln. MT. Haryono No. 8C, Balikpapan 76126 Indonesia",
+      "latitude": "-1.268906",
+      "longitude": "116.85675",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7723804",
+      "restaurant_name": "ayam penyet suroboyo",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/c2/d4/66/suasana-rumah-makan.jpg",
+      "rating": 4,
+      "address": "Jl, Balikpapan Indonesia",
+      "latitude": "-1.27314",
+      "longitude": "116.83846",
+      "contact_number": "+62 542 424161",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10607151",
+      "restaurant_name": "Harbour Coffee Housee",
+      "cuisine": [
+        "Chinese",
+        "European",
+        "Asian",
+        "Indonesian",
+        "South American"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/44/a4/01/cozy-spot.jpg",
+      "rating": 4.5,
+      "address": "Jl. Gajahmada no. 2 Hotel Menara Bahtera, Balikpapan 76113 Indonesia",
+      "latitude": "-1.276081",
+      "longitude": "116.83906",
+      "contact_number": "+62 542 738000",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7729073",
+      "restaurant_name": "Bakso & Mie Ayam Lik Min",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/40/b9/22/bakso-mie-ayam-lik-min.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman, Balikpapan 76114 Indonesia",
+      "latitude": "-1.27339",
+      "longitude": "116.85133",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10137336",
+      "restaurant_name": "Bebek Goreng Jumbo Pak Asman",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman No. 88, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277533",
+      "longitude": "116.827736",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6887417",
+      "restaurant_name": "Ta Wan Restaurant",
+      "cuisine": [
+        "Chinese",
+        "Thai"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/65/e7/53/lunch.jpg",
+      "rating": 3.5,
+      "address": "Jl. Ahmad Yani no 1 Balikpapan Plaza 1st Floor, Balikpapan Indonesia",
+      "latitude": "-1.278521",
+      "longitude": "116.82065",
+      "contact_number": "+62 542 7203432",
+      "website": "http://tawanrestaurant.com/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10680445",
+      "restaurant_name": "The Coast",
+      "cuisine": [
+        "Chinese",
+        "Asian",
+        "Healthy",
+        "Indonesian",
+        "Seafood",
+        "Vegetarian Friendly",
+        "Vegan Options",
+        "Gluten Free Options"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/ec/c9/e2/bali-dancer-cafe.jpg",
+      "rating": 4.5,
+      "address": "Jl. Jendrl Sudirman no. 889 Blok C3 - C8 Sudirman Office Park, Balikpapan 76114 Indonesia",
+      "latitude": "-1.275362",
+      "longitude": "116.87396",
+      "contact_number": "+62 812-5390-8881",
+      "website": "http://www.facebook.com/thecoast.bpn",
+      "opening_hours": [
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7824750",
+      "restaurant_name": "Warung Ikan Bakar Malvinas",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/c0/b3/63/warung-ikan-bakar-malvinas.jpg",
+      "rating": 4.5,
+      "address": "Jl. Marsma R. Iswahyudi no.3 Adjacent to Sepinggan International Airport, Balikpapan Indonesia",
+      "latitude": "-1.26181",
+      "longitude": "116.89352",
+      "contact_number": "+62 542 760731",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7939696",
+      "restaurant_name": "Rumah Makan Pondok Kelapa",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/bd/f8/bf/rumah-makan-pondok-kelapa.jpg",
+      "rating": 3.5,
+      "address": "Jl. Yos Sudarso no. 72, Balikpapan Indonesia",
+      "latitude": "-1.14029",
+      "longitude": "116.99923",
+      "contact_number": "+62 542 733956",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6489004",
+      "restaurant_name": "RM Tanjung Hijrah",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/eb/1e/6a/sate-ayam-lengkap.jpg",
+      "rating": 4,
+      "address": "Jln. Tanjungpura I 13, Balikpapan 76112 Indonesia",
+      "latitude": "-1.27284",
+      "longitude": "116.8264",
+      "contact_number": "+62 542 411301",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9736359",
+      "restaurant_name": "Seventh Street Irish",
+      "cuisine": [
+        "Steakhouse",
+        "Cafe",
+        "Barbecue",
+        "Diner"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/50/70/14/clasy-bar-place-that.jpg",
+      "rating": 4,
+      "address": "Jl. Jendral Sudirman no. 7 Aston Balikpapan Hotel & Residence, Balikpapan 76113 Indonesia",
+      "latitude": "-1.275859",
+      "longitude": "116.84522",
+      "contact_number": "+62 821-5496-8203",
+      "website": "https://www.facebook.com/seventhstreetbalikpapan/",
+      "opening_hours": [
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ],
+        [
+          {
+            "open": 1020,
+            "close": 1560
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8389158",
+      "restaurant_name": "Nasi Pecel (Pincuk) Khas Madiun Pak Kumis",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/08/b0/18/59/nasi-pecel-pincuk-khas.jpg",
+      "rating": 4,
+      "address": "Jln. Mayjen Sutoyo, Balikpapan 76113 Indonesia",
+      "latitude": "-1.26685",
+      "longitude": "116.84614",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6209367",
+      "restaurant_name": "Colors Restaurant, In Novotel Balikpapan",
+      "cuisine": [
+        "Italian",
+        "European"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/6c/50/7b/colors-restaurant-in.jpg",
+      "rating": 4,
+      "address": "Jln. Brigjen Eri Suparjan No 2, Balikpapan 76112 Indonesia",
+      "latitude": "-1.27396",
+      "longitude": "116.83387",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11625356",
+      "restaurant_name": "Dialog Coffee",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/4c/fa/2c/dialog-coffee.jpg",
+      "rating": 4.5,
+      "address": "Jl. Jendral Sudirman Balikpapan Permai blok H2 no. 5-7, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277295",
+      "longitude": "116.83275",
+      "contact_number": "+62 542 8861991",
+      "website": "http://dialog.coffee",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10535175",
+      "restaurant_name": "Depot Lo Ho Kok",
+      "cuisine": [
+        "Chinese"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/9b/71/e3/depot-lo-ho-kok.jpg",
+      "rating": 4.5,
+      "address": "Jl. Pandan Sari, Balikpapan Indonesia",
+      "latitude": "-1.23735",
+      "longitude": "116.82566",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6490118",
+      "restaurant_name": "Solaria",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/36/54/d0/solaria.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman no. 47 E-Walk Balikpapan Super Block, Lt. UG Unit 18-19, Balikpapan 76113 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": "+62 542 7213822",
+      "website": "https://www.facebook.com/Solaria-Indonesia-248131285339678/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9818861",
+      "restaurant_name": "Bellagio Restaurant",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/86/a3/7c/nyaman-bangetlega-bangetfeel.jpg",
+      "rating": 4,
+      "address": "Jl. Jendral Sudirman no. 47 Balikpapan Super Block, Balikpapan 76114 Indonesia",
+      "latitude": "-1.272973",
+      "longitude": "116.85766",
+      "contact_number": "+62 542 7213888",
+      "website": "http://www.jatrahotels.com/grandjatra-balikpapan/dining/bellagio-restaurant",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9766496",
+      "restaurant_name": "Pepper Lunch",
+      "cuisine": [
+        "Japanese",
+        "Steakhouse",
+        "Fast Food",
+        "Diner",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/63/4f/77/photo0jpg.jpg",
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman No. 47 Balikpapan Superblock Level LG, Unit 08, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": "+62 542 8521025",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11638527",
+      "restaurant_name": "Bangi Kopitiam",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/1a/6d/70/a8/ex-bangi-kopitiam-sekarang.jpg",
+      "rating": 4,
+      "address": "Jl. MT Haryono Gedung Giant Ekstra, Lantai Dasar Unit. 1-2, Balikpapan Indonesia",
+      "latitude": "-1.24892",
+      "longitude": "116.87067",
+      "contact_number": "+62 542 8810933",
+      "website": "http://www.facebook.com/Bangi-Kopitiam-Balikpapan-744359052339348/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10428280",
+      "restaurant_name": "Kepala Ikan Bang Djoni",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jl. MT. Haryono, Balikpapan Indonesia",
+      "latitude": "-1.24892",
+      "longitude": "116.87067",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8761509",
+      "restaurant_name": "New Shangrila",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/df/85/6c/new-shangrila.jpg",
+      "rating": 4,
+      "address": "Ruko Balikpapan Baru, Balikpapan 76114 Indonesia",
+      "latitude": "-1.2399",
+      "longitude": "116.87324",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7178582",
+      "restaurant_name": "Heart of Borneo",
+      "cuisine": [
+        "Bar"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/cf/bb/66/heart-of-borneo.jpg",
+      "rating": 3.5,
+      "address": "Jl. Jenderal Sudirman No.47, Balikpapan 76114 Indonesia",
+      "latitude": "-1.27519",
+      "longitude": "116.84593",
+      "contact_number": "+62 853-8742-0187",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8549299",
+      "restaurant_name": "Mie Jogja Pak Karso",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/08/be/5c/cd/mie-jogja-pak-karso.jpg",
+      "rating": 4,
+      "address": "Jln. MT. Haryono, Balikpapan 76114 Indonesia",
+      "latitude": "-1.24886",
+      "longitude": "116.87067",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4233761",
+      "restaurant_name": "KFC Plaza Rapak",
+      "cuisine": [
+        "American"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/89/1f/6f/kfc-plaza-rapak.jpg",
+      "rating": 3.5,
+      "address": "Jl Soekarno Hatta No.1 Rapak Plaza, Balikpapan Indonesia",
+      "latitude": "-1.24132",
+      "longitude": "116.83576",
+      "contact_number": "+62 542 747806",
+      "website": "http://www.kfcku.com/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7175245",
+      "restaurant_name": "Joy's Bar & Restaurant",
+      "cuisine": [
+        "Asian",
+        "Pub",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/d4/a0/60/joy-s-beef-burger-with.jpg",
+      "rating": 4,
+      "address": "Jl. Jend. Sudirman No. 33 RT 049, Balikpapan 76114 Indonesia",
+      "latitude": "-1.27531",
+      "longitude": "116.86555",
+      "contact_number": "+62 542 760307",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11742079",
+      "restaurant_name": "Konro Puncak",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/50/91/4f/mtf-ieclj-108-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. MT. Haryono, Balikpapan Indonesia",
+      "latitude": "-1.22611",
+      "longitude": "116.86778",
+      "contact_number": "+62 542 415770",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7825128",
+      "restaurant_name": "Bombay Curry Resto & Cafe",
+      "cuisine": [
+        "Indian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/25/be/a9/bombay-curry-house-is.jpg",
+      "rating": 3.5,
+      "address": "Ruko Bandar Kompleks Blok E-12A Ruko Bandar, Blok E - 12A,Klandasan Ulu, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277978",
+      "longitude": "116.83438",
+      "contact_number": "+62 542 764105",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1350
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4507013",
+      "restaurant_name": "Amplang Karya Utama Kita",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/aa/b3/2e/amplang-dengan-rasa-yg.jpg",
+      "rating": 4,
+      "address": "401, Jalan Jend. A. Yani, Balikpapan Indonesia",
+      "latitude": "-1.26738",
+      "longitude": "116.837",
+      "contact_number": "+62 812-5307-0708",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10677007",
+      "restaurant_name": "Kemala Beach & Resto",
+      "cuisine": [
+        "Italian",
+        "Chinese",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/92/d4/e6/jimbaran-restaurant.jpg",
+      "rating": 3.5,
+      "address": "Jl. Jendral Sudirman, Balikpapan 76614 Indonesia",
+      "latitude": "-1.280417",
+      "longitude": "116.81834",
+      "contact_number": "+62 813-5123-5032",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1410
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6489011",
+      "restaurant_name": "RM Ujung Pandang",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jln. Pranoto APT 5/21, Balikpapan 76112 Indonesia",
+      "latitude": "-1.27497",
+      "longitude": "116.83673",
+      "contact_number": "+62 542 734440",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6876686",
+      "restaurant_name": "D' Sushi",
+      "cuisine": [
+        "Japanese",
+        "Sushi",
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/09/85/19/d-sushi.jpg",
+      "rating": 3.5,
+      "address": "Jl. Jendral Sudirman no. 16, Balikpapan 76112 Indonesia",
+      "latitude": "-1.273127",
+      "longitude": "116.84796",
+      "contact_number": "+62 542 7219560",
+      "website": "http://www.desushi.biz/front/index.php",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7653723",
+      "restaurant_name": "Pondok Ikan Bakar Segiri",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jln. Jendral Sudirman 18, Balikpapan 76112 Indonesia",
+      "latitude": "-1.277295",
+      "longitude": "116.83298",
+      "contact_number": "+62 542 410998",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9792874",
+      "restaurant_name": "Primlicious Cafe",
+      "cuisine": [
+        "Italian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/0a/27/2e/img-20171216-095208-081.jpg",
+      "rating": 5,
+      "address": "Jl. Mayjend Sutoyo, Balikpapan Indonesia",
+      "latitude": "-1.26298",
+      "longitude": "116.84057",
+      "contact_number": "+62 813-1981-1150",
+      "website": "http://www.facebook.com/PrimliciousCafe",
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8388298",
+      "restaurant_name": "Teapresso",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/4b/f7/a0/teapresso.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman no. 47 Balikpapan E-Walk, Balikpapan 76114 Indonesia",
+      "latitude": "-1.277344",
+      "longitude": "116.83002",
+      "contact_number": null,
+      "website": "http://www.loveteapresso.com/menu.html",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10509825",
+      "restaurant_name": "BreadTalk",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/e2/b5/0f/choco.jpg",
+      "rating": 4,
+      "address": "Jl. MT Haryono No 1 Giant Extra MT Haryono, Balikpapan 76114 Indonesia",
+      "latitude": "-1.265591",
+      "longitude": "116.858765",
+      "contact_number": null,
+      "website": "http://www.breadtalk.co.id/",
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8520148",
+      "restaurant_name": "New Star Kopitiam",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/08/b0/19/35/new-star-kopitiam.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jendral Sudirman Balikpapan Superblock E. Walk Mall Lt. I, Balikpapan 76114 Indonesia",
+      "latitude": "-1.27531",
+      "longitude": "116.86555",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10669694",
+      "restaurant_name": "Gado-Gado Siram Persiba",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/82/cb/b4/gado-gado-siram-es-kelapa.jpg",
+      "rating": 4,
+      "address": "Jl. Warukin Persiba Stadium, Balikpapan Indonesia",
+      "latitude": "-1.24307",
+      "longitude": "116.82997",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6487985",
+      "restaurant_name": "Warung Segeri",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jl. Letjend. Suprapto, Balikpapan Indonesia",
+      "latitude": "-1.23436",
+      "longitude": "116.82006",
+      "contact_number": "+62 542 419609",
+      "website": null,
+      "opening_hours": [],
+      "city": "Balikpapan",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12279605",
+      "restaurant_name": "Kedai Bakso Berau",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/3d/bf/c3/kedai-bakso-berau-tasty.jpg",
+      "rating": 4.5,
+      "address": "Jl. Pemuda No 24 Tanjung Redeb, Berau 77311 Indonesia",
+      "latitude": "2.15185",
+      "longitude": "117.49244",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7942557",
+      "restaurant_name": "Azure",
+      "cuisine": [
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/b2/b9/31/getlstd-property-photo.jpg",
+      "rating": 4.5,
+      "address": "Jl. Pangeran Sambit No. 747, Berau Indonesia",
+      "latitude": "2.15234",
+      "longitude": "117.48164",
+      "contact_number": null,
+      "website": "http://bumisegah.com/en/restaurants/azure-1",
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7950956",
+      "restaurant_name": "Pondok Pasundan Derizca",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/b6/a5/15/pondok-pasundan-derizca.jpg",
+      "rating": 4,
+      "address": "Jl H. Isa III Tanjung Redeb, Berau Indonesia",
+      "latitude": "2.15549",
+      "longitude": "117.50367",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7953707",
+      "restaurant_name": "Padang Kuring Restaurant",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/b8/d5/f0/the-restaurant.jpg",
+      "rating": 4,
+      "address": "Jl SM Aminuddin Tanjung Redeb, Berau Indonesia",
+      "latitude": "2.15692",
+      "longitude": "117.5012",
+      "contact_number": "+62 823-5347-0162",
+      "website": null,
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15089242",
+      "restaurant_name": "I Cafe Berau",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/18/26/d4/20180905-201948-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. H. Isa II Karang Ambun, Tj. Redeb, Berau 77315 Indonesia",
+      "latitude": "2.15092",
+      "longitude": "117.50075",
+      "contact_number": "+62 812-5846-579",
+      "website": null,
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7953708",
+      "restaurant_name": "Warung Acheh",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/b8/d5/be/inside-the-restaurant.jpg",
+      "rating": 3.5,
+      "address": "Jl Pulau Sambit, Berau Indonesia",
+      "latitude": "2.15155",
+      "longitude": "117.48241",
+      "contact_number": "+62 852-4753-5325",
+      "website": null,
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7101809",
+      "restaurant_name": "Sari Ponti Restaurant",
+      "cuisine": [
+        "Chinese",
+        "Asian",
+        "Indonesian",
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/ac/0b/d6/20180417-200503-largejpg.jpg",
+      "rating": 3.5,
+      "address": "Jl. Durian, Berau Indonesia",
+      "latitude": "2.148099",
+      "longitude": "117.494446",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "17838565",
+      "restaurant_name": "Bakso Mas Eko",
+      "cuisine": [
+        "Asian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/da/fa/c6/bakso-mas-eko.jpg",
+      "rating": 4.1093023256,
+      "address": "Jl. SM. Aminudin No.723 Bugis, Tanjung Redeb, Berau 77352 Indonesia",
+      "latitude": "2.15692",
+      "longitude": "117.5012",
+      "contact_number": "+62 812-8971-8484",
+      "website": "https://www.facebook.com/BAKSO-MAS-EKO-298790790784337/",
+      "opening_hours": [],
+      "city": "Berau",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "16781468",
+      "restaurant_name": "Sky Resto",
+      "cuisine": [
+        "Southwestern"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/16/bc/d2/5a/our-second-floor.jpg",
+      "rating": 3.5,
+      "address": "Jl. Panglima Batur, Tanjung Redeb 77311 Indonesia",
+      "latitude": "2.158035",
+      "longitude": "117.497536",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Penajam",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "23473889",
+      "restaurant_name": "Mama Bakery & Cafe",
+      "cuisine": "Indonesian",
+      "image": null,
+      "rating": 5,
+      "address": "Jl. Durian I No.17, Tanjung Redeb Indonesia",
+      "latitude": "2.152493",
+      "longitude": "117.49824",
+      "contact_number": "+62 821-4203-6377",
+      "website": null,
+      "opening_hours": [],
+      "city": "Penajam",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "17386365",
+      "restaurant_name": "Haohao Coffee",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/7c/43/36/es-kopi-susu.jpg",
+      "rating": 5,
+      "address": "Jl. Cipto Mangunkusumo, Bontang 75313 Indonesia",
+      "latitude": "0.147933",
+      "longitude": "117.472595",
+      "contact_number": "+62 812-5101-644",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7376588",
+      "restaurant_name": "Restoran Singapore",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/f1/e7/cb/restoran-singapore.jpg",
+      "rating": 3.5,
+      "address": "Jln. Pelabuhan, Bontang 75321 Indonesia",
+      "latitude": "0.11237",
+      "longitude": "117.4956",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8660588",
+      "restaurant_name": "Rumah Makan Sari Laut Mbak Zuly",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/14/09/8a/rumah-makan-sari-laut.jpg",
+      "rating": 4,
+      "address": "Jln. Brigjend Katamso no. 45, Bontang 75323 Indonesia",
+      "latitude": "0.1383",
+      "longitude": "117.4647",
+      "contact_number": "+62 548 24909",
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11905249",
+      "restaurant_name": "Warung Bebek & Ayam Goreng Haji Ahong",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/8b/34/03/warung-bebek-ayam-goreng.jpg",
+      "rating": 4.5,
+      "address": "Jl. HM.Ardans no. A15, Bontang Indonesia",
+      "latitude": "0.127952",
+      "longitude": "117.47869",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8335342",
+      "restaurant_name": "Rumah Boga",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 3.5,
+      "address": "Jln. Brigjend Katamso, Bontang 75323 Indonesia",
+      "latitude": "0.1394",
+      "longitude": "117.45474",
+      "contact_number": null,
+      "website": "http://kmbu-pkt.com/kmbu/rumah-boga",
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7376592",
+      "restaurant_name": "Restoran Anjungan Indah",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/ba/35/39/sunset-di-pantai-batam.jpg",
+      "rating": 4,
+      "address": "Jl. Batu Sahasa, Bontang Indonesia",
+      "latitude": "0.11237",
+      "longitude": "117.4956",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "13965835",
+      "restaurant_name": "Bontang Fish Market",
+      "cuisine": "Indonesian",
+      "image": null,
+      "rating": 4.1093023256,
+      "address": "Jl. Arief Rahman Hakim Km.3 Lembah Permai Adventure Park, Bontang Indonesia",
+      "latitude": "0.170071",
+      "longitude": "117.457466",
+      "contact_number": "+62 548 21698",
+      "website": "https://www.facebook.com/Bontang-Fish-Market-171444240153510/",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "21133369",
+      "restaurant_name": "Nasi Kuning Mama Uning",
+      "cuisine": [
+        "Street Food"
+      ],
+      "image": null,
+      "rating": 4.1093023256,
+      "address": "Jalan Pattimura, Bontang Indonesia",
+      "latitude": "0.129706",
+      "longitude": "117.471535",
+      "contact_number": "+62 813-4646-2918",
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "13798382",
+      "restaurant_name": "Rinda Cake and Steak House",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/fe/a5/05/99000-nett-tanpa-pajak.jpg",
+      "rating": 4,
+      "address": "Jl. KS Tubun, Bontang Indonesia",
+      "latitude": "-0.49261",
+      "longitude": "117.14179",
+      "contact_number": "+62 811-5811-969",
+      "website": "https://www.facebook.com/rindacakeandsteakhouse/",
+      "opening_hours": [
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "23985464",
+      "restaurant_name": "Scottie's Pizza",
+      "cuisine": [
+        "American",
+        "Steakhouse",
+        "Pizza",
+        "Asian",
+        "Fusion",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4.1093023256,
+      "address": "Jl. Parikesit No 17 Bontang, Bontang 75313 Indonesia",
+      "latitude": "0.136066",
+      "longitude": "117.493195",
+      "contact_number": "+62 821-5139-5645",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "19508241",
+      "restaurant_name": "Terang Bulan Bangka Kedai Jati Hop",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 5,
+      "address": "Jalan Simon Tampubolon No. 24 Gunung Elai, Bontang 75325 Indonesia",
+      "latitude": "0.132281",
+      "longitude": "117.46406",
+      "contact_number": "+62 822-5443-2222",
+      "website": "https://kedai-jati-bin-dawood.business.site/",
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15044568",
+      "restaurant_name": "Rumah Makan Pondok Ikan Bakar Mbak Ijaa",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/7a/66/f6/soal-rasa-lidah-pasti.jpg",
+      "rating": 4,
+      "address": "Jl. HM Ardans, Bontang Indonesia",
+      "latitude": "0.13433",
+      "longitude": "117.47917",
+      "contact_number": "+62 852-5209-4343",
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "22953080",
+      "restaurant_name": "Pacific Restaurant",
+      "cuisine": [
+        "American",
+        "Asian",
+        "Healthy",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4.1093023256,
+      "address": "Bontang 75313 Indonesia",
+      "latitude": "0.129706",
+      "longitude": "117.471535",
+      "contact_number": "+62 812-5662-8358",
+      "website": "https://www.facebook.com/pacificresto.btg",
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "20342130",
+      "restaurant_name": "History Coffee & Eatery",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4.1093023256,
+      "address": "Jl. HM Ardans No.1 across Toko Pisang Mas, Bontang 75325 Indonesia",
+      "latitude": "0.132735",
+      "longitude": "117.4909",
+      "contact_number": "+62 813-6982-2272",
+      "website": null,
+      "opening_hours": [],
+      "city": "Bontang",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15122883",
+      "restaurant_name": "Rafi Seafood",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": null,
+      "rating": 3,
+      "address": "Jl. Jenderal Ahmad Yani Melayu, Tenggarong, Kutai Kartanegara 75512 Indonesia",
+      "latitude": "-0.4175",
+      "longitude": "116.98859",
+      "contact_number": "+62 812-2365-9946",
+      "website": null,
+      "opening_hours": [],
+      "city": "Kutai Kertanegara",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14962074",
+      "restaurant_name": "Abah Coffee Shop dan Resto",
+      "cuisine": [
+        "International"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/1b/5f/4a/80/abah-coffee-shop-resto.jpg",
+      "rating": 5,
+      "address": "Jl. Pesut No. 11A Timbau, Tenggarong, Kutai Kartanegara 75511 Indonesia",
+      "latitude": "-0.436717",
+      "longitude": "116.98805",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Kutai Kertanegara",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7015026",
+      "restaurant_name": "Soto Banjar Restoran Amado",
+      "cuisine": [
+        "Indonesian",
+        "Asian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/96/b2/98/photo0jpg.jpg",
+      "rating": 4,
+      "address": "Jl. Diponegoro no. 45, Samarinda Indonesia",
+      "latitude": "-0.500969",
+      "longitude": "117.15173",
+      "contact_number": "+62 541 7242604",
+      "website": "http://www.facebook.com/pages/Soto-Banjar-Amado/461288917695735",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11872831",
+      "restaurant_name": "Raja Kepala Ikan",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/f7/4f/28/sop-ikan-dimasak-2-macam.jpg",
+      "rating": 4,
+      "address": "Jl. Awang Long no. 008, Samarinda 75242 Indonesia",
+      "latitude": "-0.500246",
+      "longitude": "117.143585",
+      "contact_number": "+62 541 41205568",
+      "website": "http://www.facebook.com/Rajakepalaikanresto/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "3532859",
+      "restaurant_name": "Pondok Borneo",
+      "cuisine": [
+        "Seafood",
+        "Indonesian",
+        "Asian",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/7b/d6/71/kerang-kepiting-dan-kerapu.jpg",
+      "rating": 4,
+      "address": "Jl. Abul Hasan no. 5, Samarinda Indonesia",
+      "latitude": "-0.498522",
+      "longitude": "117.14837",
+      "contact_number": "+62 541 736605",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 870
+          },
+          {
+            "open": 990,
+            "close": 1350
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8698361",
+      "restaurant_name": "Alaya Food Festival",
+      "cuisine": [
+        "Fast Food",
+        "International"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/36/45/a8/alaya-food-festival.jpg",
+      "rating": 4,
+      "address": "Jl. Bukit Barisan no. 01 Kawasan Terpadu Alaya, Samarinda 75122 Indonesia",
+      "latitude": "-0.49832",
+      "longitude": "117.13927",
+      "contact_number": "+62 541 742291",
+      "website": "http://www.alaya.co.id/food-festival/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10768557",
+      "restaurant_name": "Ong Palace Chinese Restaurant",
+      "cuisine": [
+        "Chinese",
+        "Seafood",
+        "Asian",
+        "Indonesian",
+        "Soups"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/ae/cf/08/ong-palace-restaurant.jpg",
+      "rating": 4.5,
+      "address": "Jl. Pulau Irian no. 1 Mall Samarinda Central Plaza Lantai 5, Samarinda 75242 Indonesia",
+      "latitude": "-0.503828",
+      "longitude": "117.155",
+      "contact_number": "+62 541 749639",
+      "website": "http://www.facebook.com/ongpalace",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6437642",
+      "restaurant_name": "Ayam Goreng Banjar",
+      "cuisine": [
+        "Indonesian",
+        "Fusion",
+        "Halal"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/6a/fd/81/ayam-goreng-banjar.jpg",
+      "rating": 4,
+      "address": "Jl. Abul Hasan no. 6, Samarinda Indonesia",
+      "latitude": "-0.498333",
+      "longitude": "117.14854",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10358962",
+      "restaurant_name": "El-Barilto Resto & Cafe",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/d5/3b/a4/20160703-204024-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. Sei Barito no. 1, Samarinda 75112 Indonesia",
+      "latitude": "-0.496654",
+      "longitude": "117.150475",
+      "contact_number": "+62 541 7240849",
+      "website": "https://elbarilto.wordpress.com/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10262349",
+      "restaurant_name": "Roti Durian Panglima",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/3d/a6/13/img20190420142957-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. Juanda no. 55a, Samarinda 75124 Indonesia",
+      "latitude": "-0.474448",
+      "longitude": "117.13606",
+      "contact_number": "+62 822-2000-2237",
+      "website": "http://rotidurianpanglima.co.id/",
+      "opening_hours": [
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 1260
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11706494",
+      "restaurant_name": "Coto Makassar Marannu",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/6f/64/4a/two-different-coto.jpg",
+      "rating": 4,
+      "address": "Jl. D.I. Panjaitan, Samarinda 75117 Indonesia",
+      "latitude": "-0.4619",
+      "longitude": "117.18498",
+      "contact_number": "+62 813-4754-1510",
+      "website": "https://www.facebook.com/pages/Coto-Makassar-Marannu/108539215883043?rf=189227301149017",
+      "opening_hours": [
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1290
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8404017",
+      "restaurant_name": "Kedai Sabindo",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/8d/0e/5f/img-20160310-213450-hdr.jpg",
+      "rating": 4,
+      "address": "Jl. Letjend R.Soeprapto no. 5D, Samarinda 75123 Indonesia",
+      "latitude": "-0.472332",
+      "longitude": "117.13972",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6437644",
+      "restaurant_name": "Martabak Banjar",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/e1/03/bb/img-20160412-192659-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. P Hidayatullah, Samarinda Indonesia",
+      "latitude": "-0.5017",
+      "longitude": "117.1541",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8800732",
+      "restaurant_name": "RM Torani",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/5d/ea/4a/rm-torani.jpg",
+      "rating": 3.5,
+      "address": "Jln. Jend Gatot Subroto No. 268, Samarinda 75117 Indonesia",
+      "latitude": "-0.480244",
+      "longitude": "117.1554",
+      "contact_number": null,
+      "website": "http://rumahmakantorani.blogspot.com/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12981035",
+      "restaurant_name": "D'Penyetz & D'Cendol AWS",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/4b/b9/getlstd-property-photo.jpg",
+      "rating": 4.5,
+      "address": "Jl. AW Syahranie No. 23, Samarinda 75124 Indonesia",
+      "latitude": "-0.464073",
+      "longitude": "117.13947",
+      "contact_number": "+62 822-9596-8899",
+      "website": "https://www.facebook.com/dpenyetzaws.smd/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "23942357",
+      "restaurant_name": "Moeara Eatery And Hub",
+      "cuisine": [
+        "American",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/92/aa/9a/caption.jpg",
+      "rating": 5,
+      "address": "Jl Re Martadinata N0. 17, Samarinda 75128 Indonesia",
+      "latitude": "-0.500642",
+      "longitude": "117.13481",
+      "contact_number": "+62 811-5839-111",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7266924",
+      "restaurant_name": "Mie Jogja Pak Karso",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/f9/30/21/mie-jogja-pak-karso.jpg",
+      "rating": 4,
+      "address": "Jl. Slamet Riyadi no. 06 RT. 04, Samarinda 75124 Indonesia",
+      "latitude": "-0.5056",
+      "longitude": "117.11964",
+      "contact_number": "+62 541 7074731",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8809365",
+      "restaurant_name": "Ichiban Sushi",
+      "cuisine": [
+        "Japanese",
+        "Sushi",
+        "Vegetarian Friendly"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/55/ec/0d/img-20150923-160339-largejpg.jpg",
+      "rating": 4,
+      "address": "Jln. Pangeran Suropati no. 8 Big Mall Lt. GF/CT-028, Samarinda 75126 Indonesia",
+      "latitude": "-0.475171",
+      "longitude": "117.12297",
+      "contact_number": "+62 541 4112586",
+      "website": "http://www.ichibansushi.co.id/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9565393",
+      "restaurant_name": "Depot Anggrek (Sop Buntut Mahakama)",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/74/a6/3b/photo0jpg.jpg",
+      "rating": 4,
+      "address": "Jln. Laks Yos Sudarso no. 22, Samarinda 75113 Indonesia",
+      "latitude": "-0.503593",
+      "longitude": "117.14759",
+      "contact_number": "+62 541 731516",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6017540",
+      "restaurant_name": "Lipan Hill Restaurant and Cafe",
+      "cuisine": [
+        "International",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/05/c2/b9/17/lipan-hill-restaurant.jpg",
+      "rating": 4,
+      "address": "Jl. Cipto Mangunkusumo Gunung Lipan, Samarinda 75136 Indonesia",
+      "latitude": "-0.53957",
+      "longitude": "117.10863",
+      "contact_number": "+62 541 263660",
+      "website": "https://www.facebook.com/lipan.hill.samarinda/",
+      "opening_hours": [
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1500
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9560345",
+      "restaurant_name": "Rumah Makan Bemo",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/3e/01/6b/terong-balado.jpg",
+      "rating": 4,
+      "address": "Jln. Gunung Arjuna, Samarinda 75122 Indonesia",
+      "latitude": "-0.49926",
+      "longitude": "117.14045",
+      "contact_number": "+62 541 731694",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8550350",
+      "restaurant_name": "A&W Plaza Mulia",
+      "cuisine": [
+        "International"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/08/dc/f6/69/a-w-plaza-mulia.jpg",
+      "rating": 3.5,
+      "address": "Jl. Bhayangkara no. 58, Samarinda Indonesia",
+      "latitude": "-0.49077",
+      "longitude": "117.14556",
+      "contact_number": "+62 541 7770882",
+      "website": "http://awdelivery.co.id",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4610310",
+      "restaurant_name": "Lezat Baru Restaurant",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/04/a8/87/c2/lezat-baru-restaurant.jpg",
+      "rating": 4,
+      "address": "Jl Mulawarman, Samarinda 75112 Indonesia",
+      "latitude": "-0.50337",
+      "longitude": "117.15331",
+      "contact_number": "+62 541 743031",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 900
+          },
+          {
+            "open": 1080,
+            "close": 1260
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10626885",
+      "restaurant_name": "RM. Ayam Gepuk Asli Ponorogo",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/d9/9d/c8/ayam-gepuk-super-pedasnya.jpg",
+      "rating": 4,
+      "address": "Jln. KS.Tubun no. 26, Samarinda 75123 Indonesia",
+      "latitude": "-0.494287",
+      "longitude": "117.1439",
+      "contact_number": "+62 541 735210",
+      "website": "http://www.ayamgepukponorogo.com",
+      "opening_hours": [
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 420,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10313057",
+      "restaurant_name": "Vin'Z Ice Cream",
+      "cuisine": [
+        "Fast Food"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/f6/8c/98/the-ice-cream.jpg",
+      "rating": 4,
+      "address": "Jl. Arif Rahman Hakim no. 14, Samarinda Indonesia",
+      "latitude": "-0.49355",
+      "longitude": "117.14428",
+      "contact_number": "+62 811-5832-822",
+      "website": "http://www.facebook.com/VinZ-Ice-Cream-265331963567712",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6488913",
+      "restaurant_name": "Kentucky Fried Chicken (Kfc)",
+      "cuisine": [
+        "American",
+        "Fast Food"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jl. S Parman No. 31, Samarinda Lembuswana, Samarinda Indonesia",
+      "latitude": "-0.47956",
+      "longitude": "117.15527",
+      "contact_number": "+62 541 206644",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8758357",
+      "restaurant_name": "R.M Nesmilo",
+      "cuisine": [
+        "Chinese",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/62/a5/da/rm-nesmilo.jpg",
+      "rating": 4.5,
+      "address": "Hidayatullah Street 18, Samarinda Indonesia",
+      "latitude": "-0.502884",
+      "longitude": "117.15791",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 480,
+            "close": 840
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 975
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 975
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 975
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 975
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 975
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 480,
+            "close": 975
+          },
+          {
+            "open": 1140,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8456859",
+      "restaurant_name": "RM Mahkota",
+      "cuisine": [
+        "Chinese"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/c3/76/26/mie-goreng-pangsit-fu.jpg",
+      "rating": 4.5,
+      "address": "Jln. Dermaga no. 20, Samarinda 75112 Indonesia",
+      "latitude": "-0.504438",
+      "longitude": "117.15319",
+      "contact_number": "+62 541 200953",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7593093",
+      "restaurant_name": "Suki Kita",
+      "cuisine": [
+        "Japanese"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jl. Jend A Yani 23 RT 017 Sungai Pinang Dalam, Samarinda Ilir, Samarinda 75117 Indonesia",
+      "latitude": "-0.475216",
+      "longitude": "117.16195",
+      "contact_number": "+62 541 737623",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6488917",
+      "restaurant_name": "Kentucky Fried Chicken (Kfc)",
+      "cuisine": [
+        "American",
+        "Fast Food"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/3c/65/bf/kentucky-fried-chicken.jpg",
+      "rating": 3.5,
+      "address": "Jl. Mulawarman No. 11, Samarinda Indonesia",
+      "latitude": "-0.503248",
+      "longitude": "117.15286",
+      "contact_number": "+62 21 14022",
+      "website": "http://www.instagram.com/kfc_samarinda/?hl=en",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6783478",
+      "restaurant_name": "RM Tahu Sumedang Renyah",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/88/c4/06/20160605-134955-largejpg.jpg",
+      "rating": 3.5,
+      "address": "Jl Samarinda-Bontang, Samarinda Indonesia",
+      "latitude": "-0.896349",
+      "longitude": "117.017914",
+      "contact_number": null,
+      "website": "http://tahusumedanggroup.blogspot.sg/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12058221",
+      "restaurant_name": "Frozento Cafe",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/fb/10/ba/tempat-enaaaak-untuk.jpg",
+      "rating": 4,
+      "address": "Jl. KH Abul Hasan no. 37, Samarinda Indonesia",
+      "latitude": "-0.496585",
+      "longitude": "117.14912",
+      "contact_number": "+62 812-1908-3361",
+      "website": "http://www.facebook.com/frozentocafe/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7161283",
+      "restaurant_name": "Warung Banjar Sari",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/d2/42/c5/warung-banjar-sari.jpg",
+      "rating": 4,
+      "address": "Jl. Dr. Suwondo no. 2 Near RS Umum A Wahab Sjahranie, Samarinda 75123 Indonesia",
+      "latitude": "-0.476241",
+      "longitude": "117.14461",
+      "contact_number": "+62 541 733070",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10438632",
+      "restaurant_name": "Yen's Delight Cafe & Resto",
+      "cuisine": [
+        "Fusion"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/be/6c/c7/cafe-resto-yen-s-delight.jpg",
+      "rating": 4,
+      "address": "Jl. Juanda 6 no. 35 A RT. 02, Samarinda 75124 Indonesia",
+      "latitude": "-0.475385",
+      "longitude": "117.13725",
+      "contact_number": "+62 541 202778",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "1942909",
+      "restaurant_name": "Dapurku",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/01/b7/3b/46/dapurku-samarinda.jpg",
+      "rating": 4.5,
+      "address": "Jln. Durian Kalimantan Timur, Samarinda 75123 Indonesia",
+      "latitude": "-0.5014",
+      "longitude": "117.15054",
+      "contact_number": "+62 625 41202041",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8497715",
+      "restaurant_name": "Cafe Dinda",
+      "cuisine": [
+        "Steakhouse"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/bd/01/92/cafe-dinda.jpg",
+      "rating": 4.5,
+      "address": "Jln. Mayjen Sutoyo, Samarinda 75117 Indonesia",
+      "latitude": "-0.47554",
+      "longitude": "117.16496",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9719472",
+      "restaurant_name": "Rumah Makan Iwak Bekunyung",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0b/a9/7d/5d/img-20160614-182238-largejpg.jpg",
+      "rating": 4,
+      "address": "Jln. Tengkawang Gang Botol Depan PLTD Tengkawang, Samarinda 75127 Indonesia",
+      "latitude": "-0.50175",
+      "longitude": "117.11437",
+      "contact_number": "+62 811-5576-555",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9865955",
+      "restaurant_name": "Depot Pontianak",
+      "cuisine": "Indonesian",
+      "image": null,
+      "rating": 4.5,
+      "address": "Jl. KH Abdul Hasan no. 42, Samarinda Indonesia",
+      "latitude": "-0.496585",
+      "longitude": "117.14912",
+      "contact_number": "+62 541 204012",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8394181",
+      "restaurant_name": "Ayam Bakar Uma' Ai",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/49/e7/ed/ayam-bakar-uma-ai.jpg",
+      "rating": 4.5,
+      "address": "Jln. Grilya no. 60A, Samarinda 75117 Indonesia",
+      "latitude": "-0.485225",
+      "longitude": "117.16721",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6783514",
+      "restaurant_name": "Hary Crab Pahlawan",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/b1/8f/b8/hary-crab-pahlawan.jpg",
+      "rating": 3.5,
+      "address": "Jln. Pahlawan no. 41, Samarinda 75121 Indonesia",
+      "latitude": "-0.48482",
+      "longitude": "117.148476",
+      "contact_number": null,
+      "website": "https://www.facebook.com/pages/Harry-Crab-Pahlawan/1955181318028473",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8497796",
+      "restaurant_name": "Starbucks Big Mall Samarinda",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/15/b5/dsc-0019-largejpg.jpg",
+      "rating": 4,
+      "address": "Jln. Pangeran Untung Suropati No 8, Samarinda 75126 Indonesia",
+      "latitude": "-0.525906",
+      "longitude": "117.11546",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6839186",
+      "restaurant_name": "ATM FRIED CHICKEN",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/21/7c/0b/rmatm-fried-chicken.jpg",
+      "rating": 4,
+      "address": "Jln. DI. Panjaitan NO. 48, Samarinda 75123 Indonesia",
+      "latitude": "-0.455223",
+      "longitude": "117.190315",
+      "contact_number": "+62 541 7778144",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4610363",
+      "restaurant_name": "Rumah Makan Ayam Gepuk",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4.5,
+      "address": "Jl. Prof Hm Yamin Sh RT 027, Samarinda Indonesia",
+      "latitude": "-0.45982",
+      "longitude": "117.15019",
+      "contact_number": "+62 541 753472",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7679454",
+      "restaurant_name": "Ta Wan Restaurant - Big Mall Samarinda",
+      "cuisine": [
+        "Chinese"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/e4/75/0d/ta-wan-restaurant.jpg",
+      "rating": 3.5,
+      "address": "Jl. Pangeran Untung Suropati No. 8 Big Mall Samarinda Groud Floor, CT-15,CT71-73, Samarinda 75126 Indonesia",
+      "latitude": "-0.525592",
+      "longitude": "117.11597",
+      "contact_number": "+62 541 6294754",
+      "website": "http://tawanrestaurant.com",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8489202",
+      "restaurant_name": "Ayam Bakar Wong Solo",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 3.5,
+      "address": "Jln. Slamet Riyadi, Samarinda 75124 Indonesia",
+      "latitude": "-0.50911",
+      "longitude": "117.11897",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12652431",
+      "restaurant_name": "Ayam Kepruk Mba Wanda",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/eb/2d/28/outlet.jpg",
+      "rating": 4.5,
+      "address": "Jl. Wahid Hasyim I, Samarinda 75243 Indonesia",
+      "latitude": "-0.43593",
+      "longitude": "117.149",
+      "contact_number": "+62 812-5862-0363",
+      "website": "https://web.facebook.com/ayamkeprukMW",
+      "opening_hours": [
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1290
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8059551",
+      "restaurant_name": "Sari Bhoga Seafood Restaurant",
+      "cuisine": [
+        "Chinese",
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/30/df/84/lrm-export-20180603-142252.jpg",
+      "rating": 4.5,
+      "address": "Jln. Kemakmuran No. 30, Samarinda 75117 Indonesia",
+      "latitude": "-0.479174",
+      "longitude": "117.16398",
+      "contact_number": "+62 541 772589",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14802844",
+      "restaurant_name": "Sgara Coffee",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/13/bb/f6/07/snack.jpg",
+      "rating": 5,
+      "address": "Jl. Wijaya Kusuma XII no.1, Samarinda 75117 Indonesia",
+      "latitude": "-0.48606",
+      "longitude": "117.13261",
+      "contact_number": "+62 813-4870-1212",
+      "website": "https://www.facebook.com/SgaraCoffe/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14068024",
+      "restaurant_name": "Go Grill",
+      "cuisine": [
+        "Asian",
+        "Korean"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/13/af/51/a4/terenakkkkkk.jpg",
+      "rating": 5,
+      "address": "Jl. KS Tubun No.6 Dadi Mulya, Samarinda 75242 Indonesia",
+      "latitude": "-0.492168",
+      "longitude": "117.13955",
+      "contact_number": "+62 811-5544-858",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6488813",
+      "restaurant_name": "Warung Jinggo",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/ce/2c/e5/img-20151219-224659-hdr.jpg",
+      "rating": 3.5,
+      "address": "Jl. Kh Agus Salim 6, Samarinda, Samarinda Indonesia",
+      "latitude": "-0.493767",
+      "longitude": "117.150826",
+      "contact_number": "+62 541 755941",
+      "website": "https://www.facebook.com/pages/Warung-Jinggo-Simpang-4-Pelita/614026998633809",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8818462",
+      "restaurant_name": "Lopecoffe",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/8c/31/be/lopecoffe.jpg",
+      "rating": 4,
+      "address": "Jln. Jend Gatot Subroto no. 21, Samarinda 75117 Indonesia",
+      "latitude": "-0.484975",
+      "longitude": "117.15526",
+      "contact_number": "+62 541 735034",
+      "website": "http://lopecoffee.com/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9715887",
+      "restaurant_name": "RM Sari Rasa",
+      "cuisine": [
+        "Chinese"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/19/1c/61/e5/with-my-wife.jpg",
+      "rating": 4,
+      "address": "Jln. H Agus Salim no. 26, Samarinda 75121 Indonesia",
+      "latitude": "-0.495016",
+      "longitude": "117.15035",
+      "contact_number": "+62 541 742771",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10507463",
+      "restaurant_name": "Depot 89 Pandan Harum",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/1a/d4/a4/bukber-reuni-smunsa-9801.jpg",
+      "rating": 4,
+      "address": "Jl. H. M. Kadrie Oening no. 61 RT. 21 Kelurahan Air Hitam, Samarinda 75124 Indonesia",
+      "latitude": "-0.471765",
+      "longitude": "117.13168",
+      "contact_number": "+62 812-5502-207",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10239386",
+      "restaurant_name": "Whynot Coffee & Pastry",
+      "cuisine": [
+        "Cafe",
+        "Asian",
+        "Indonesian",
+        "Healthy"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/75/ec/8d/barisan-pie-kami-green.jpg",
+      "rating": 4,
+      "address": "Jln. Pahlawan no. 7, Samarinda 75121 Indonesia",
+      "latitude": "-0.489097",
+      "longitude": "117.14627",
+      "contact_number": "+62 813-5209-7710",
+      "website": "http://www.facebook.com/whyntcoffee/",
+      "opening_hours": [
+        [
+          {
+            "open": 900,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 900,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 900,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 900,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 900,
+            "close": 1380
+          }
+        ],
+        [],
+        [
+          {
+            "open": 900,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7176349",
+      "restaurant_name": "NG Restaurant",
+      "cuisine": [
+        "Chinese",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/d2/0a/2c/breakfast-ng-restaurant.jpg",
+      "rating": 4.5,
+      "address": "Jl. Diponegoro 17-19, Samarinda Indonesia",
+      "latitude": "-0.501111",
+      "longitude": "117.151764",
+      "contact_number": "+62 541 735101",
+      "website": "http://www.hotelbumisenyiur.com/restaurants/ng-restaurant/#content",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "5229247",
+      "restaurant_name": "Kedai Mendoan Bu Bambang",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "Jln. Awang Long, Samarinda 75121 Indonesia",
+      "latitude": "-0.50002",
+      "longitude": "117.14397",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10784205",
+      "restaurant_name": "Kebab Turki Baba Rafi Ponegoro",
+      "cuisine": "Indonesian",
+      "image": null,
+      "rating": 4,
+      "address": "Jl. Ponegoro no. 33, Samarinda 75112 Indonesia",
+      "latitude": "-0.50237",
+      "longitude": "117.14994",
+      "contact_number": "+62 853-4841-5859",
+      "website": "http://www.facebook.com/kebabbabarafiponegoro",
+      "opening_hours": [
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 1080,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7178693",
+      "restaurant_name": "Saung Pasundan",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/ce/42/4e/seating-area.jpg",
+      "rating": 4,
+      "address": "Jl. A.W. Syahrani, Samarinda Indonesia",
+      "latitude": "-0.46976",
+      "longitude": "117.13853",
+      "contact_number": "+62 813-5358-8555",
+      "website": "http://www.saungpasundan.com",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14020946",
+      "restaurant_name": "Tranz Cafe",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/13/06/16/ff/img-20180421-191049-531.jpg",
+      "rating": 4,
+      "address": "Jl. Teuku Umar no. 1 Sungai Kunjang, Samarinda 75126 Indonesia",
+      "latitude": "-0.527649",
+      "longitude": "117.10848",
+      "contact_number": "+62 821-9955-999",
+      "website": "https://www.facebook.com/tranzcafe/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "16799841",
+      "restaurant_name": "Sambal Gami Khas Bontang",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/b9/36/e6/img-20190202-204336-largejpg.jpg",
+      "rating": 4.5,
+      "address": "Jl. RE Martadinata Samarinda Ulu, Samarinda 75243 Indonesia",
+      "latitude": "-0.50097",
+      "longitude": "117.13414",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "17454026",
+      "restaurant_name": "Dunamos Kitchen & Bistro",
+      "cuisine": [
+        "Italian",
+        "Japanese",
+        "Steakhouse",
+        "Cafe",
+        "International"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/17/8b/bf/88/dunamos-kitchen-bistro.jpg",
+      "rating": 4.5,
+      "address": "Jl. Tekukur No. 12A, Samarinda 75242 Indonesia",
+      "latitude": "-1.23122",
+      "longitude": "116.86558",
+      "contact_number": "+62 541 4121096",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 630,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "13477579",
+      "restaurant_name": "The Grill",
+      "cuisine": [
+        "Seafood",
+        "Asian",
+        "Diner",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/09/5a/c5/20180213-070454-largejpg.jpg",
+      "rating": 4.5,
+      "address": "Jl. Mayor Jendral S. Parman No.18 Temindung Permai, Samarinda Indonesia",
+      "latitude": "-0.500976",
+      "longitude": "117.14322",
+      "contact_number": "+62 541 4113066",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10038776",
+      "restaurant_name": "Soto Kuwin Khas Banjarmasin",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/3d/fc/75/soto-kuwin.jpg",
+      "rating": 4,
+      "address": "Jl. Bung Tomo, Samarinda Indonesia",
+      "latitude": "-0.50773",
+      "longitude": "117.14162",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9984167",
+      "restaurant_name": "Kopikumana",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0c/48/f0/aa/kopikumana.jpg",
+      "rating": 4,
+      "address": "62. Main street Pangeran Hidayatullah, Samarinda Near of aston hotel samarinda, Samarinda 75122 Indonesia",
+      "latitude": "-0.502126",
+      "longitude": "117.15538",
+      "contact_number": "+62 811-5837-993",
+      "website": null,
+      "opening_hours": [
+        [],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14827274",
+      "restaurant_name": "Gudeg Mbok Jayus",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/83/07/17/masakan-jawa.jpg",
+      "rating": 4,
+      "address": "Jl. Gunung Cermai, Samarinda 75122 Indonesia",
+      "latitude": "-0.49975",
+      "longitude": "117.13544",
+      "contact_number": "+62 852-4791-3790",
+      "website": "https://www.facebook.com/gudegmbokjayussmd/",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "17412234",
+      "restaurant_name": "Bakso Jawa",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/63/6b/8d/meatball.jpg",
+      "rating": 5,
+      "address": "Jl. Pahlawan No.11 Dadi Mulya, Samarinda Ulu, Samarinda 75242 Indonesia",
+      "latitude": "-0.486844",
+      "longitude": "117.1476",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "21296737",
+      "restaurant_name": "Kepiting Udik",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/1c/1d/62/41/kepiting-udik.jpg",
+      "rating": 5,
+      "address": "Jl. Gerilya, Sungai Pinang Dalam,, Samarinda 75117 Indonesia",
+      "latitude": "-0.483232",
+      "longitude": "117.17162",
+      "contact_number": "+62 852-5022-9986",
+      "website": "https://www.facebook.com/Kepiting-Udik-102661768023042/?ref=page_internal",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "10784198",
+      "restaurant_name": "BFC Ponegoro",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/4c/78/67/nasi-ayam.jpg",
+      "rating": 4,
+      "address": "Jl. Ponegoro no. 33, Samarinda 75112 Indonesia",
+      "latitude": "-0.50007",
+      "longitude": "117.15011",
+      "contact_number": "+62 853-4841-5859",
+      "website": "http://www.facebook.com/bfcponegorosamarinda",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "11787219",
+      "restaurant_name": "Republik Coffee",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0d/77/64/4d/getlstd-property-photo.jpg",
+      "rating": 4,
+      "address": "Jl. Kusuma Bangsa no. 7 & 8 Komplek Stadion Segiri, Samarinda 75117 Indonesia",
+      "latitude": "-0.492036",
+      "longitude": "117.14938",
+      "contact_number": "+62 541 412009",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "19453703",
+      "restaurant_name": "KopiSoe",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/1a/16/92/38/refreshing-drinks-that.jpg",
+      "rating": 5,
+      "address": "Jl. Kemakmuran No.28 Sungai Pinang Dalam, Sungai Pinang, Samarinda 75242 Indonesia",
+      "latitude": "-0.478502",
+      "longitude": "117.164375",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7248880",
+      "restaurant_name": "Tahu Tek Tek AWS",
+      "cuisine": "Indonesian",
+      "image": null,
+      "rating": 4.5,
+      "address": "AW. Syahranie, Samarinda Indonesia",
+      "latitude": "-0.45103",
+      "longitude": "117.14567",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15551739",
+      "restaurant_name": "Grill Bro",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/15/8b/92/a2/img-20181124-190952-largejpg.jpg",
+      "rating": 4.5,
+      "address": "Jl. P Antasari No.57 Tlk. Lerong Ulu, Sungai Kunjang, Samarinda 75126 Indonesia",
+      "latitude": "-0.49251",
+      "longitude": "117.12864",
+      "contact_number": "+62 822-1367-0202",
+      "website": "https://www.facebook.com/grillbro.smd/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12994034",
+      "restaurant_name": "Warunk Upnormal",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/12/63/8b/c4/warunk-upnormal.jpg",
+      "rating": 4,
+      "address": "Jl. Juanda No. 222, Samarinda Indonesia",
+      "latitude": "-0.47581",
+      "longitude": "117.13229",
+      "contact_number": "+62 852-5072-2200",
+      "website": "http://www.warunkupnormal.com",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9761504",
+      "restaurant_name": "Dapur Dusun",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/98/9f/07/dapur-dusun.jpg",
+      "rating": 4,
+      "address": "Kec. Sungai Pinang Jln. H Hasan Basri Indonesian Cuisin, Samarinda 75117 Indonesia",
+      "latitude": "-0.48026",
+      "longitude": "117.15305",
+      "contact_number": "+62 541 736844",
+      "website": "http://www.facebook.com/pages/Resto-Dapur-Desa-Samarinda/462627753827797",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12161249",
+      "restaurant_name": "Warong Selera Acil Inun's",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/78/ca/dd/sambal-raja-adalah-sambal.jpg",
+      "rating": 4,
+      "address": "Jl. Kadrie Onieng no. 100 Samping Komplek Erliza, Samarinda 75124 Indonesia",
+      "latitude": "-0.472639",
+      "longitude": "117.1275",
+      "contact_number": "+62 541 746622",
+      "website": "http://warongseleraacilinun.wordpress.com/",
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8368977",
+      "restaurant_name": "Ice Manias Indonesia Samarinda",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/2e/7a/93/getlstd-property-photo.jpg",
+      "rating": 4,
+      "address": "Jln. Sungai Lingai Lt. Ground di depan Tawan restoran, Samarinda 75126 Indonesia",
+      "latitude": "-0.526097",
+      "longitude": "117.11574",
+      "contact_number": null,
+      "website": "http://www.icemanias.co.id",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15125473",
+      "restaurant_name": "Warung Kopi Pelabuhan",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/43/59/91/kopi-susu-setelah-lari.jpg",
+      "rating": 4.5,
+      "address": "Jl. Pelabuhan Raya No. 27, Samarinda 75242 Indonesia",
+      "latitude": "-0.50876",
+      "longitude": "117.15552",
+      "contact_number": "+62 541 742226",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "19378390",
+      "restaurant_name": "BasoDa Resto & Cafe",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/19/f7/55/e2/basoda-resto-cafe.jpg",
+      "rating": 4,
+      "address": "Jl. Dr. Sutomo No.34 Sidodadi, Samarinda 75123 Indonesia",
+      "latitude": "-0.47956",
+      "longitude": "117.14681",
+      "contact_number": "+62 811-5828-497",
+      "website": "https://www.facebook.com/Basoda-Resto-Cafe-100838724670071/",
+      "opening_hours": [
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ],
+        [
+          {
+            "open": 570,
+            "close": 1350
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "9763826",
+      "restaurant_name": "Nasi Bebek Tugu Pahlawan Surabaya",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/23/c9/54/nasi-bebek-tugu-pahlawan.jpg",
+      "rating": 3.5,
+      "address": "Jln. Awang Long, Samarinda 75121 Indonesia",
+      "latitude": "-0.50002",
+      "longitude": "117.14397",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4610074",
+      "restaurant_name": "Bakso Raksasa",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": null,
+      "rating": 4,
+      "address": "JL. Jend A Yani 48, Samarinda Indonesia",
+      "latitude": "-0.470352",
+      "longitude": "117.170265",
+      "contact_number": "+62 541 757839",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "6532982",
+      "restaurant_name": "Golden Rama Restaurant",
+      "cuisine": [
+        "Chinese",
+        "International",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/cc/f3/77/nasi-kuning.jpg",
+      "rating": 4,
+      "address": "Jl. Pangeran Hidayatullah Aston Samarinda Hotel & Convention Center, Samarinda 75112 Indonesia",
+      "latitude": "-0.502828",
+      "longitude": "117.1565",
+      "contact_number": "+62 541 732600",
+      "website": "http://www.astonhotelsinternational.com/en/hotel/view/33/aston-samarinda-hotel---convention-center?",
+      "opening_hours": [
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 360,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "23608219",
+      "restaurant_name": "Kordinat Kitchen And Bar Samarinda",
+      "cuisine": [
+        "Steakhouse",
+        "Pizza",
+        "European",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/22/d1/28/52/kordinat-kitchen-and.jpg",
+      "rating": 5,
+      "address": "Jl. Untung Suropati No.8, Kel. Karang Asam Ulu., Samarinda Indonesia",
+      "latitude": "-0.529639",
+      "longitude": "117.11101",
+      "contact_number": "+62 895-3730-00888",
+      "website": "http://smd.kordinatcafe.com/menu/?ltclid=468c1bb6-7b05-421a-89a7-7ef5a32ffee1",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1260
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "8394197",
+      "restaurant_name": "Rumah Makan Iga dan Patin",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/08/49/e7/48/rumah-makan-iga-dan-patin.jpg",
+      "rating": 4,
+      "address": "Jln. K.H Achmad Dahlan no. 13, Samarinda 75117 Indonesia",
+      "latitude": "-0.492616",
+      "longitude": "117.15583",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "13172786",
+      "restaurant_name": "Salmont Coffee Expert",
+      "cuisine": [
+        "Cafe"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/18/67/7a/cf/salmont-coffee.jpg",
+      "rating": 4.5,
+      "address": "Jl. Cempedak, Samarinda Indonesia",
+      "latitude": "-0.49088",
+      "longitude": "117.12812",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12512436",
+      "restaurant_name": "RM Layar Mahakam",
+      "cuisine": [
+        "Seafood"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/0c/1b/2d/rm-layar-mahakam.jpg",
+      "rating": 4.5,
+      "address": "Jl. Imam Bonjol no. 11, Samarinda Indonesia",
+      "latitude": "-0.502101",
+      "longitude": "117.151764",
+      "contact_number": "+62 541 743311",
+      "website": "https://www.facebook.com/RM-Layar-Mahakam-908596172601355/",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14770888",
+      "restaurant_name": "Bebek & Ayam Goreng Sari Rasa Pak Ndut",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/9b/ae/7e/terdapat-saung-makan.jpg",
+      "rating": 4.5,
+      "address": "Jl. A.W. Syahranie 224 Air Hitam, Samarinda Ulu, Samarinda 75243 Indonesia",
+      "latitude": "-0.457203",
+      "longitude": "117.13969",
+      "contact_number": "+62 541 777252",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "12661839",
+      "restaurant_name": "Steak Abah",
+      "cuisine": [
+        "Steakhouse"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/11/b1/d7/c6/chess-chicken-steak.jpg",
+      "rating": 4.5,
+      "address": "Jl. Wijaya Kusuma VI No. 34A, Samarinda 75124 Indonesia",
+      "latitude": "-0.48578",
+      "longitude": "117.13258",
+      "contact_number": "+62 541 4119408",
+      "website": "https://web.facebook.com/steakabah",
+      "opening_hours": [
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 660,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "7981174",
+      "restaurant_name": "D'Beranda Resto & Cafe",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/09/78/7f/7b/d-beranda-resto-cafe.jpg",
+      "rating": 3.5,
+      "address": "Jln. RE. Martadinata no. 17, Samarinda 75128 Indonesia",
+      "latitude": "-0.499871",
+      "longitude": "117.13253",
+      "contact_number": "+62 541 741605",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "14494727",
+      "restaurant_name": "D'Penyetz & D'Cendol Samarinda",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/13/87/87/79/img-20180630-130631-largejpg.jpg",
+      "rating": 4,
+      "address": "Jl. Gatot Subroto Bandara, Sungai Pinang, Samarinda 75242 Indonesia",
+      "latitude": "-0.49059",
+      "longitude": "117.15307",
+      "contact_number": null,
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15681089",
+      "restaurant_name": "Sari Pasifik",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/5f/ae/62/lantai-2-untuk-acara.jpg",
+      "rating": 3.5,
+      "address": "Jl. Panglima Batur Blok A No.5-7 Pelabuhan, Samarinda 75242 Indonesia",
+      "latitude": "-0.501719",
+      "longitude": "117.147194",
+      "contact_number": "+62 541 743289",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "17376841",
+      "restaurant_name": "Kapok Lombok Resto",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/17/44/e9/5a/teras-depan-dan-ruangan.jpg",
+      "rating": 5,
+      "address": "Jl. Juanda No.6 Air Hitam, Samarinda Ulu, Samarinda 75243 Indonesia",
+      "latitude": "-0.47537",
+      "longitude": "117.137245",
+      "contact_number": "+62 813-4886-0750",
+      "website": "https://www.facebook.com/kapokllombokrestosmd/",
+      "opening_hours": [
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ],
+        [
+          {
+            "open": 540,
+            "close": 1020
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "18545026",
+      "restaurant_name": "Boncafe Steak & Ice Cream",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/25/7a/a3/4f/boncafe-steak-ice-cream.jpg",
+      "rating": 5,
+      "address": "Jl. Ahmad Yani No.10 Temindung Permai, Sungai Pinang, Samarinda 75117 Indonesia",
+      "latitude": "-0.477046",
+      "longitude": "117.15798",
+      "contact_number": "+62 821-5063-3311",
+      "website": "http://www.boncafekaltim.com/",
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1425
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "4610066",
+      "restaurant_name": "Bubur Ayam Banten",
+      "cuisine": [
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/c4/7e/bd/photo0jpg.jpg",
+      "rating": 3.5,
+      "address": "Jl Kh Agus Salim 54 Rt 018, Samarinda Ilir, Samarinda Indonesia",
+      "latitude": "-0.490653",
+      "longitude": "117.15318",
+      "contact_number": "+62 541 756792",
+      "website": null,
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "21298389",
+      "restaurant_name": "Kedai Opa",
+      "cuisine": [
+        "Cafe",
+        "Fast Food",
+        "Asian",
+        "Indonesian"
+      ],
+      "image": "https://media-cdn.tripadvisor.com/media/photo-w/1c/0e/8f/96/view-dalam-cafe.jpg",
+      "rating": 5,
+      "address": "Jl. Aga Khan Blok. D4, Samarinda Indonesia",
+      "latitude": "-0.5333",
+      "longitude": "117.08901",
+      "contact_number": "+62 853-8613-0432",
+      "website": "http://www.instagram.com/kedaiopa_cn",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "15592903",
+      "restaurant_name": "Taberu SCP",
+      "cuisine": "Indonesian",
+      "image": null,
+      "rating": 4,
+      "address": "Jl. Pulau Irian No. 1 Samarinda Central Plaza, UG fl., Samarinda 75242 Indonesia",
+      "latitude": "-0.502619",
+      "longitude": "117.155655",
+      "contact_number": "+62 541 6522000",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ],
+        [
+          {
+            "open": 600,
+            "close": 1320
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "20032469",
+      "restaurant_name": "Kopi Sajen",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/0e/7c/30/kopi-sajen.jpg",
+      "rating": 5,
+      "address": "Jl. Waris Husien, Samarinda 75242 Indonesia",
+      "latitude": "-0.503413",
+      "longitude": "117.149956",
+      "contact_number": "+62 811-9998-893",
+      "website": null,
+      "opening_hours": [
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ],
+        [
+          {
+            "open": 780,
+            "close": 1380
+          }
+        ]
+      ],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    },
+    {
+      "original_id": "17612817",
+      "restaurant_name": "Portable Kitchen & Bar",
+      "cuisine": "Indonesian",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/f0/b5/41/for-reception-08115800388.jpg",
+      "rating": 5,
+      "address": "Jl. Pulau Irian No. 1 Samarinda Central Plaza, UG Floor, Samarinda 75242 Indonesia",
+      "latitude": "-0.502619",
+      "longitude": "117.155655",
+      "contact_number": "+62 811-5800-388",
+      "website": "http://portablekitchen.id",
+      "opening_hours": [],
+      "city": "Samarinda",
+      "min_price": 0,
+      "max_price": 0
+    }
+  ]

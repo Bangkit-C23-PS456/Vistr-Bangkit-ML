@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Balikpapan",
+        "latitude":"-1.1956356",
+        "longitude":"116.7890657"
+    },
+    {
+        "id":2,
+        "name":"Berau",
+        "latitude":"1.8064601",
+        "longitude":"116.9407627"
+    },
+    {
+        "id":3,
+        "name":"Bontang",
+        "latitude":"0.136928",
+        "longitude":"117.4230775"
+    },
+    {
+        "id":4,
+        "name":"Kutai Kertanegara",
+        "latitude":"0.1991884",
+        "longitude":"114.0705966"
+    },
+    {
+        "id":5,
+        "name":"Penajam",
+        "latitude":"-1.1994175",
+        "longitude":"116.02138"
+    },
+    {
+        "id":6,
+        "name":"Samarinda",
+        "latitude":"-0.5093406",
+        "longitude":"117.0107187"
+    }
+]
