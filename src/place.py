@@ -3,6 +3,7 @@ import tensorflow as tf
 from sklearn.neighbors import NearestNeighbors
 import pandas as pd
 import numpy as np
+from route_maps import get_traffic_condition
 
 # Define a function to fetch data from the database and return it as a DataFrame
 todo = pd.read_json('./data/todo.json')
@@ -94,3 +95,4 @@ def recommend_places_with_traffic(activity, category, latitude, longitude, quant
         recommendations.append(recommendation)
 
     return {"place_recommendation": recommendations}
+
