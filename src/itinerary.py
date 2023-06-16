@@ -1,6 +1,6 @@
-from place import recommend_places
+from place import recommend_places, recommend_places_with_traffic
 from hotel import recommend_hotels
-from restaurant import recommend_restaurants, recommend_places_with_traffic
+from restaurant import recommend_restaurants
 
 def itinerary_left(activity, category, latitude, longitude):
   todo_recommendation = recommend_places(activity, category, latitude, longitude, 1)

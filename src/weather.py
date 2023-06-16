@@ -5,26 +5,26 @@ import numpy as np
 import pandas as pd
 
 # Load the saved model
-model_bal = load_model("./model/temp_balikpapan.h5")
-model_ber = load_model("./model/temp_berau.h5")
-model_bon = load_model("./model/temp_bontang.h5")
-model_kut = load_model("./model/temp_kutai.h5")
-model_pen = load_model("./model/temp_penajam.h5")
-model_sam = load_model("./model/temp_samarinda.h5")
+model_bal = load_model("model/temp_balikpapan.h5")
+model_ber = load_model("model/temp_berau.h5")
+model_bon = load_model("model/temp_bontang.h5")
+model_kut = load_model("model/temp_kutai.h5")
+model_pen = load_model("model/temp_penajam.h5")
+model_sam = load_model("model/temp_samarinda.h5")
 
-model_weather_bal = load_model("./model/weather_balikpapan.h5")
-model_weather_ber = load_model("./model/weather_berau.h5")
-model_weather_bon = load_model("./model/weather_bontang.h5")
-model_weather_kut = load_model("./model/weather_kutai.h5")
-model_weather_pen = load_model("./model/weather_penajam.h5")
-model_weather_sam = load_model("./model/weather_samarinda.h5")
+model_weather_bal = load_model("model/weather_balikpapan.h5")
+model_weather_ber = load_model("model/weather_berau.h5")
+model_weather_bon = load_model("model/weather_bontang.h5")
+model_weather_kut = load_model("model/weather_kutai.h5")
+model_weather_pen = load_model("model/weather_penajam.h5")
+model_weather_sam = load_model("model/weather_samarinda.h5")
 
-df_bal = pd.read_csv('./data/balikpapan_weather.csv')
-df_ber = pd.read_csv('./data/berau_weather.csv')
-df_bon = pd.read_csv('./data/bontang_weather.csv')
-df_kut = pd.read_csv('./data/kutai_weather.csv')
-df_pen = pd.read_csv('./data/penajam_weather.csv')
-df_sam = pd.read_csv('./data/samarinda_weather.csv')
+df_bal = pd.read_csv('data/balikpapan_weather.csv')
+df_ber = pd.read_csv('data/berau_weather.csv')
+df_bon = pd.read_csv('data/bontang_weather.csv')
+df_kut = pd.read_csv('data/kutai_weather.csv')
+df_pen = pd.read_csv('data/penajam_weather.csv')
+df_sam = pd.read_csv('data/samarinda_weather.csv')
 
 
 def predict_temperature(date, city):
