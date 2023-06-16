@@ -27,7 +27,7 @@ df_pen = pd.read_csv('./data/penajam_weather.csv')
 df_sam = pd.read_csv('./data/samarinda_weather.csv')
 
 
-def predict_temperature(date, year):
+def predict_temperature(date, city):
 
     if city == 'Balikpapan':
       model = model_bal
@@ -98,7 +98,7 @@ def predict_temperature(date, year):
         'date': date
     }
     
-def predict_weather(date, year):
+def predict_weather(date, city):
 
     if city == 'Balikpapan':
       model = model_weather_bal
