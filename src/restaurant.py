@@ -3,6 +3,7 @@ from sklearn.neighbors import NearestNeighbors
 import pandas as pd
 import numpy as np
 
+restaurant = pd.read_json('./data/restaurant.json')
 # Function to recommend restaurants based on latitude and longitude
 def recommend_restaurants(latitude, longitude, quantity):
 

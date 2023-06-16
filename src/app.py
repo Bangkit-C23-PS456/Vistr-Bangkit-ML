@@ -16,7 +16,7 @@ def recommend_places(activity: str = "Outdoor", category: str = "Beach", latitud
     return recommend_places(activity, category, latitude, longitude, 3)
 
 @app.route('/place_recommendation_with_traffic', methods=['POST'])
-def recommend_places(activity: str = "Outdoor", category: str = "Beach", latitude: float = -1.212555, longitude: float = 116.98106):
+def recommend_places_with_traffic(activity: str = "Outdoor", category: str = "Beach", latitude: float = -1.212555, longitude: float = 116.98106):
     return recommend_places_with_traffic(activity, category, latitude, longitude, 3)
 
 @app.route('/hotel_recommendation', methods=['POST'])
@@ -44,7 +44,7 @@ def traffic_condition(latitude_origin: float = -1.212555, longitude_origin: floa
     return get_traffic_condition(latitude_origin, longitude_origin, latitude_destination, longitude_destination)
 
 @app.route('/route_map', methods=['POST'])
-def route_map(latitude_origin: float = -1.212555, longitude_origin: float = 116.98106, latitude_destination: float = -1.212555, longitude_destination: float = 116.98106):
+def route_map(latitude_origin: float = -1.212555, longitude_origin: float = 116.98106, latitude_destination: float = -1.212555, longitude_destination: float = 116.92106):
     return create_route_description(latitude_origin, longitude_origin, latitude_destination, longitude_destination)
 
 @app.route('/temperature', methods=['POST'])
@@ -52,7 +52,7 @@ def predict_temperature(date: str = today.strftime('%Y-%m-%d'), city: str= 'Bali
     return predict_temperature(date, city)
 
 @app.route('/weather', methods=['POST'])
-def predict_temperature(date: str = today.strftime('%Y-%m-%d'), city: str= 'Balikpapan'):
+def predict_weather(date: str = today.strftime('%Y-%m-%d'), city: str= 'Balikpapan'):
     return predict_weather(date, city)
 
 

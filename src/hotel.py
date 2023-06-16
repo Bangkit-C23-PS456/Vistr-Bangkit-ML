@@ -3,12 +3,14 @@ from sklearn.neighbors import NearestNeighbors
 import pandas as pd
 import numpy as np
 
+
+hotel = pd.read_json('./data/hotel.json')
 # Function to recommend restaurants based on latitude and longitude
 def recommend_hotels(latitude, longitude, quantity):
 
      # Calculate the distance between the user's location and the places' locations
-     hotel["distance"] = tf.sqrt(
-         tf.square(hotel["latitude"] - latitude) + tf.square(hotel["longitude"] - longitude)
+     hotel['distance'] = np.sqrt(
+        np.square(hotel['latitude'] - latitude) + np.square(hotel['longitude'] - longitude)
      )
 
      # Takes latitude, longitude, rating, and distance columns as features

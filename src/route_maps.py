@@ -3,7 +3,7 @@ import requests
 import json
 
 # Replace 'YOUR_API_KEY' with your actual API key
-api_key = ''
+api_key = 'AIzaSyAuEU_3xLOkirCxYw9Thz2Lq2C4AWHm7TE'
 
 # Create a client instance
 gmaps = googlemaps.Client(api_key)
