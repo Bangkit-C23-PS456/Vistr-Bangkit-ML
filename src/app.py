@@ -4,6 +4,10 @@ from hotel import recommend_hotels
 from restaurant import recommend_restaurants
 from itinerary import itinerary_left, itinerary_with_traffic
 from route_maps import create_route_description, get_traffic_condition
+from weather import predict_temperature, predict_weather
+
+from datetime import date
+today = date.today()
 
 app = Flask(__name__)
 
@@ -38,6 +42,14 @@ def traffic_condition(latitude_origin: float = -1.212555, longitude_origin: floa
 @app.route('/route_map', methods=['POST'])
 def route_map(latitude_origin: float = -1.212555, longitude_origin: float = 116.98106, latitude_destination: float = -1.212555, longitude_destination: float = 116.98106):
     return create_route_description(latitude_origin, longitude_origin, latitude_destination, longitude_destination)
+
+@app.route('/temperature', methods=['POST'])
+def predict_temperature(date: str = today.strftime('%Y-%m-%d'), city: str= 'Balikpapan'):
+    return predict_temperature(date, city)
+
+@app.route('/weather', methods=['POST'])
+def predict_temperature(date: str = today.strftime('%Y-%m-%d'), city: str= 'Balikpapan'):
+    return predict_weather(date, city)
 
 
 if __name__ == '__main__':
