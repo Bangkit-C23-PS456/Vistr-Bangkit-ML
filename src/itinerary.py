@@ -48,3 +48,20 @@ def itinerary_with_traffic(activity, category, latitude, longitude):
           'restaurant_recommendation':[]
       }
 
+def itinerary_by_date(activity, latitude, longitude, start_date, end_date, quantity_per_day):
+
+    date_range = pd.date_range(start=start_date, end=end_date, freq='D')
+    data = []
+    data_route = []
+
+    for index, date in enumerate(date_range):
+        current_date = date.strftime('%Y-%m-%d')
+        result = recommend_places_activity(activity, latitude, longitude, quantity_per_day)['place_recommendation']
+        data.append({current_date: {
+            'date': current_date,
+            'todo': result
+        }})
+        data_route.append(result)
+    
+
+    return data
